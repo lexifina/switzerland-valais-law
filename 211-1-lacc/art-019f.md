@@ -5,3 +5,4 @@
 3 La personne aux compétences particulières ne peut pas faire partie:
 a) d'un service officiel de la curatelle;
 b) d'une autre entité professionnelle.
+1.2.1.3c Responsabilité civile

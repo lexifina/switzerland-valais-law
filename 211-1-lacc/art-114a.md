@@ -4,3 +4,4 @@
 a) les décisions incidentes, y compris celles qui concernent l'assistance judiciaire;
 b) les décisions d'irrecevabilité;
 c) les décisions ordonnant la radiation du rôle.
+1.3.2.2.6 …

@@ -4,5 +4,5 @@ a) disposer des aptitudes et des connaissances spéciales requises pour leur mis
 b) être titulaires:
 1. d'un titre d’une haute école ou d’une école supérieure notamment dans les domaines de la psychologie, de la pédagogie, du travail social, de la comptabilité ou de la gestion financière des biens, ou
 2. d'un titre jugé équivalent avec expérience professionnelle utile à la fonction;
-c) produire à l'autorité d'engagement un extrait récent des poursuites et un extrait récent ordinaire et spécial du casier judiciaire. Cette démarche est renouvelée tous les 2 ans ou lorsque l'autorité d'engagement l'estime nécessaire.
+c) produire à l'autorité d'engagement un extrait récent des poursuites et du casier judiciaire, ainsi qu’un extrait récent spécial du casier judiciaire. A l'exception de la production de l'extrait spécial du casier judiciaire, cette démarche est renouvelée tous les 2 ans ou lorsque l'autorité d'engagement l'estime nécessaire.
 2 Le Conseil d'Etat peut édicter des recommandations à l'égard des communes concernant le profil, les exigences et le nombre de mandats des curateurs et tuteurs du service officiel de la curatelle.

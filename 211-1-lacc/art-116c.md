@@ -1,2 +1,3 @@
-# Art. 116c Entraide administrative
-1 Les autorités administratives cantonales et communales et les tribunaux sont tenus de fournir gratuitement à l'autorité de protection les documents nécessaires et de communiquer les informations requises, à moins que des intérêts dignes de protection ne s'y opposent.
+# Art. 116c Concours des autorités et des tiers
+1 Les tribunaux, les autorités de poursuite pénale, les services administratifs cantonaux et communaux, les établissements publics et privés, les personnes actives dans le domaine médical aux conditions des articles 314e alinéa 3 CC et 448 alinéa 2 CC ou social, les autorités scolaires ainsi que les collaborateurs des institutions privées et semi-privées s'occupant d'enfants sont tenus de fournir gratuitement à l'autorité de protection, sur demande, les documents et informations nécessaires, à moins que des intérêts dignes de protection ne s'y opposent.
+1.3.2.2.6a Procédure devant les autorités de protection de l'enfant et de l'adulte
