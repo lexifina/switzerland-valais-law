@@ -1,0 +1,36 @@
+721.802
+Arrêté
+sur l'utilisation des bisses dérivant l'eau des rivières concessionnées
+du 17.10.1924 (état 17.10.1924)
+Le Conseil d'Etat du canton du Valais
+à la requête de l'Union des industriels valaisans;
+vu la loi assurant le droit d'utilisation industrielle des rivières concédées du 27 mai 1898;
+vu la loi du 1
+er
+décembre 1877, article 8 alinéa 8, mettant sous la compétence du Conseil d'Etat le régime des eaux;
+vu les dispositions générales concernant la police des eaux;
+voulant assurer la protection des industries utilisant les forces hydrauliques,
+arrête:
+Art.
+1
+1
+La période d'irrigation avec libre droit d'usage des bisses et canaux par les consortages ou les propriétaires, lorsque l'eau est dérivée d'une rivière concessionnée, est fixée du 15 avril au 1
+er
+octobre.
+Art.
+2
+1
+En dehors de cette période, l'usage des bisses en saison morte est subordonné à l'autorisation du Conseil d'Etat, laquelle ne sera accordée qu'exceptionnellement dans les cas d'absolue nécessité, pour des motifs relevants et après audition des intéressés.
+Art.
+3
+1
+L'autorisation prévue par l'article précédent n'est valable que pour autant que les motifs qui l'ont provoquée subsistent et devra être sollicitée à nouveau chaque fois que le renouvellement en serait justifié.
+Art.
+4
+1
+En accordant l'autorisation, le Conseil d'Etat fixera chaque fois, selon les circonstances, la quantité d'eau qui pourra être dérivée par le bisse et la durée de l'emploi.
+Art.
+5
+1
+Le présent arrêté entre immédiatement en vigueur.
+RCV RO/AGS 1923-1925 f 178 | d 161
