@@ -1,0 +1,18 @@
+451.313
+Décision concernant la protection de l'adonis du printemps sur le territoire de la commune de Tourtemagne
+du 06.04.1944 (état 16.04.1944)
+Le Conseil d'Etat du canton du Valais
+vu la requête de la commune de Tourtemagne du 21 mars 1944 par laquelle elle sollicite l'interdiction du ramassage de l'adonis du printemps dans certaines régions de son territoire;
+vu le préavis de l'inspecteur forestier du IVe arrondissement du 27 mars 1944;
+en application de l'article 4 de l'arrêté du Conseil d'Etat concernant la protection des plantes sauvages du 3 avril 1936;
+sur la proposition du Département forestier,
+décide:
+Art.
+1
+1
+Il est interdit de cueillir, d'endommager et de déraciner l'adonis du printemps (adonis vernalis) sur tout le territoire de la commune de Tourtemagne.
+Art.
+2
+1
+Les contraventions à la présente décision seront punies par le Département forestier conformément à l'article 7 de l'arrêté du Conseil d'Etat du 3 avril 1936.
+RCV RO/AGS 1944 f 26 | d 27
