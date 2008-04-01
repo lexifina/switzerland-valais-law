@@ -1,0 +1,6 @@
+# Art. 85a
+1 Les députés au Conseil des Etats sont nommés directement par le peuple lors des élections pour le renouvellement ordinaire du Conseil national. Ces élections se font avec le système majoritaire dans tout le canton formant un seul arrondissement électoral.
+2 La nomination des députés au Conseil des Etats a lieu par un même scrutin de liste. Si les nominations ne sont pas terminées au jour fixé pour les élections, elles seront reprises le deuxième dimanche qui suit. Dans ce cas, le résultat de la première opération et l'avis de reprise des opérations seront publiés immédiatement.
+3 Si tous les députés ne réunissent pas la majorité absolue au premier tour de scrutin, il est procédé à un second tour. Sont élus au second tour ceux qui ont réuni le plus grand nombre de voix, alors même qu'ils n'auraient pas obtenu la majorité absolue. Toutefois, si, au deuxième tour, le nombre de députés à élire correspond au nombre de candidats proposés, ceux-ci sont proclamés élus, sans scrutin. L'élection tacite s'applique également au premier tour des scrutins de remplacement lorsqu'il n'y a qu'un seul candidat et un seul poste à repourvoir.
+4 Si le nombre des citoyens qui ont obtenu la majorité absolue dépasse celui des citoyens à élire, ceux qui ont obtenu le plus grand nombre de voix sont nommés.
+5 En cas d'égalité de suffrage, le sort décide.
