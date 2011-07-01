@@ -1,0 +1,3 @@
+# Art. 30a Treizième salaire
+1 Le versement du dernier sixième du treizième salaire est suspendu.
+2 Par voie de décision, le Grand Conseil peut lever cette mesure si la situation du ménage financier de l'Etat le permet.
