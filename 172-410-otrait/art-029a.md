@@ -1,0 +1,6 @@
+# Art. 29a Service de piquet - Définition
+1 Le service de piquet oblige le personnel à se tenir à disposition de son employeur en dehors de l'horaire ordinaire de travail, de manière à ce qu'il soit immédiatement disponible en cas de nécessité.
+2 Le service de piquet consiste en un service d'attente ou un service de présence.
+3 En cas de service d'attente, le personnel doit se tenir à son domicile ou aux environs de celui-ci et être atteignable.
+4 En cas de service de présence, le personnel doit se tenir dans un lieu de travail ou de repos déterminé.
+5 Le service de piquet est autorisé dans les unités d'organisation mentionnées à l'article 29 ainsi que dans les autres unités d'organisation désignées par le Conseil d'Etat.

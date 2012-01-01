@@ -1,0 +1,2 @@
+# Art. 25f Congé paternité
+1 Un congé paternité de dix jours ouvrables est accordé sur présentation de la copie de l'extrait de naissance ou de la reconnaissance en paternité, à prendre dans les deux mois qui suivent la date de l’accouchement ou le retour de l’enfant au domicile familial en cas d’hospitalisation prolongée de celui-ci.
