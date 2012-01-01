@@ -1,0 +1,2 @@
+# Art. 19d Sanctions pénales
+1 Celui qui, sciemment, par des indications fausses ou incomplètes, orales ou écrites, ou de toute autre manière, obtient ou tente d’obtenir pour lui-même ou pour autrui, des prestations d’aide financière indues ou celui qui, au bénéfice d'une aide financière, aura sciemment omis de signaler à l'autorité un changement de situation pouvant entraîner la modification de l'aide, est puni d’une amende pouvant aller jusqu’à 10'000 francs au plus, à moins d'encourir une peine plus sévère en vertu du Code pénal suisse.
