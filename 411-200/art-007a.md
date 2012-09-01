@@ -1,0 +1,2 @@
+# Art. 7a Participation de la commune de domicile
+1 La commune de domicile verse une participation annuelle de 2'000 francs par élève à titre de frais d’écolage à la commune, respectivement à l’association de communes, accueillant des élèves en école partenaire du sport (ci-après: EPS) ou en enseignement immersif et paie les frais de transport de l’élève. Elle participe aux frais de repas selon les règles en vigueur au niveau communal.
