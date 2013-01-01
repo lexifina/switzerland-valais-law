@@ -1,0 +1,2 @@
+# Art. 15c Organes
+1 Les organes de Valais/Wallis Promotion sont l’assemblée générale, le comité et l’organe de révision. Les affaires sont conduites par une direction.
