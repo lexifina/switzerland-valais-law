@@ -1,0 +1,4 @@
+# Art. 230a Coordination des procédures
+1 Lorsqu’un projet implique plusieurs autorisations relevant d’autorités distinctes, les décisions spéciales sont intégrées dans une décision globale rendue par l’autorité cantonale de la procédure décisive, contre laquelle une seule voie de recours est ouverte.
+2 En cas de contradictions et à défaut de conciliation, l’autorité de la procédure décisive tranche.
+3 Les décisions sont notifiées séparément, mais de manière simultanée, quand une attraction de compétences n’est pas réalisable, notamment quand la décision de la procédure décisive est communale.
