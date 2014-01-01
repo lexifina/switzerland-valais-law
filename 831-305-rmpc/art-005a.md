@@ -1,0 +1,3 @@
+# Art. 5a Contribution d'assistance de l'AI ou de l'AVS
+1 Lorsque le montant des frais remboursés est augmenté en vertu de l'article 14 alinéa 4 LPC ou de l'article 19b OPC, la contribution d'assistance de l'AI ou de l'AVS est portée en déduction des frais de soins et d'assistance dûment établis selon l'article 15. Le montant remboursé ne doit pas être inférieur au montant maximum prévu à l'article 14 alinéa 3 LPC.
+2 Si une personne assurée ne fait pas valoir son droit à la contribution d'assistance ou si elle renonce d'une autre manière à la percevoir, seuls les frais d'aide, de soin et d'assistance à domicile qui ne peuvent pas être indemnisés par la contribution d'assistance sont pris en compte.
