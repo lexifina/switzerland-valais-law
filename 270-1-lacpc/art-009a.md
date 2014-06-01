@@ -1,0 +1,3 @@
+# Art. 9a Assistance financière à la partie indigente en médiation
+1 Dans les affaires civiles, l'Etat avance les frais de la médiation pour les parties qui ne disposent pas des moyens nécessaires et lorsque l'autorité judiciaire recommande le recours à la médiation.
+2 Le Conseil d'Etat réglemente les dispositions nécessaires à l'exécution de l'alinéa qui précède. Il fixe notamment l'indemnité horaire du médiateur dans les cas d'assistance financière, désigne l'autorité compétente pour le financement des prestations accordées et règle leur remboursement lorsque la situation économique de la partie assistée s'est améliorée.
