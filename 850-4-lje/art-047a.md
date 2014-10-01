@@ -1,0 +1,4 @@
+# Art. 47a Mesures restreignant la liberté des mineurs
+1 Tout mineur qui contrevient intentionnellement à une prescription réglant la vie commune au sein de l’établissement, à un ordre de l’autorité de placement, de la direction ou du personnel de l’établissement peut faire l’objet de sanctions disciplinaires.
+2 Les éléments constitutifs d’une infraction disciplinaire, les types de sanctions disciplinaires ainsi que les règles de conduite et les mesures de sûreté sont réglés par une ordonnance du Conseil d’Etat.
+3 Le prononcé et l’exécution des mesures restreignant la liberté durant la détention relevant du droit pénal des mineurs ou du droit relatif à la protection de l’enfant dans les institutions d’éducation spécialisée au sens de l’article 43 sont réglés par une ordonnance du Conseil d’Etat.
