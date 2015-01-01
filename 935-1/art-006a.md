@@ -1,0 +1,2 @@
+# Art. 6a Tâches des entreprises de tourisme communales ou intercommunales
+1 Les communes peuvent créer des entreprises de tourisme communales ou intercommunales dans le but d'optimiser et de professionnaliser le développement du tourisme local, notamment dans le domaine de la promotion touristique. Dans ce sens, ces entreprises de tourisme exécutent les tâches que leur délèguent les communes par décision de délégation, avec leur accord.
