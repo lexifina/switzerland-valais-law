@@ -1,0 +1,3 @@
+# Art. 2b Adaptation
+1 Si le marché du travail le demande, et la situation financière et économique du canton le permet, le Conseil d'Etat peut, par voie d'ordonnance, augmenter d'une manière adéquate le traitement fixé par le plan de classement, jusqu'à un maximum de 5 pour cent.
+2 Sur proposition du Conseil d'école respectif, le Conseil d'Etat peut augmenter exceptionnellement, pour des cas particuliers, le traitement annuel fixé dans la présente loi jusqu'à concurrence de 20 pour cent. Le Conseil d'Etat informe annuellement la commission des finances dans son rapport de gestion des cas particuliers.
