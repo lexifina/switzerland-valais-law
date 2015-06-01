@@ -1,0 +1,18 @@
+# Art. 20a Installations solaires
+1 Conformément aux dispositions légales de la législation fédérale sur l'aménagement du territoire, dans les zones à bâtir et les zones agricoles, les installations solaires suffisamment adaptées aux toits à pan(s) ne nécessitent pas d'autorisation de construire. Le droit communal peut prévoir, dans des types précisément définis de zones à protéger (par exemple ensemble bâti d'importance locale), une obligation d'autorisation. Le droit communal peut en outre, dans le respect du droit fédéral, désigner des quartiers ou secteurs dans lesquels s'appliquent des dispositions concrètes traitant de l'intégration des installations solaires et régissant les conditions d'une dispense d'autorisation de construire.
+2 Dans les zones à bâtir et les zones agricoles, les installations solaires suffisamment adaptées aux toits plats sont dispensées d'autorisation de construire. Le droit communal peut cependant prévoir une obligation d'autorisation. Les installations solaires sont considérées suffisamment adaptées aux toits plats si les conditions suivantes sont réunies:
+a) hauteur maximale au-dessus de l'acrotère: 50 centimètres;
+b) retrait minimal par rapport au bord de la toiture (éventuel avant-toit non compris): 50 centimètres;
+c) hauteur maximale au-dessus de l'acrotère au retrait minimum: 20 centimètres; puis selon une pente de 30 degrés jusqu'à 50 centimètres;
+d) champs de panneaux parallèles les uns avec les autres;
+e) faible réflexion selon l'état des connaissances techniques.
+3 Dans les zones industrielles, commerciales ou artisanales, les installations solaires suffisamment adaptées aux façades sont dispensées d'autorisation de construire. Le droit communal peut cependant prévoir une obligation d'autorisation. Les installations solaires sont considérées suffisamment adaptées aux façades si les conditions suivantes sont réunies:
+a) forme rectangulaire d'un seul tenant;
+b) plans des panneaux parallèles à la façade;
+c) dépassement maximum de 20 centimètres perpendiculairement au revêtement de façade;
+d) pas de dépassement de la façade, vu de face;
+e) surface minimale de 100 mètres carrés ou d'au minimum 30 pour cent de la surface de la façade;
+f) faible réflexion selon l'état des connaissances techniques.
+4 Les installations solaires sur des biens culturels ou dans des sites naturels d'importance cantonale ou nationale sont toujours soumises à une autorisation de construire; elles ne doivent pas porter d'atteinte majeure à ces biens ou sites.
+5 Les projets dispensés d'autorisation doivent être annoncés avant le début des travaux à l'autorité délivrant les autorisations de construire. L'annonce doit être faite dans un délai de 30 jours avant le début des travaux.
+6 Les plans et autres documents à joindre à l'annonce ainsi que le nombre d'exemplaires sont fixés par une directive élaborée par le département en charge des constructions. Les documents comprennent les éléments d'information utiles et nécessaires pour vérifier le respect des conditions de dispense d'autorisation.

@@ -1,0 +1,3 @@
+# Art. 52a Affichage de l'attestation de l'autorisation de construire
+1 Le bénéficiaire d'une autorisation de construire doit afficher dès le début et pour la durée des travaux l'attestation de l'autorisation de construire à l'entrée du chantier, à un endroit bien visible.
+2 Cette attestation comporte le numéro du dossier, le nom du bénéficiaire, le numéro de parcelle ou l'indication du lieu, l'objet de l'autorisation, la date de sa délivrance et la durée de validité. Son contenu est identique à celui de la première page de l'autorisation de construire.
