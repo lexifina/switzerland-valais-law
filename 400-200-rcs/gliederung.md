@@ -1,0 +1,17 @@
+## 1 Programme de construction
+### 1.1 Planification générale et réservation des terrains
+### 1.2 Ordre de priorité
+### 1.3 Centralisation et décentralisation
+### 1.4 Programme de réalisation
+## 2 Normes de construction
+### 2.1 Généralités
+### 2.2 Dimensions et aménagement des salles de classe
+### 2.3 Salles de gymnastique
+### 2.4 Bibliothèques et médiathèques
+### 2.5 Aménagements extérieurs
+## 3 Procédure
+## 4 Taux et modalités de la subvention
+### 4.1 Etendue de la subvention
+### 4.2 Taux de subventionnement
+### 4.3 Mode de subventionnement
+## 5 Dispositions diverses et finales
