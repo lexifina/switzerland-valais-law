@@ -1,0 +1,3 @@
+# Art. 62e Restitution des terrains
+1 Après 12 ans, les propriétaires ont droit à la restitution de leurs terrains dans un Etat convenable au sens de la loi fédérale sur le bail à ferme agricole du 4 octobre 1985 pour les baux, respectivement au sens du Code suisse des obligations pour les prêts.
+2 Le Syndicat peut continuer d'exister si la majorité des exploitants en décident ainsi au cours d'une assemblée générale spécialement convoquée à cet effet et si les propriétaires du périmètre concerné donnent leur accord à cette prolongation selon les mêmes modalités que pour la décision de l'oeuvre initiale.
