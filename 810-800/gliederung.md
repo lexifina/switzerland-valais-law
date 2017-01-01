@@ -1,5 +1,6 @@
 ## 1 Dispositions générales
 ## 2 Planification et coordination
-## 3 Surveillance
+## 3 Autorisation et surveillance
 ## 4 Financement
-## 5 Dispositions diverses et finales
+## 5 Tarif, information et plaintes
+## T1 Dispositions transitoires
