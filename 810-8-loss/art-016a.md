@@ -1,0 +1,6 @@
+# Art. 16a Factures contestées
+1 Lorsqu'une facture de secours est contestée, l'entreprise de secours peut la soumettre à l'OCVS.
+2 L'OCVS est assimilée à une autorité administrative cantonale autorisée à rendre des décisions ordonnant le paiement de sommes d’argent en matière de secours au sens de la présente loi. Une fois passées en force, ses décisions sont assimilées à des jugements exécutoires au sens de l'article 80 de la loi fédérale sur la poursuite pour dettes et la faillite (LP) (art. 37 de la loi sur la procédure et la juridiction administrative, LPJA).
+3 Lorsqu'une facture de secours contestée lui est transmise, l'OCVS entend la personne débitrice, contrôle le bien-fondé de la facture et rend une décision fixant les frais retenus à charge de la personne bénéficiaire des secours.
+4 Les frais retenus se basent sur les conventions en force entre les fournisseurs de prestations et les assureurs maladie ou accident, conformément aux dispositions de la LAMal respectivement de la LAA, ainsi que sur les moyens nécessaires engagés. L'OCVS peut reconnaître des factures jusqu'à concurrence d'un montant global de 100'000 francs au maximum par personne secourue.
+5 La décision de l'OCVS peut faire l'objet d'une réclamation écrite dans les 30 jours dès sa notification (art. 34a al. 2 LPJA). L'autorité de recours est en instance unique le Tribunal cantonal.
