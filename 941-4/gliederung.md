@@ -1,7 +1,7 @@
 ## 1 Champ d'application et autorités d'exécution
-## 2 Commerce des substances explosibles et des engins pyrotechniques destinés à des buts professionnels
+## 2 Commerce des substances explosibles et des engins pyrotechniques destinés à des buts professionnels ou de divertissement
 ## 3 Commerce particulier et emploi spécial
-## 4 Permis d'acquisition
+## 4 Permis d'acquisition et autorisation de mise à feu
 ## 5 Permis d'emploi
 ## 6 Surveillance et contrôle
 ## 7 Protection et sécurité
