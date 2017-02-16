@@ -5,6 +5,6 @@ a) aider le bénéficiaire à se réinsérer socialement ou économiquement;
 b) fixer ou modifier des prestations ou en réclamer la restitution ou le remboursement;
 c) prévenir les versements indus;
 d) faire valoir une prétention financière en qualité d'organe subrogé dans les droits d'un bénéficiaire de l'aide sociale.
-3 L’abus d’aide sociale est assimilé à un abus d’assurance sociale. En ce sens, les articles 11 et 12 de la loi fédérale sur le travail au noir sont applicables. Ainsi, les autorités d’aide sociale collaborent avec les organes de contrôle cantonaux et peuvent recevoir le résultat des contrôles effectués.
+3 …
 4 Le Service cantonal des contributions communique, sur demande, aux autorités fédérales, cantonales et communales, tous les renseignements nécessaires à la demande en remboursement des articles 21 et suivants et à l’application de l’article 20 de la présente loi.
 5 Les différentes autorités administratives et judiciaires qui, dans l’exercice de leur fonction, auraient connaissance d’un abus d’aide sociale sont tenues de le dénoncer.

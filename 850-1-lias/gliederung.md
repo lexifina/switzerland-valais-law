@@ -2,6 +2,7 @@
 ## 2 Organisation de l'aide sociale
 ## 3 Prestations
 ## 4 Procédure et recours
+## 4a Inspection spécialisée
 ## 5 Répartition des charges
 ## 5a Sanctions dans les prestations d'aide sociale
 ## 6
@@ -14,3 +15,4 @@
 ### 7.4 Subvention aux centres médicosociaux
 ## 8 Dispositions finales
 ## T1 Disposition transitoire de la modification du 17.03.2011
+## T2 Disposition transitoire de la modification du 16.02.2017

@@ -2,7 +2,8 @@
 1 Les prestations d'aide financière peuvent être réduites à titre de sanction, si le bénéficiaire d’aide sociale ne collabore pas pleinement au recouvrement de son autonomie sociale ou financière. C’est le cas notamment si le bénéficiaire:
 a) n'a pas transmis, intentionnellement, les informations nécessaires au calcul précis de son droit à l'aide sociale;
 b) a caché des ressources financières qu'il a perçues durant une période d'aide sociale;
-c) a refusé une mesure d'insertion raisonnablement exigible ou n'a pas collaboré avec les organismes chargés de son insertion.
+c) a refusé une mesure d'insertion raisonnablement exigible ou n'a pas collaboré avec les organismes chargés de son insertion;
+d) a refusé de collaborer avec le service chargé des enquêtes.
 2 La réduction se justifie également si le bénéficiaire refuse de restituer une prestation sociale ou d'assurance sociale perçue avec effet rétroactif pour une période durant laquelle il bénéficiait des prestations d'aide financière.
 3 Les ressources financières, auxquelles la personne renonce ou dont elle se dessaisit, peuvent être partiellement ou entièrement prises en compte comme revenu dans le budget.
 4 En principe, sauf motif indépendant du comportement du demandeur, l’octroi des prestations matérielles de l’aide sociale est soumis à l’exécution des mesures imposées par l’article 11 alinéa 3.
