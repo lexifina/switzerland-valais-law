@@ -1,0 +1,3 @@
+# Art. 59a Droit de participation du canton lors d'une première utilisation de forces hydrauliques communales
+1 Lorsqu’une commune utilise pour la première fois des forces hydrauliques dont elle dispose, le canton a le droit d’acquérir une participation de 30 pour cent au maximum dans la société hydroélectrique. Il participe aux coûts d’investissements liés au nouvel aménagement hydroélectrique proportionnellement à son pourcentage de participation.
+2 En cas d’auto-utilisation par la commune qui dispose de la force ou si la prise d’une participation dans la société hydroélectrique paraît inopportune, le canton a le droit de prélever la même quantité d’énergie qu’à l’alinéa 1 et aux mêmes conditions.

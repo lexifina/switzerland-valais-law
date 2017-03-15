@@ -1,0 +1,4 @@
+# Art. 59d Modalités d'exercice du droit de préemption
+1 Sous réserve du pourcentage maximum mentionné à l’article 59b alinéa 1, le droit de préemption s’exerce au prix de vente convenu avec le tiers acquéreur et sans l’obligation supplémentaire de respecter d’autres modalités contractuelles éventuelles convenues avec ce tiers.
+2 Le droit de préemption du canton s’applique en cas de vente ou de tout autre acte juridique équivalant économiquement à une vente. La commune qui dispose de la force informe sans délai le canton de la conclusion d’un contrat de vente ou d’un acte juridique similaire.
+3 Le canton fait valoir son droit de préemption envers la commune qui dispose de la force au plus tard dans les 270 jours suivant la prise de connaissance du contenu du contrat de vente valide et au moyen d’une déclaration sans réserve ni condition. Faute de quoi, il sera déchu de son droit.

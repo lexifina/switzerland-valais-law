@@ -1,0 +1,9 @@
+# Art. 59c Droit de préemption du canton lors d'utilisation de forces hydrauliques communales dans des aménagements existants
+1 Indépendamment des droits mentionnés à l’article 59b, le canton dispose d’un droit de préemption à hauteur de 30 pour cent au maximum sur:
+a) les participations détenues par les communes qui disposent de la force dans des sociétés hydroélectriques utilisant des forces hydrauliques communales;
+b) les parts de copropriété détenues par les communes qui disposent de la force sur des aménagements faisant retour;
+c) les droits de prélèvement d'énergie appartenant aux communes qui disposent de la force.
+2 Le droit de préemption porte sur la différence entre le pourcentage maximum susmentionné et le pourcentage des participations, parts de copropriété et droits de prélèvement d’énergie détenus par des communes qui disposent de la force ou d’autres corporations valaisannes de droit public, respectivement par des personnes morales contrôlées par des corporations valaisannes de droit public.
+3 Les personnes morales au sens de l’alinéa 2 sont tenues de s’assurer de la position dominante des corporations valaisannes de droit public au sein de la société hydroélectrique.
+4 Les communes qui disposent de la force peuvent, de leur côté, invoquer ledit droit de préemption lorsque le canton ou les corporations privilégiées au sens de l’alinéa 2, respectivement personnes morales, veulent aliéner leurs participations, parts de copropriété ou droits de prélèvement au sens de l’alinéa 1.
+5 Lorsque des communes qui disposent de la force renoncent entièrement ou partiellement à exercer leur droit de retour ou à acquérir un maximum de 30 pour cent de participations dans des sociétés hydroélectriques, elles doivent s’assurer, au plus tard lors de l’octroi de la concession de droits d’eau, que le canton puisse prélever une quantité d’énergie équivalente à celle prévue à l’alinéa 2.
