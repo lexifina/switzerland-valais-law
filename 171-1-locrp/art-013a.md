@@ -1,0 +1,5 @@
+# Art. 13a Procédure
+1 La personne qui se trouve dans un cas de récusation avise sans retard la présidence du Grand Conseil ou de la commission et en indique le motif. Elle quitte la salle de séance pour la durée de l'examen de l'objet concerné, après l'annonce de la présidence à ce sujet.
+2 La récusation est consignée au rôle ou au procès-verbal.
+3 En cas de contestation au sein d'une commission, le bureau tranche définitivement la question.
+4 Les contestations en séance plénière sont soulevées par motion d'ordre.
