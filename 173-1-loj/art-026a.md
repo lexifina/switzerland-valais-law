@@ -1,3 +1,3 @@
-# Art. 26a Ministère public des mineurs
-1 Les tâches confiées au ministère public des mineurs par la loi fédérale sur la procédure pénale applicable aux mineurs sont de la compétence du ministère public ordinaire.
-2 Le bureau du ministère public peut affecter un ou plusieurs procureurs au traitement des affaires relevant de la juridiction pénale des mineurs.
+# Art. 26a Procureur extraordinaire
+1 En cas d'empêchement, ou s'il existe un autre motif important, le bureau du ministère public peut nommer et assermenter, pour traiter d'une cause, un procureur extraordinaire choisi hors du corps du ministère public du canton du Valais. Dans ce cas, le procureur extraordinaire doit satisfaire aux conditions de l'article 27.
+2 En cas d'empêchement ou de récusation de tous les membres du bureau du ministère public, le procureur extraordinaire est élu et assermenté par le Grand Conseil.

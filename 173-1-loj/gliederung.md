@@ -7,3 +7,4 @@
 ## 5 Organisation du ministère public
 ## 6 Exercice des fonctions de juge ou procureur
 ## 7 Dispositions diverses, finales et transitoires
+## T1 Disposition transitoire de la modification du 16.02.2017
