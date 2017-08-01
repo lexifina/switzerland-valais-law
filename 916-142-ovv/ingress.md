@@ -2,11 +2,11 @@
 (OVV)
 du 17.03.2004
 Le Conseil d'Etat du canton du Valais
-vu la loi fédérale sur l'agriculture du 29 avril 1998 (LAgr);
-vu la loi fédérale sur les denrées alimentaires et les objets usuels du 20 juin 2014 (LDAl);
-vu l'ordonnance fédérale sur la viticulture et l'importation de vin du 14 novembre 2007 (ordonnance sur le vin, OVin);
-vu l'ordonnance du DFI sur les boissons du 16 décembre 2016 (OB);
-vu l'ordonnance fédérale sur les denrées alimentaires et les objets usuels du 16 décembre 2016 (ODAIOUs);
-vu la loi cantonale sur l'agriculture et le développement rural du 8 février 2007 (LcAgr);
-sur la proposition du département en charge de l'économie,
-ordonne:
+vu la loi fédérale sur l'agriculture du 29 avril 1998 (Loi sur l'agriculture, LAgr);
+vu l'ordonnance fédérale sur la viticulture et l'importation de vin du 7 décembre 1998 (Ordonnance sur le vin);
+vu la loi fédérale sur les denrées alimentaires et les objets usuels du 9 octobre 1992 (Loi sur les denrées alimentaires, LDAl) et l'ordonnance fédérale du 1er mars 1995 sur les denrées alimentaires;
+vu l'ordonnance du Conseil fédéral sur le contrôle du commerce des vins du 28 mai 1997;
+vu la loi cantonale sur l'agriculture du 28 septembre 1993 (LcAgr);
+vu la loi cantonale concernant la protection des données à caractère personnel du 28 juin 1984 (LIPDA);
+sur proposition du Département des finances, de l'agriculture et des affaires extérieures,
+arrête:
