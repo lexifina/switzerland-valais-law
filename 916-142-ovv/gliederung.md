@@ -5,10 +5,9 @@
 ## 5 Cépages et porte-greffes
 ## 6 Classement des lots de vendanges et des vins
 ## 7 Vinification
-## 8 Désignations des vins AOC et termes vinicoles spécifiques
+## 8 Dénominations traditionnelles des vins AOC
 ### 8.1 Vins blancs AOC
 ### 8.2 Vins rouges ou rosés AOC
-### 8.3 Termes vinicoles spécifiques
 ## 9 Dénominations et étiquetage
 ### 9.1 Dénominations spécifiques
 ### 9.2 Dénominations d'origine
@@ -17,7 +16,7 @@
 ### 10.1 Généralités
 ### 10.2 Contrôle de la vigne et de l'évolution de la maturation du raisin
 ### 10.3 Contrôle qualitatif et quantitatif de la vendange
-### 10.4 …
+### 10.4 Contrôle de la cave
 ### 10.5 Dégustation
 ### 10.6 …
 ## 11 Grand Cru
