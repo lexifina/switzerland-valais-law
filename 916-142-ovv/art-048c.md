@@ -4,4 +4,4 @@ a) pour le vin blanc, jusqu'à 14.5 pour cent vol;
 b) pour le vin rouge et le vin rosé, jusqu'à 15 pour cent vol.
 2 L’augmentation du titre alcoométrique volumique naturel ne peut dépasser 2.5 pour cent vol.
 3 Le vin doit présenter, après les éventuelles opérations d’enrichissement précitées, un titre alcoométrique volumique acquis non inférieur à 8.5 pour cent vol.
-4 Il est en outre renvoyé aux prescriptions de l’ordonnance du DFI sur les boissons.
+4 Il est en outre renvoyé aux prescriptions de l’article 4 alinéa 5 de l’ordonnance fédérale sur les boissons alcooliques, ainsi que de l’appendice 14 de son annexe 2.
