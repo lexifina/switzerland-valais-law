@@ -6,7 +6,7 @@
 ### 3.3 Gestion et administration
 ## 4 Relations avec l'extérieur
 ## 5 Conférences institutionnelles
-## 6 Activités accessoires des magistrats
+## 6 Liens d'intérêts et activités accessoires des magistrats
 ## 7 Surveillance et mesures disciplinaires
 ### 7.1 Généralités
 ### 7.2 Procédure disciplinaire
