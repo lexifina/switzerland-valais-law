@@ -1,15 +1,18 @@
-## 1 L'Office de l'enseignement spécialisé
-## 2 Le personnel enseignant spécialisé
-## 3 Mesures scolaires et éducatives
-### 3.1 L'appui pédagogique intégré
-### 3.2 Les classes à effectif réduit
-### 3.3 Les classes d'observation et d'adaptation du niveau primaire
-### 3.4 Les classes d'observation et d'adaptation du cycle d'orientation
-### 3.5 Les classes de préapprentissage
-## 4 Les institutions scolaires spécialisées
-## 5 L'organisation des mesures particulières
-### 5.1 …
-### 5.2 Le soutien pédagogique durant la scolarité obligatoire
-### 5.3 Le soutien pédagogique dans le cadre de la formation post-scolaire
-### 5.4 L'enseignement à domicile ou en établissement hospitalier
-## 6 Dispositions finales
+## 1 Dispositions générales
+## 2 L'Office de l'enseignement spécialisé
+## 3 Le personnel enseignant
+## 4 Mesures scolaires et éducatives
+### 4.1 Mesures d'aide
+### 4.2 Mesures ordinaires d’enseignement spécialisé
+#### 4.2.1 Appui pédagogique intégré du cycle 1 et 2
+#### 4.2.2 Appui pédagogique intégré au cycle 3 (CO)
+#### 4.2.3 Classes d’observation du CO
+#### 4.2.4 Classes de préapprentissage
+### 4.3 Mesures renforcées d’enseignement spécialisé
+#### 4.3.1 Appui pédagogique renforcé du cycle 1-2-3
+#### 4.3.2 Classes spécialisées
+#### 4.3.3 Classes d’adaptation du cycle 3 (CO)
+#### 4.3.4 Les écoles spécialisées
+## 5 Guichet unique et coordination des mesures particulières
+## 6 Voies de droit
+## T1 Disposition transitoire
