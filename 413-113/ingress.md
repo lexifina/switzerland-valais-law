@@ -1,4 +1,4 @@
-# Règlement relatif à l'examen complémentaire permettant aux titulaires d'un certificat fédéral de maturité professionnelle d'être admis aux hautes écoles universitaires
+# Règlement relatif à l'examen complémentaire permettant aux titulaires d'un certificat fédéral de maturité professionnelle ou d'un certificat de maturité spécialisée reconnu au niveau suisse d'être admis aux hautes écoles universitaires
 du 24.02.2016
 Le Conseil d'Etat du canton du Valais
 vu la loi sur l'instruction publique du 4 juillet 1962;
