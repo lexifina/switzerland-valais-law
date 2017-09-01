@@ -1,6 +1,8 @@
-# Art. 15c Structure des mandats de prestations
-1 Pour chaque objectif politique, groupe de produits et produit, les trois niveaux de mandats de prestations décrivent d'une manière spécifique:
-a) les objectifs à atteindre;
-b) les actions prioritaires (priorités);
-c) les critères (indicateurs) de qualité et de performance permettant d'évaluer la réalisation des objectifs;
-d) les ressources financières et humaines nécessaires, en fonction des objectifs, priorités et indicateurs fixés.
+# Art. 15c Principes
+1 Des mandats de prestations politiques, stratégiques et opérationnels par unité organisationnelle sont définis dans le cadre de la planification intégrée pluriannuelle et du budget.
+a) …
+b) …
+c) …
+d) …
+2 Des rapports de controlling, établis lors du compte, font état de la mise en œuvre des trois niveaux de mandats de prestations.
+3 La planification intégrée pluriannuelle, de même que les mandats de prestations politiques, stratégiques et opérationnels et leurs rapports de controlling constituent les instruments de direction et de gestion de base de l'Etat et de son administration.
