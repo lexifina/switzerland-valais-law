@@ -1,18 +1,26 @@
 ## 1 Dispositions générales
-## 2 Instruments de planification et de construction: notions et portée
-## 3 Conditions préalables à la construction: autorisation de construire, coordination et subordination à une autorisation de construire
-## 4 Exigences relatives aux projets de construction
-### 4.1 Protection et aménagement du paysage et de l'environnement
-### 4.2 Réalisation de la construction
-### 4.3 Exceptions
-## 5 Procédure d'autorisation de construire et police des constructions
-### 5.1 Généralités
-### 5.2 Procédure d'autorisation de construire
-### 5.3 Publication - Enquête publique
-### 5.4 Procédure d'opposition
-### 5.5 Décision préalable
-### 5.6 Décision
-### 5.7 Recours
-### 5.8 Police des constructions
-## 6 Peines
-## 7 Dispositions transitoires et finales: modification et abrogation d'actes législatifs et entrée en vigueur
+## 2 Règles de construction
+### 2.1 Généralités
+### 2.2 Règles sur la mesure d'utilisation du sol
+#### 2.2.1 Distances
+#### 2.2.2 Hauteur
+#### 2.2.3 Etages
+#### 2.2.4 Indices
+#### 2.2.5 Ordre des constructions
+#### 2.2.6 Contrôle du respect des règles de construction et registre
+### 2.3 Règles sur l'intégration, l'aspect général et environnement
+### 2.4 Prescriptions techniques
+## 3 Autorisation de construire
+### 3.1 Dispositions générales
+### 3.2 Demande de renseignements et demande de décision préalable
+### 3.3 Procédure d'autorisation de construire
+#### 3.3.1 Demande d'autorisation de construire
+#### 3.3.2 Publication et mise à l'enquête publique
+#### 3.3.3 Opposition
+#### 3.3.4 Décision
+#### 3.3.5 Recours
+## 4 Police des constructions
+## 5 Dispositions pénales
+## 6 Frais et dépens
+## 7 Disposition finale
+## T1 Disposition transitoire
