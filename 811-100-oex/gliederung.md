@@ -11,5 +11,5 @@
 ## 3 Surveillance des professions de la santé
 ### 3.1 Commission de surveillance
 ### 3.2 Procédure devant la commission de surveillance
-### 3.3 Médiateur
+### 3.3 …
 ## 4 Dispositions transitoires et finales
