@@ -1,7 +1,8 @@
 # Ordonnance de la loi sur la police cantonale
-(OPolCant)
-du 01.10.1986
+(OPol)
+du 20.12.2017
 Le Conseil d'Etat du canton du Valais
-vu les articles 8 et 29 de la loi sur la police cantonale du 20 janvier 1953;
-sur la proposition du Département de la sécurité et des institutions,
+vu la loi sur la police cantonale du 11 novembre 2016 (LPol);
+vu l'article 89 de la loi sur l'organisation des Conseils et les rapports entre les pouvoirs du 28 mars 1996 (LOCRP);
+sur la proposition du Département de la sécurité, des institutions et du sport,
 ordonne:
