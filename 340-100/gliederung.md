@@ -11,6 +11,7 @@
 ## 6 Travail - Formation - Rémunération
 ## 7 Droits du détenu
 ## 8 Procédure
-## 9 Exécution des peines par journées séparées et sous le régime de la semi-détention
+## 9 …
 ## 10 Détention provisoire ou détention pour des motifs de sûreté
 ## 11 Dispositions finales
+## T1 Disposition transitoire de la modification du 27.09.2017
