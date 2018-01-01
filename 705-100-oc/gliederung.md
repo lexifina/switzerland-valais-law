@@ -1,22 +1,24 @@
-## 1
-### 1.1 Généralités
-### 1.2 Notions et portée
-### 1.3 Equipement
-## 2 Procédure d'inventaire communal des objets dignes de protection
-## 3 La procédure d'autorisation de construire
-### 3.1 Conditions relatives à la construction
-### 3.2 Organes cantonaux
-### 3.3 Demande d'autorisation de construire
-### 3.4 Examen préliminaire
-### 3.5
-#### 3.5.1 Décision de la commune
-#### 3.5.2 Décision de la commission cantonale des constructions
-#### 3.5.3 Décision préalable
-#### 3.5.4 Notification
-### 3.6 Validité de l'autorisation de construire
-### 3.7 Dispositions particulières
+## 1 Dispositions générales
+## 2 Règles de construction
+### 2.1 Généralités
+### 2.2 Règles sur la mesure d’utilisation du sol
+#### 2.2.1 Distances
+#### 2.2.2 Hauteur
+#### 2.2.3 Etages
+#### 2.2.4 Indices
+### 2.3 Règles sur l’intégration, l’aspect général et l’environnement
+## 3 Autorisation de construire
+### 3.1 Dispositions générales
+#### 3.1.1 Assujettissement à une autorisation de construire
+#### 3.1.2 Organes cantonaux
+### 3.2 Demande de renseignements et demande de décision préalable
+### 3.3 Procédure d’autorisation de construire
+#### 3.3.1 Demande d’autorisation de construire
+#### 3.3.2 Publication et mise à l’enquête publique
+#### 3.3.3 Opposition
+#### 3.3.4 Décision
+#### 3.3.5 Validité de l’autorisation de construire
+#### 3.3.6 Début des travaux, achèvement des travaux et modifications du projet
 ## 4 Police des constructions
-## 5 Compétence de l'autorité de surveillance et conseils
-## 6 Emoluments et frais
-## 7 Dispositions transitoires et finales
+## T1 Disposition transitoire
 ## A1 Annexe 1
