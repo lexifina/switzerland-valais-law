@@ -1,0 +1,2 @@
+# Art. 22a Rapport spécifique du réviseur bancaire
+1 Eu égard à la garantie de l'Etat, le réviseur bancaire établit chaque année à l'attention du Conseil d'Etat un rapport spécifique portant sur la présentation de la situation des fonds propres de la banque, les méthodes de détermination et d'appréciation des risques, et la vérification des provisions et des amortissements, ainsi que la possibilité de distribuer des dividendes.
