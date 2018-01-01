@@ -1,0 +1,6 @@
+# Art. 13a Observatoire valaisan de la santé
+1 L'observatoire valaisan de la santé est chargé de rassembler et d'analyser les données d'intérêt sanitaire. Il est notamment en charge des relevés statistiques fédéraux et cantonaux dans le domaine sanitaire.
+2 Il rend disponibles les informations recueillies auprès des autorités, des professionnels et du public.
+3 L'observatoire valaisan de la santé est un établissement de droit public autonome.
+4 Les dépenses retenues de l'observatoire valaisan de la santé sont prises en charge par le canton.
+5 Le Conseil d'Etat règle, pour le surplus, dans une ordonnance, la composition de l'observatoire, ses activités, son fonctionnement et son financement, ainsi que la coordination avec le département en charge de la statistique cantonale.
