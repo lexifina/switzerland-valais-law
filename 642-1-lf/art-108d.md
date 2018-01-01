@@ -1,0 +1,4 @@
+# Art. 108d Administration
+1 Les personnes domiciliées à l'étranger, qui sont membres de l'administration ou de la direction de personnes morales ayant leur siège ou leur administration effective dans le canton, doivent l'impôt sur les tantièmes, les jetons de présence, les indemnités fixes, participations de collaborateur et autres rémunérations similaires qui leur sont versés.
+2 Les personnes domiciliées à l'étranger, qui sont membres de l'administration ou de la direction d'entreprises étrangères ayant un établissement stable dans le canton, doivent l'impôt sur les tantièmes, les jetons de présence, les indemnités fixes, participations de collaborateur et autres rémunérations similaires qui leur sont versés par l'intermédiaire de l'établissement stable.
+3 Le taux de l'impôt est fixé à dix pour cent du revenu brut pour le canton et à dix pour cent pour la commune.

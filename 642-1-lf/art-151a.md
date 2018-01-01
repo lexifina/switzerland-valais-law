@@ -1,0 +1,6 @@
+# Art. 151a 4. Instruction
+1 La commission cantonale de recours en matière d'impôt n'est pas liée par les conclusions des parties. Elle dispose d'un pouvoir d'examen illimité en fait et en droit et peut modifier la décision en défaveur du recourant après avoir entendu celui-ci.
+2 Elle ordonne d'office dans le cadre de l'instruction toutes les mesures d'enquête nécessaires, notamment le dépôt de pièces, l'audition des parties ou de témoins, l'aménagement d'expertises et d'inspections des lieux.
+3 Pour l'audition de personnes entendues à titre de renseignements ou de témoins, sont applicables, par analogie, les dispositions de l'article 18a de la loi sur la procédure et la juridiction administratives.
+4 Lors d'inspections des lieux, le contribuable, de même que ses ayants droit, son locataire, et toute autre personne au bénéfice d'un droit de possession doivent permettre à la commission d'accéder aux immeubles, bâtiments et locaux, dans la mesure nécessaire au traitement du recours.
+5 Si le recourant ne comparaît pas pour une audition ou une inspection des lieux, s'il ne dépose pas un moyen de preuve requis, ou s'il s'oppose d'une manière ou d'une autre à une mesure d'enquête, il pourra être statué sur la base du dossier, sans mesures d'instruction complémentaires.

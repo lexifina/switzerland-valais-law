@@ -1,0 +1,6 @@
+# Art. 239a b) Liquidation de sociétés immobilières
+1 L'impôt sur le bénéfice en capital réalisé, lors du transfert d'un immeuble à l'actionnaire par une société immobilière fondée avant le 1er janvier 1995, bénéficie d'une réduction de 75 pour cent si la société est dissoute. L'article 106, alinéa 3, n'est pas applicable.
+2 L'impôt sur l'excédent de liquidation obtenu par l'actionnaire est réduit dans la même proportion.
+3 La liquidation et la radiation de la société immobilière doivent intervenir au plus tard au 31 décembre 2003.
+4 Lorsque l'actionnaire acquiert d'une société immobilière d'actionnaires-locataires, en propriété par étages et contre cession de ses droits de participation, la part de l'immeuble dont l'usage est lié aux droits cédés, l'impôt sur le bénéfice en capital réalisé par la société est réduit de 75 pour cent si la société a été fondée avant le 1er janvier 1995. En outre, le transfert de l'immeuble à l'actionnaire doit être inscrit au registre foncier au plus tard au 31 décembre 2003. A ces conditions, l'impôt sur l'excédent de liquidation obtenu par l'actionnaire est réduit dans la même proportion.
+5 Si l'immeuble est revendu dans les deux ans qui suivent son transfert à l'actionnaire, la réduction accordée en vertu de l'alinéa 2 est rappelée en application de l'article 158.

@@ -1,0 +1,3 @@
+# Art. 241f Réduction du dividende sur une participation privée
+1 L'article 33d s'applique jusqu'à l'entrée en vigueur de la modification du 23 mars 2007 de la loi fédérale du 14 décembre 1990 sur l'harmonisation des impôts directs des cantons et des communes.
+2 …

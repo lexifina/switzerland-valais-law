@@ -1,0 +1,2 @@
+# Art. 138a Emoluments dans la procédure de taxation
+1 Le Service cantonal des contributions perçoit dans le cadre de la procédure de taxation des émoluments administratifs pour le traitement d'une demande individuelle ou collective de prolongation de délai, pour l'envoi d'une sommation, pour des avis préalables et des renseignements juridiques, pour des travaux de recherche, pour l'envoi de photocopies et d'attestations de type fiscal. Les montants sont fixés par un arrêté du Conseil d'Etat.

@@ -1,0 +1,7 @@
+# Art. 205a Dissimulation ou distraction des biens successoraux dans la procédure d'inventaire
+1 Celui qui, en sa qualité d'héritier, de représentant des héritiers, d'exécuteur testamentaire ou de tiers, dissimule ou distrait des biens successoraux dont il est tenu d'annoncer l'existence dans la procédure d'inventaire, dans le dessein de les soustraire à l'inventaire, celui qui incite à un tel acte ou y prête son assistance ou l'aura favorisé, sera puni d'une amende.
+2 L'amende est de 10'000 francs au plus; elle est de 50'000 francs au plus dans les cas graves ou en cas de récidive.
+3 La tentative de dissimulation ou de distraction de biens successoraux est également punissable; une peine plus légère que celle encourue en cas d'infraction consommée peut être prononcée.
+4 Lorsqu'une personne au sens de l'alinéa 1 se dénonce spontanément et pour la première fois, il est renoncé à la poursuite pénale pour dissimulation ou distraction de biens successoraux dans la procédure d'inventaire et pour les autres infractions commises dans le cadre de la procédure d'inventaire (dénonciation spontanée non punissable), à condition:
+a) qu'aucune autorité fiscale n'ait connaissance de l'infraction; et
+b) que la personne concernée collabore sans réserve avec l'administration pour corriger l'inventaire.
