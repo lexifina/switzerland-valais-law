@@ -1,0 +1,6 @@
+# Art. 10a Indemnisation des employés effectuant une part importante de leurs activités en déplacements professionnels
+1 Pour les employés effectuant une part importante de leurs activités en déplacements professionnels, l’indemnisation s’effectue selon des périmètres d’intervention définis et la fréquence de leurs déplacements professionnels.
+2 En place du remboursement des frais effectifs, le chef de service peut proposer, le collaborateur entendu, un forfait global annuel d’indemnités (transports, repas et divers), correspondant aux frais effectifs. Les critères principaux déterminants pour le calcul du forfait sont notamment la fréquence et le périmètre des déplacements professionnels.
+3 Le forfait global annuel envisagé par le chef de service doit être validé par le Service des ressources humaines, respectivement par l’état-major du département en charge de la formation pour le personnel enseignant avant décision finale par le chef de département.
+4 Le forfait global annuel sera réduit pro rata temporis en cas d’absences supérieures à 30 jours par année civile (sauf vacances, congés fidélité, compensations HS ou HV).
+5 Le forfait doit être adapté en cas de modification des critères fixés à l’alinéa 2.
