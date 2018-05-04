@@ -15,3 +15,4 @@
 ### 4.2 Taux de subventionnement
 ### 4.3 Mode de subventionnement
 ## 5 Dispositions diverses et finales
+## T1 Disposition transitoire de la modification du 25.04.2018
