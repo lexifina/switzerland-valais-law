@@ -1,0 +1,7 @@
+# Art. 36c Financement
+1 L'Etat participe au financement des écoles de musique reconnues. Les communes peuvent décider de leur participation.
+2 La participation financière de l'Etat s'élève à 40 pour cent des frais pris en compte au sens de l'alinéa 4 ci-après.
+3 Les communes contribuent volontairement selon un taux convenu avec les écoles de musique et calculé en fonction des frais pris en compte au sens de l'alinéa 4 ci-après. Leur contribution vient en déduction des taxes de cours des élèves domiciliés sur leur territoire.
+4 Après avoir pris l'avis de la commission consultative, le Conseil d'Etat détermine le mode de calcul des frais qui peuvent être subventionnés au sens de la présente loi, à savoir les frais de personnel, les frais de formation continue du personnel enseignant, les frais administratifs, les frais d'acquisition et d'entretien du matériel pédagogique et d'instruments de l'école nécessaires à l'enseignement ainsi que les frais d'entretien des locaux à l'exclusion des loyers et coûts de mise à disposition. Le règlement précise les catégories de frais pris en compte.
+5 La participation de l'Etat et celle volontaire des communes sont calculées en fonction du nombre d'unités de cours prises par les jeunes élèves domiciliés sur leurs territoires respectifs. Le règlement définit la notion d'unité de cours et celle de jeune élève.
+6 L'association entendue, l'Etat détermine, avant le début de chaque année scolaire, le nombre d'unités de cours subventionnées pour l'ensemble des écoles de musique.

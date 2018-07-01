@@ -1,0 +1,3 @@
+# Art. 36b Commission consultative
+1 Il est institué une commission consultative au sein de laquelle l'Etat, les communes, l'association et les associations actives au niveau cantonal dans le domaine musical sont représentées. Celle-ci est consultée avant toute décision de reconnaissance prononcée par le Conseil d'Etat, ainsi que sur tout projet de convention entre l'Etat et l'association, et entre l'Etat et une école de musique. Elle est également consultée sur le mode de calcul des frais subventionnables par l'Etat et les communes. L'Etat peut enfin la consulter sur toute question relative à l'enseignement de la musique non professionnelle.
+2 Le mode de fonctionnement de la commission relève des dispositions d'application.
