@@ -1,0 +1,9 @@
+# Art. 198c Répartitions suivantes
+1 Les sièges restants sont attribués un par un selon la procédure suivante:
+a) on divise le nombre de suffrages de parti obtenu par chacune des listes par le nombre de sièges plus un qu'elle a déjà obtenus;
+b) on attribue le premier des sièges restants à la liste qui obtient le plus fort quotient;
+c) si plusieurs listes obtiennent ce plus fort quotient, le premier des sièges restants revient à la liste qui a obtenu le plus grand reste après la division prévue à l'article 198b alinéa 2;
+d) si plusieurs listes ont obtenu ce plus grand reste, le premier des sièges restants revient à la liste qui a obtenu le plus grand nombre de suffrages de parti;
+e) si plusieurs listes ont obtenu ce même plus grand nombre de suffrages de parti, le premier des sièges restants revient à la liste dont le candidat a obtenu le plus grand nombre de suffrages;
+f) si, enfin, plusieurs candidats se trouvent dans cette situation, c'est le sort qui décide.
+2 On répète l'opération jusqu'à ce que tous les sièges soient attribués.

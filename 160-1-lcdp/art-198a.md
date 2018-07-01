@@ -1,0 +1,2 @@
+# Art. 198a Quorum
+1 Les listes qui n'ont pas atteint huit pour cent du total des suffrages de parti sont éliminées de la répartition. Les suffrages des listes éliminées sont toutefois comptés pour la détermination du quotient.

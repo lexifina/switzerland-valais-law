@@ -43,7 +43,7 @@
 ## 6 Election du Grand Conseil
 ### 6.1 Répartition des sièges entre les districts
 ### 6.2 Système d'élection
-### 6.3 Liste des candidatures
+### 6.3 Listes des candidats et groupes de listes
 ### 6.4 Modalités de vote
 ### 6.5 Décompte des suffrages et répartition des sièges
 ### 6.6 Cas particuliers, vacance, démission et Constituante
