@@ -5,3 +5,4 @@
 ## 5 Examens de certificat
 ## 6 Procédure de recours
 ## 7 Dispositions transitoires et finales
+## T1 Disposition transitoire de la modification du 28.02.2018
