@@ -1,0 +1,6 @@
+# Art. 16a Formation continue des médecins
+1 En application de l’article 76 de la loi, chaque médecin doit suivre une formation continue.
+2 La formation continue est en principe assurée par la participation aux programmes mis sur pied par les associations professionnelles. Elle peut toutefois revêtir d'autres formes, notamment un cours sur la connaissance du système de santé valaisan organisé par le service de la santé publique auquel les médecins nouvellement autorisés à pratiquer sont tenus d’assister. Demeurent réservés les cas particuliers.
+3 Le service de la santé publique peut procéder à des contrôles, en principe fondés sur la Réglementation pour la formation continue (RFC) de l’Institut suisse pour la formation médicale postgraduée et continue (ISFM). Le contrôle est gratuit lorsque le médecin produit les diplômes de formation continue de l’ISFM. Il est facturé 300 francs au médecin dans les autres cas.
+4 Le service de la santé publique peut déléguer aux institutions sanitaires le contrôle de la formation continue des médecins qu’elles emploient. Le cas échéant, les modalités de cette délégation font l’objet d’une directive du service de la santé publique.
+5 Demeure réservée la situation particulière des médecins travaillant au sein de l’Hôpital Riviera-Chablais (HRC).
