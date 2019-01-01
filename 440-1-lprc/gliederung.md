@@ -2,7 +2,7 @@
 ## 2 Promotion des activités culturelles par l'Etat
 ### 2.1 Moyens
 ### 2.2 Organisation
-## 3 Protection et mise en valeur des biens culturels
+## 3 Sauvegarde du patrimoine culturel
 ## 4 Institutions culturelles de l'Etat
 ### 4.1 Dispositions générales
 ### 4.2 Organisation
