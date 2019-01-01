@@ -7,3 +7,4 @@
 ## 7 Mesures administratives
 ## 8 Voies de droit et dispositions pénales
 ## 9 Dispositions transitoires et finales
+## T1 Disposition transitoire de la modification du 14.06.2018

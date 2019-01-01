@@ -1,0 +1,8 @@
+# Art. 6a Activité de prêteur sur gage
+1 L'exercice de l'activité de prêteur sur gage est soumis à autorisation du Conseil d'Etat, lequel peut déléguer sa compétence à un département.
+2 L'autorisation est accordée à une personne physique, âgée de 18 ans révolus, désignée comme responsable et répondant aux conditions suivantes:
+a) établir, par la production d'un extrait de son casier judiciaire, qu'elle n'a pas fait l'objet, dans les cinq ans précédant le dépôt de la demande, d'une condamnation en raison d'un crime, d'un délit ou d'une contravention susceptible de présenter un danger dans l'exercice de l'activité de prêteur sur gage;
+b) fournir une déclaration de l'office des poursuites de son ou de ses domiciles pour les cinq années précédentes, attestant qu'elle n'est pas sous le coup d'un acte de défaut de biens, et fournir une déclaration de l'office des faillites de son ou de ses domiciles pour les cinq années précédentes, attestant qu'elle n’a pas fait l'objet d'une procédure de faillite;
+c) si elle n'est pas suisse, produire une autorisation d'établissement ou, à défaut, une autorisation lui permettant d'exercer l'activité concernée;
+d) produire un extrait du registre du commerce ainsi qu'une déclaration par laquelle la société lui confère le pouvoir de diriger ou de gérer l’activité concernée, si la personne requérante travaille pour une société et qu'elle en est soit gérante, directrice ou administratrice.
+3 L'autorisation est délivrée pour une période de cinq ans. Elle est renouvelée pour la même période sur la base d'un réexamen du dossier. Pour le renouvellement s'appliquent les mêmes principes que pour la délivrance.
