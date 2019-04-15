@@ -1,0 +1,4 @@
+# Art. 10g Taxation et perception
+1 Dès l'entrée en force de la mesure d'aménagement du territoire et sur proposition de la commission d'estimation désignée par le bureau du collège d'experts en matière d'expropriation, le Conseil d'Etat fixe par décision la plus-value et le montant de la taxe. Cette décision peut faire l'objet d'une réclamation, et la décision sur réclamation, d'un recours auprès du Tribunal cantonal.
+2 Dès que la taxe sur la plus-value est exigible, le Service du développement territorial procède à son encaissement dans les cas de l'article 10c alinéa 1 lettres a et b. La commune est l'autorité d'encaissement de ladite taxe dans le cas de l'article 10c alinéa 1 lettre c.
+3 L'exigibilité de la taxe peut être contestée auprès du Conseil d'Etat qui rend une décision de constatation pouvant faire l'objet d'une réclamation. La décision sur réclamation peut faire l'objet d'un recours au Tribunal cantonal.
