@@ -21,4 +21,5 @@
 ### 4.2 Préaffermage d'alpages
 ### 4.3 Contributions d'estivage et fermage licite des alpages
 ### 4.4 Autorités compétentes
+## 4a Mesures administratives et dispositions pénales
 ## 5 Dispositions finales
