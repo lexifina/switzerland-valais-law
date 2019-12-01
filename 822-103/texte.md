@@ -1,0 +1,85 @@
+822.103
+Arrêté
+fixant les indemnités dues aux membres du Tribunal du travail et de la Commission cantonale de conciliation pour les litiges relevant de la loi fédérale sur l'égalité
+du 16.02.2011 (état 01.12.2019)
+Le Conseil d'Etat du canton du Valais
+vu l'article 34 de la loi cantonale sur le travail du 16 novembre 1966;
+sur la proposition du Département de la sécurité, des affaires sociales et de l'intégration,
+arrête:
+Art.
+1
+1
+Les indemnités de présence des membres du Tribunal du travail et de la Commission cantonale de conciliation pour les litiges relevant de la loi fédérale sur l'égalité (ci-après: la Commission) sont fixées comme suit:
+a)
+présidence:
+1.
+jour entier (séances de 8 heures max.)
+Fr. 500
+2.
+demi-jour (4 heures max.)
+Fr. 250
+3.
+heure isolée
+Fr. 100
+b)
+membres assesseurs:
+1.
+jour entier (séances de 8 heures max.)
+Fr. 350
+2.
+demi-jour (4 heures max.)
+Fr. 200
+3.
+heure isolée
+Fr. 50
+2
+Les membres du Tribunal du travail et de la Commission perçoivent en sus pour la préparation et l'étude des dossiers, ainsi que le président pour la correction et la signature des jugements, une indemnité dont le montant est fixé comme suit:
+a)
+présidence:
+1.
+jour entier
+Fr. 400
+2.
+demi-jour
+Fr. 200
+b)
+membres assesseurs:
+1.
+jour entier
+Fr. 150
+2.
+demi-jour
+Fr. 100
+Art.
+2
+1
+L'indemnité de repas est fixée à 25 francs.
+2
+En règle générale, les membres ont droit au remboursement des frais effectifs de transport public (CFF deuxième classe).
+3
+Toutefois, lorsque les circonstances justifient l'utilisation d'un véhicule privé, il est alloué une indemnité kilométrique de 70 centimes.
+4
+Ces indemnités ne peuvent être portées en compte que s'il y a eu frais effectifs.
+Art.
+3
+1
+Les membres du Tribunal du travail ont droit à une indemnité informatique de 600 francs par an.
+*
+2
+Les autres frais (ports, télécommunications, copies etc.) sont indemnisés selon leur coût effectif.
+*
+Art.
+4
+1
+Les indemnités sont payées après établissement d'un décompte établi trimestriellement par le Service de protection des travailleurs et des relations du travail.
+Art.
+5
+1
+L'arrêté fixant les indemnités dues aux membres du Tribunal du travail du 18 février 2009 est abrogé.
+Art.
+6
+1
+Le présent arrêté sera publié au Bulletin officiel pour entrer en vigueur le 1
+er
+janvier 2011.
+RCV BO/Abl. 13/2011
