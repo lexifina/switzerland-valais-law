@@ -10,3 +10,4 @@
 ## 8 Conservation des actes
 ## 9 Actes pour cause de mort
 ## 10 Dispositions finales et transitoires
+## T1 Disposition transitoire de la modification du 16 octobre 2019
