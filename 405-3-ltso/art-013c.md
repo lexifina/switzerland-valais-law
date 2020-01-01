@@ -1,0 +1,3 @@
+# Art. 13c Indemnité en capital
+1 Par voie d'ordonnance, le Conseil d'Etat peut prévoir le versement d'une indemnité en capital aux enseignants qui prennent une retraite anticipée.
+2 Le montant de cette indemnité ne peut dépasser celui du traitement annuel assuré.

@@ -1,5 +1,10 @@
 ## 1 Dispositions générales
 ### 1.1 Personnel
+#### 1.1.1 Dispositions générales
+#### 1.1.2 Prévoyance professionnelle
+#### 1.1.3 Commission de classification
+#### 1.1.4 Versement du traitement en cas de maladie, accident, maternité, adoption, service obligatoire ou décès
+#### 1.1.5 Charges publiques et événements particuliers
 ### 1.2 Organisation de l'année scolaire
 ## 2 Traitement des enseignants
 ### 2.1 Principes
