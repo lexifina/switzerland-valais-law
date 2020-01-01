@@ -37,3 +37,4 @@
 ## 5 Autorités fiscales et registres fiscaux
 ## 6 Dispositions diverses
 ## 7 Dispositions transitoires et abrogatoires
+## T1 Dispositions transitoires de la modification du 12.03.2020

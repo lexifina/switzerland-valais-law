@@ -1,5 +1,1 @@
-# Art. 16a Economies d'énergie (art. 28 LF)
-1 Sont réputés investissements destinés à économiser l'énergie et à ménager l'environnement, les frais encourus en vue de rationaliser l'énergie ou de recourir aux agents renouvelables. Sont considérés comme de telles mesures le remplacement d'éléments de construction ou d'installations vétustes et l'adjonction d'éléments de construction ou d'installations dans des bâtiments existants.
-2 Si les mesures précitées sont subventionnées par la collectivité publique, le contribuable ne peut faire valoir la déduction que sur la partie dont il doit supporter lui-même les frais.
-3 Le Conseil d'Etat détermine les mesures en faveur de l'utilisation rationnelle de l'énergie et du recours aux agents renouvelables.
-4 Les taux de la déduction pour les mesures en faveur de l'utilisation rationnelle de l'énergie et du recours aux agents renouvelables se montent à 50 pour cent au cours des cinq premières années après l'acquisition de l'immeuble et, passé ce délai, à 100 pour cent.
+# Art. 16a …

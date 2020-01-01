@@ -1,0 +1,3 @@
+# Art. 88d Imposition de réserves latentes à la fin de l’assujettissement
+1 Lorsque l’assujettissement à l’impôt prend fin, les réserves latentes non imposées et qui existent alors, y compris la plus-value immatérielle créée par le contribuable lui-même, sont imposées.
+2 Sont considérés comme fin de l’assujettissement le transfert de valeurs patrimoniales, d’exploitations, de parties distinctes d’exploitation ou de fonctions de Suisse à une entreprise étrangère ou à un établissement stable situé à l’étranger, le passage à une exonération visée à l’article 79 alinéa 1, ainsi que le transfert à l’étranger du siège ou du lieu de l’administration effective.

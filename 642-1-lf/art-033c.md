@@ -1,4 +1,4 @@
 # Art. 33c Gains de loterie
 1 Les gains de loterie et les gains réalisés dans des manifestations similaires aux loteries sont imposés à raison du 50 pour cent des taux du barème ordinaire, séparément de tout autre revenu, l'année fiscale durant laquelle ils ont été touchés.
-2 Le gain n'est imposé, compte tenu de la déduction des mises jusqu'à concurrence du 5 pour cent des gains bruts, que s'il atteint au moins le montant annuel de 5'000 francs. Les montants inférieurs à 100 francs sont abandonnés lors du calcul de l'impôt.
+2 Sont déduits des gains unitaires provenant des jeux d’argent non exonérés de l’impôt selon l’article 20 alinéa 1 lettres ibis à j, 5 pour cent à titre de mise, mais au plus 5'000 francs. Sont déduites des gains unitaires provenant de la participation en ligne à des jeux de casino visés à l’article 20 alinéa 1 lettre ibis, les mises prélevées du compte en ligne du joueur au cours de l’année fiscale mais au plus 25'000 francs.
 3 Une perte provenant des autres éléments de revenus est imputée sur le gain de loterie réalisé durant la même année fiscale que ces revenus.
