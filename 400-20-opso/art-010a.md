@@ -1,0 +1,5 @@
+# Art. 10a Exigences d’engagement
+1 Le Conseil d’Etat peut édicter des directives sur l'évaluation complémentaire et/ou le contrôle de sécurité, qui tiennent compte de la loi sur l’information, la protection des données et l’archivage (LIPDA).
+2 Si le candidat soumis à un test ou à un contrôle au sens de l'alinéa 1 ne donne pas son accord, sa candidature n'est pas prise en considération.
+3 Les données récoltées dans le cadre de ces tests et contrôles sont communiquées au candidat.
+4 Le chef de service, respectivement le chef de département, peut en tout temps, à la suite de l'engagement, exiger du personnel qu'il démontre que les exigences indiquées dans l’article 12 de la loi sur le personnel de la scolarité obligatoire et de l'enseignement secondaire du deuxième degré général et professionnel (LPSO) pour l'exercice de sa fonction sont toujours remplies. Le refus du personnel de se soumettre à un contrôle peut entraîner l’application de mesures administratives prévues par la législation.

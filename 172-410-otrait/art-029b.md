@@ -3,4 +3,4 @@
 2 Le temps d'intervention, y compris le temps de déplacement, est compensé en congé à raison de 125 pour cent dans la mesure où les besoins du service le permettent. Si tel n'est pas le cas, ce temps est indemnisé à 125 pour cent du traitement.
 3 Les diverses indemnités concernant le service de piquet sont comptabilisées également en cas d'intervention pendant le service de piquet.
 4 Les modalités de paiement des indemnités sont arrêtées par le Département en charge des finances cantonales.
-5 Les indemnités pour le personnel de la police cantonale et le personnel ouvrier et cantonniers du service des routes et des cours d'eau sont fixées par des règlements spéciaux du Conseil d'Etat.
+5 Les indemnités pour le personnel de la police cantonale et le personnel ouvrier et cantonniers du service chargé de l’entretien des routes sont fixées par des règlements spéciaux du Conseil d'Etat.

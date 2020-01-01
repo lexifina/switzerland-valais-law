@@ -1,4 +1,4 @@
 # Art. 36b Prise, interruption et déplacement des vacances
 1 L'employé qui est malade ou qui a un accident pendant ses vacances, doit présenter un certificat médical dès son 1er jour de maladie ou d’accident. Dans ce cas, les vacances sont considérées comme interrompues.
-2 Si les vacances sont prises, en accord avec l'employeur, durant une incapacité partielle de travail, l'entier des jours de vacances sera imputé sur le solde auquel a droit l'employé.
+2 Si les vacances sont prises, en accord avec l'employeur, durant une incapacité de travail, l'entier des jours de vacances sera imputé sur le solde auquel a droit l'employé.
 3 Lors de circonstances exceptionnelles et non prévisibles, le Chef de service peut ordonner la prise des vacances ou leur déplacement voire demander le retour de l'employé de ses vacances, si ces mesures sont absolument nécessaires à l’accomplissement des tâches incombant au service ou au respect des dispositions légales. Dans ces cas, l’Etat prend à sa charge les frais éventuels encourus par l'employé.
