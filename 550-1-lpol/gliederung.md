@@ -13,3 +13,4 @@
 ## 9 Financement des prestations de la police cantonale
 ## 10 Dispositions diverses
 ## 11 Disposition finale
+## T1 Disposition transitoire de la modification du 09.05.2019

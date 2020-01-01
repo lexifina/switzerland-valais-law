@@ -1,0 +1,4 @@
+# Art. 28a Information d’une poursuite pénale
+1 L'employé qui fait l'objet d'une poursuite pénale pour un crime ou un délit est tenu d’en informer le Conseil d’Etat sans délai, si les faits incriminés ont un lien avec la nature de son activité professionnelle ou s'ils sont de nature à jeter le discrédit sur l'employeur. Il transmet sans délai au Conseil d'Etat la décision entrée en force qui statue définitivement sur la cause.
+2 Les autorités judiciaires pénales et le ministère public saisis d’une affaire dans laquelle un employé a la qualité de prévenu, respectivement d'accusé, pour un crime ou un délit peuvent informer le Conseil d’Etat, si les faits incriminés ont un lien avec la nature de son activité professionnelle ou s'ils sont de nature à jeter le discrédit sur l'employeur. Ils peuvent transmettre au Conseil d'Etat la décision entrée en force qui statue définitivement sur la cause.
+3 Demeurent réservées les dispositions légales contraires

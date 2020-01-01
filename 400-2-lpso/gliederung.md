@@ -11,4 +11,6 @@
 ## 5 Direction des écoles de la scolarité obligatoire et de l'enseignement secondaire du deuxième degré général et professionnel
 ## 6 Conseillers pédagogiques
 ## 7 Inspecteurs des écoles de l'enseignement obligatoire
+## 7a Voies de droit
 ## 8 Dispositions transitoires et finales
+## T1 Dispositions transitoires de la modification du 09.05.2019
