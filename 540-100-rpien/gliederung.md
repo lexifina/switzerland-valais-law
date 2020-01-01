@@ -7,3 +7,4 @@
 ## 7 Dispositions diverses
 ## T1 Disposition transitoire de la modification du 25.06.2008
 ## T2 Disposition transitoire de la modification du 21.12.2011
+## T3 Disposition transitoire de la modification du 12.02.2020
