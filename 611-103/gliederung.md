@@ -3,3 +3,4 @@
 ## 3 Procédures d'encaissement et autres affaires
 ## 4 Gestion financière et récusation
 ## 5 Dispositions transitoires et finales
+## T1 Disposition transitoire de la modification du 18.09.2019
