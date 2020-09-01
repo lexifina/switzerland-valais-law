@@ -1,0 +1,7 @@
+# Art. 42e Renoncement à un poste avec reprise d’un poste de niveau inférieur
+1 Dans le cadre de la mobilité professionnelle l’employé a la possibilité de renoncer à son poste, au plus tôt dès le début de l’âge flexible de la retraite, anticipé de 2 ans pour le personnel des établissements pénitentiaires et de la police cantonale, au profit d’un poste de niveau inférieur, dans la classe de salaire y relative, pour autant qu’un poste soit disponible et qu’il corresponde aux exigences du poste.
+2 Cette mesure concerne les fonctions rangées dans les classes 1A à 10.
+3 Les fonctions de cadres de la police cantonale concernées par cette mesure, sont celles mentionnées à l’article 28 de l’ordonnance de la loi sur la police cantonale.
+4 L'Etat prend à sa charge le versement de la totalité des cotisations ordinaires de prévoyance professionnelle (parts employeur et employé) afférentes au changement de classe salariale et permettant de maintenir le traitement assuré à son niveau antérieur.
+5 La prise en charge selon l’alinéa 4 dure au maximum de 3 années consécutives, mais au plus tard jusqu’à l’âge légal AVS, anticipé de 2 ans pour le personnel des établissements pénitentiaires et de la police cantonale. Si l’employé poursuit son activité professionnelle après ces 3 années ou au-delà de l’âge légal AVS, la mesure ne sera plus appliquée et l’ensemble des conditions liées au nouveau poste prendront effet.
+6 Cette mesure peut être cumulée avec celle prévue à l’article 26 de la présente ordonnance.
