@@ -1,0 +1,2 @@
+# Art. 39a Dispositions d'exécution
+1 Le Conseil d'Etat édicte par voie d'ordonnance et de règlement toutes les dispositions nécessaires à l'exécution de la présente loi.
