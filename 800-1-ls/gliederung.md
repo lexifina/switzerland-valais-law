@@ -1,26 +1,28 @@
 ## 1 Principes généraux
 ## 2 Organisation et autorités de la santé
-## 3 Relations entre les patients et les professionnels de la santé, les établissements et les institutions sanitaires
+## 3 Patients
 ### 3.1 Dispositions générales
 ### 3.2 Choix éclairé des soins
 ### 3.3 Protection des données du patient
-### 3.4 Relations entre patients et établissements sanitaires
-### 3.5 Qualité des soins et sécurité des patients
-### 3.6 Mesures médicales spéciales
-### 3.7 Médiateur
-## 4 Professionnels de la santé
-### 4.1 Principes généraux
-### 4.2 Autorisation
+### 3.4 Sécurité des patients et qualité des soins
+## 4 Professionnels soumis à la présente loi
+### 4.1 Dispositions générales
+### 4.2 Autorisation de pratiquer
 ### 4.3 Droits et devoirs professionnels
 ### 4.4 Surveillance
-## 5 Surveillance des établissements et des institutions sanitaires
-### 5.1 Principes généraux
-### 5.2 Autorisation
-### 5.3 Obligations des établissements et institutions sanitaires
-## 6 Promotion de la santé et prévention
-## 7 Fumée passive
-## 8 Produits thérapeutiques et dispositifs médicaux
-## 9 Lutte contre les maladies transmissibles
-## 10 Lutte contre les toxicomanies
-## 11 Sanctions et recours
-## 12 Dispositions transitoires et finales
+## 5 Institutions sanitaires
+### 5.1 Dispositions générales
+### 5.2 Autorisation d'exploiter
+### 5.3 Relations entre les patients et les institutions sanitaires
+### 5.4 Surveillance
+### 5.5 Equipements médico-techniques lourds
+## 6 Mesures médicales spéciales et recherche
+## 7 Promotion de la santé et prévention
+### 7.1 Dispositions générales
+### 7.2 Dispositions spécifiques
+### 7.3 Lutte contre les maladies transmissibles
+### 7.4 Fumée passive
+### 7.5 Registres de santé publique
+## 8 Médicaments et dispositifs médicaux
+## 9 Sanctions et procédure
+## T1 Dispositions transitoires
