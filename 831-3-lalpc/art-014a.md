@@ -1,0 +1,4 @@
+# Art. 14a Restitution des prestations légalement perçues
+1 Au décès de l'assuré, la Caisse cantonale de compensation AVS examine si sa fortune est manifestement inférieure ou supérieure à 40'000 francs au sens de l'article 16a LPC.
+2 La Caisse AVS informe l'un des héritiers de la communauté héréditaire de l'ouverture de la procédure de restitution. Celui-ci est tenu d'en aviser les autres héritiers.
+3 En cas de contestation de la qualité d'héritier ou si aucun héritier n’est connu, le juge de commune du dernier domicile du bénéficiaire décédé doit communiquer, sur demande, à la Caisse AVS les coordonnées d'un héritier connu ou toutes les informations qu’il est susceptible de recueillir dans le cadre des prérogatives et des tâches en matière de successions que lui accorde notamment la loi d’application du code civil suisse.
