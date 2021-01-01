@@ -2,6 +2,7 @@
 ### 1.1 But et département compétent
 ### 1.2 Service compétent (art. 5 LJe)
 ## 2 Critères d'utilisation du montant alloué au soutien des organisations s'occupant de la jeunesse (art. 11 LJe)
+## 2a Soutien financier aux projets extrascolaires à caractère novateur intéressant la jeunesse (art. 8 LEEJ)
 ## 3 Prestations éducatives en milieu ouvert, assistance éducative (art. 307 al. 3 CC) et curatelle éducative (art. 308 al. 1 et 2 CC) (art. 21 et 25 LJe)
 ### 3.1 Statut juridique et autorisation
 ### 3.2 Obligations

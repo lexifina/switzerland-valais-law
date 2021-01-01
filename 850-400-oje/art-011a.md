@@ -1,0 +1,4 @@
+# Art. 11a Définition et but
+1 Par projet extrascolaire à caractère novateur intéressant la jeunesse, on entend tout projet lié à des activités éducatives et d’animation en milieu ouvert pouvant servir de modèle ou encourageant la participation des enfants et des jeunes et permettant le développement au niveau communal ou régional d’une politique ou action durable en faveur de l’enfance et de la jeunesse, pour lequel il existe un besoin avéré et pour lequel le transfert des connaissances est garanti au sens de la loi fédérale sur l’encouragement des activités extrascolaires des enfants et des jeunes (LEEJ).
+2 Ces projets ont pour cible tous les enfants et les jeunes domiciliés en Valais, de l’âge d’entrée à l’école enfantine à l’âge de 25 ans.
+3 Ne peuvent pas être pris en compte les projets ayant un but commercial ou proposés par des organismes poursuivant un tel but. Sont également exclus, les projets ayant démarré avant le dépôt de la demande.
