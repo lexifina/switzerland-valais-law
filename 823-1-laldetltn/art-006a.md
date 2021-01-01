@@ -1,0 +1,4 @@
+# Art. 6a Protection des données
+1 Quel que soit le domaine dans lequel ils sont appelés à intervenir, tous les organes de contrôle impliqués dans la mise en œuvre de la présente loi doivent traiter de manière absolument confidentielle la source de toute information leur signalant une infraction présumée et devront s'abstenir d’en révéler la provenance aux personnes contrôlées.
+2 Le Conseil d'Etat règle les exigences en matière de transmission aux autorités pénales, de conservation et de destruction du matériel recueilli.
+3 Les organes paritaires sont, pour le surplus, soumis aux dispositions de la loi fédérale sur la protection des données, le Service étant lui soumis à celles de la loi cantonale sur l’information du public, la protection des données et l’archivage, ainsi qu’aux articles 7 et 17 LTN.

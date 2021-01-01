@@ -1,0 +1,13 @@
+# Art. 15a Suspension des travaux
+1 En cas de contrôle en application de la législation fédérale sur le travail au noir, si la personne ou l'entreprise s’oppose au contrôle ou refuse de collaborer à l'établissement des faits, le Service peut ordonner la suspension immédiate de l'activité déployée par cette personne ou cette entreprise sur le lieu de travail considéré.
+2 Lors de contrôles effectués dans le cadre d’un marché public, le Service informe sans délai l’adjudicateur afin qu’il suspende sans délai les travaux qu’une entreprise réalise sur le chantier en question, en particulier lorsque:
+a) l’entreprise emploie un ou plusieurs travailleurs étrangers dépourvus d’une autorisation de travail en Suisse ou refuse de faire connaître l’identité de travailleurs qui se sont enfuis lors du contrôle;
+b) l’Inspection de l’emploi ne peut établir que l’entreprise ou l’indépendant est affilié aux assurances sociales obligatoires ou surobligatoires au sens des dispositions étendues des conventions collectives de travail;
+c) il est établi que l’entreprise prélève les cotisations d’assurances sociales et l’impôt à la source sur les salaires de ses employés, mais ne les reverse pas aux institutions concernées;
+d) l’entreprise ou l’indépendant n’est pas annoncé en qualité de sous-traitant ou œuvre en tant que sous-traitant d’un sous-traitant.
+3 S’il estime que les conditions prévues aux alinéas 1 ou 2 sont remplies, le Service (al. 1), respectivement l'adjudicateur (al. 2) rend sans délai une décision de suspension de l’activité de l’entreprise ou de l’indépendant sur le lieu de travail considéré. Dans sa décision, il avise l’entreprise ou l’indépendant que la mesure de contrainte pourra être levée lorsqu’il aura pu constater que les causes ayant justifié la suspension de l’activité ont disparu. La levée de la suspension fait également l’objet d’une décision du Service, respectivement de l'adjudicateur.
+4 En cas de suspension, le Service, respectivement l'adjudicateur communique sa décision au maître d'ouvrage et au maître d’œuvre.
+5 Les autorités compétentes, notamment les polices cantonale et communales, peuvent être appelées à collaborer à l’application des mesures de contrainte administrative.
+6 La décision de suspension peut faire l’objet d’un recours auprès du Tribunal cantonal dans un délai de 10 jours. Celui-ci n’a pas effet suspensif. Les mesures et sanctions administratives peuvent être cumulées.
+7 En cas de non-respect de la décision du Service, respectivement de l'adjudicateur, le responsable de l’entreprise ou l’indépendant concerné peut faire l’objet d’une dénonciation pénale.
+8 Le Conseil d’Etat définit par voie d’ordonnance les modalités de mise en œuvre de la présente disposition.
