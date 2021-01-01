@@ -1,0 +1,35 @@
+641.800
+Décision concernant l'utilisation de la part cantonale de la redevance sur le trafic des poids lourds liée aux prestations RPLP
+du 12.03.2020 (état 01.01.2021)
+Le Grand Conseil du canton du Valais
+vu la loi fédérale concernant une redevance sur le trafic des poids lourds liée aux prestations du 19 décembre 1997;
+vu la décision du Grand Conseil du 11 mars 2016 concernant l’utilisation de la part cantonale de la redevance sur le trafic des poids lourds liée aux prestations RPLP;
+sur proposition du Conseil d'Etat,
+décide:
+Art.
+1
+Affectation
+1
+La part cantonale à la redevance sur le trafic des poids lourds liée aux prestations est destinée à financer à long terme les coûts directs d’infrastructure et les coûts indirects occasionnés à la collectivité par ce trafic.
+2
+Elle est comptabilisée comme suit dans le compte de l'Etat:
+a)
+75 pour cent pour la réduction des charges liées au secteur routier;
+b)
+10 pour cent pour la réduction des charges du trafic régional et des transports;
+c)
+3 pour cent pour la réduction des charges liées à la circulation routière et à la police;
+d)
+10 pour cent pour la réduction des charges dans le domaine de l'agriculture et des autres secteurs économiques y relatifs;
+e)
+2 pour cent en compensation des charges liées aux coûts indirects et figurant au ménage financier général de l'Etat.
+3
+Le Conseil d’Etat arrête les modalités d’attribution de ces recettes. Il prévoit que celles-ci servent exclusivement à couvrir les charges des secteurs mentionnés à l’alinéa 2, à l’exception des coûts de fonctionnement des services de l’Etat.
+Art.
+2
+Comptabilisation et présentation
+1
+Les montants affectés (recettes et dépenses) sont identifiés spécialement dans les services concernés et font l’objet d’une présentation spécifique lors de la publication du budget et du compte.
+2
+Un financement spécial, au sens de l’article 9 de la loi sur la gestion et le contrôle administratifs et financiers du canton, enregistre l’excédent de revenus ou de charges annuel.
+RCV RO/AGS 2020-028
