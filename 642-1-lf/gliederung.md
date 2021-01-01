@@ -15,15 +15,16 @@
 #### 1.2.6 Imposition dans le temps
 ### 1.3 Imposition à la source des personnes physiques et morales
 #### 1.3.1 Personnes physiques domiciliées ou en séjour au regard du droit fiscal
-#### 1.3.2 Personnes physiques et morales qui ne sont ni domiciliées ni en séjour en Suisse, au regard du droit fiscal
-#### 1.3.3 Perception dans les relations intercantonales et intercommunales
+#### 1.3.2 Principes d'imposition
+#### 1.3.3 Personnes physiques qui ne sont ni domiciliées ni en séjour en Suisse au regard du droit fiscal et personnes morales qui n’ont ni leur siège ni leur administration effective en Suisse
+#### 1.3.4 Perception dans les relations intercantonales et intercommunales
 ### 1.4 Impôt sur les successions et donations
 ### 1.5 …
 ### 1.6 Procédure
 #### 1.6.1 Principes généraux
 #### 1.6.2 Procédure de taxation ordinaire
-#### 1.6.3 Procédure de taxation de l'impôt sur les gainsimmobiliers
-#### 1.6.4 Voie de droit en cas de perception de l'impôt à la source.
+#### 1.6.3 Procédure de taxation de l'impôt sur les gains immobiliers
+#### 1.6.4 Voie de droit en cas de perception de l'impôt à la source
 #### 1.6.5 Procédure de taxation des impôts sur les successions et les donations
 #### 1.6.6 Procédure de recours
 #### 1.6.7 Modification des décisions et prononcés définitifs
