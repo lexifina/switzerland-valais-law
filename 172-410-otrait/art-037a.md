@@ -1,3 +1,3 @@
-# Art. 37a Enterrement d'un collègue de service ou d'un membre de la famille proche d'un collègue de service
-1 Lors de l’enterrement d'un collègue de service ou d'un membre de la famille proche de ce dernier, le chef de service est responsable de désigner les employés qui s'y rendront. Dans ce cas, la durée effective de l'enterrement ainsi que le temps de déplacement peuvent être comptabilisés quelle que soit l'heure de l'ensevelissement, jusqu'à concurrence de la durée ordinaire d'une journée de travail (8h24).
-2 Si un employé décide de son propre gré de se rendre à l'ensevelissement d'un collègue de service, le temps s'y référant sera décompté de son solde du temps de travail mobile.
+# Art. 37a Congé pour la prise en charge de proches
+1 Pour les cas de maladie ou d'accident d'un membre de la famille ou du partenaire, le chef de service est compétent pour accorder un congé ne dépassant pas cinq jours ouvrables, pour une seule et même maladie ou accident. Ce nombre de jours est déterminé selon les besoins et la gravité de la maladie ou de l'accident. Toutefois, un maximum de dix jours par année peut être accordé à un employé au cas où plusieurs maladies ou accidents d'un ou des proches devaient se présenter au cours d'une même année.
+2 …
