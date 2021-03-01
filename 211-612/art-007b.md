@@ -1,0 +1,3 @@
+# Art. 7b Champ d’application
+1 Les communications et transactions électroniques comprennent les requêtes transmises aux registres fonciers et les notifications aux parties par les registres fonciers selon l’article 38 ORF.
+2 Sont notamment applicables: les articles 3 (équivalence des formes), 32 (établissement d’extraits), 39 à 45 (déroulement et automatisation) et 86 alinéa 3 (légalisation des signatures) ORF, les directives et règlements du DFJP et les modèles de l’OFRF (art. 40 al. 2 et 41 ORF), ainsi que la législation sur l’établissement d’actes authentiques électroniques et la légalisation électronique. Les directives du service règlent les modalités.
