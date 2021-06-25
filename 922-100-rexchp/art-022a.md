@@ -1,6 +1,0 @@
-# Art. 22a Carte d'invité
-1 La carte d’invité est personnelle et incessible.
-2 Le chasseur titulaire du permis valaisan ne peut solliciter qu’une seule carte d’invité par année.
-3 Le chasseur hôte ne peut bénéficier que d’une seule carte d’invité par année.
-4 La carte d’invité permet de chasser durant deux journées consécutives ou dissociées, à l’exclusion des trois premiers jours de la chasse haute.
-5 Le nombre de cartes d’invité annuellement délivrées peut être fixé par le service en fonction des plans de chasse adoptés pour les différentes espèces concernées, et du nombre de preneurs de permis.
