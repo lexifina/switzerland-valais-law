@@ -1,14 +1,23 @@
 ## 1 Dispositions générales
 ## 2 Organisation de l'aide sociale
-## 3 Groupes particuliers de personnes (art. 10 al. 6, 19a et 22 LIAS)
-## 4 Prestations d'aide sociale
-## 5 Contrat d'insertion sociale et professionnelle (art. 11, 19a al. 4 et al. 5 LIAS)
-## 6 Relations entre les autorités d'aide sociale et les bénéficiaires
-## 7 Procédure devant l'autorité communale d'aide sociale
-## 8 Procédure en matière de frais de soins et de transport en urgence
-## 9 Répartition des charges (art. 4 al. 2 let. f, 7 et 16 ss LIAS)
-## 10 Sanctions dans les prestations d'aide sociale (art. 19a à 19d LIAS)
-## 11 Obligation d'entretien
-## 12 Remboursement
-## 13 Autres mesures de prévoyance (art. 24a à 35 LIAS)
-## 14 Dispositions finales
+## 3 Compétence à raison du lieu
+## 4 Instruments du dispositif d'aide sociale
+## 5 Prévention sociale
+## 6 Aide personnelle
+## 7 Mesures d'insertion socio-professionnelle
+## 8 Aide matérielle
+### 8.1 Généralités
+### 8.2 Obligations du bénéficiaire
+### 8.3 Aide ordinaire
+### 8.4 Aide réduite
+### 8.5 Aide d'urgence
+### 8.6 Refus, suspension ou suppression de l'aide matérielle
+### 8.7 Procédure
+### 8.8 Remboursement
+## 9 Soins et de transport en urgence
+## 10 Protection des données et échange d'informations
+## 11 Inspection spécialisée
+## 12 Dispositions pénales
+## 13 Organisations à caractère social
+## 14 Répartition des frais
+## 15 Dispositions transitoires et finales
