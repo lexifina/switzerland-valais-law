@@ -1,6 +1,9 @@
 ## 1 Dispositions générales
 ## 2 Mode de calcul
-## 3 Dispositions spéciales
+### 2.1 Principes
+### 2.2 Budget de la famille
+### 2.3 Budget de la personne en formation
+### 2.4 Formations particulières
+## 3 Prêts d'études
 ## 4 Procédure
-## A1 Annexe 1 aux articles 4 et 10
-## A2 Annexe 2 à l'article 7
+## 5 Dispositions transitoires
