@@ -1,5 +1,4 @@
-## 1 Dispositions générales
+## 1 Champ d'application
 ## 2 Ombudsman
 ## 3 Médiation
-## 4 Dispositions finales
-## T1 Dispositions transitoires
+## 4 Disposition finale

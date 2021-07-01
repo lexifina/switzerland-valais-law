@@ -1,7 +1,7 @@
-# Ordonnance sur l'Ombudsman de la santé et des institutions sociales
-du 23.08.2017
+# Ordonnance relative à l'Office de l'Ombudsman de la santé et des institutions sociales
+du 12.05.2021
 Le Conseil d'Etat du canton du Valais
-vu le chapitre 3 de la loi sur la santé du 14 février 2008 sur les relations entre les patients et les professionnels de la santé, les établissements et les institutions sanitaires;
+vu l'article 15 de la loi sur la santé du 12 mars 2020 (LS);
 vu la loi sur l'intégration des personnes handicapées du 31 janvier 1991;
-sur la proposition du Département de la santé, des affaires sociales et de la culture,
+sur la proposition du département en charge de la santé,
 ordonne:
