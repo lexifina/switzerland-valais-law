@@ -1,4 +1,0 @@
-# Art. 12a Soins et transports en urgence
-1 Les médecins ou établissements hospitaliers qui fournissent des soins urgents à une personne dans le besoin peuvent réclamer le remboursement des frais, en cas d’impossibilité de recouvrement de la créance par voie de la poursuite ou par l’intermédiaire d’une maison d’encaissement. Le Conseil d’Etat précise les conditions et les modalités de prise en charge de ces frais. Les dispositions des législations fédérales et cantonales sur l'assurance-maladie restent réservées.
-2 Il en est de même pour les frais de transports commandés par les médecins, les hôpitaux ou la police.
-3 Les frais remboursés sont répartis entre l’Etat et les communes, sur la base de la loi sur l’harmonisation du financement des régimes sociaux et d’insertion socioprofessionnelle.

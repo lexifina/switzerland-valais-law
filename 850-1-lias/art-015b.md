@@ -1,4 +1,0 @@
-# Art. 15b Mandat d'inspection
-1 S'il y a des raisons de soupçonner qu'une personne perçoit, a perçu ou tente de percevoir des prestations de manière illicite et si tous les moyens à leur disposition pour établir les faits ont été utilisés, les organes de l'aide sociale (art. 4) font appel, par l'entremise du Service de l'action sociale, à des inspecteurs spécialisés pour établir des faits spécifiques.
-2 Le mandat d'inspection donné par le Service de l'action sociale doit indiquer les faits motivant les soupçons. Les inspecteurs spécialisés reçoivent avec le mandat les données requises pour procéder à leur enquête.
-3 Les inspecteurs spécialisés sont rattachés au Service de protection des travailleurs et des relations du travail, au sein de l'inspection cantonale de l'emploi. Ils sont assermentés et doivent disposer des connaissances requises dans le domaine juridique et social ainsi qu'en matière d'enquêtes.
