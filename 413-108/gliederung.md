@@ -2,7 +2,6 @@
 ## 2 Organisation de la formation
 ## 3 Admissions et transferts
 ## 4 Conditions de promotion annuelle
-## 5 Examens de certificat
+## 5 Examens finaux
 ## 6 Procédure de recours
-## 7 Dispositions transitoires et finales
-## T1 Disposition transitoire de la modification du 28.02.2018
+## 7 Dispositions finales et transitoires
