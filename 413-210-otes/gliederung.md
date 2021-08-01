@@ -1,4 +1,5 @@
-## 1 Généralités
-## 2 Écoles de l'enseignement secondaire du degré I
-## 3 Ecoles de l'enseignement secondaire du degré II général
+## 1 Dispositions générales
+## 2 Exigences pour l'enseignement au degré secondaire I
+## 3 Exigences pour l'enseignement au degré secondaire II général
 ## 4 Dispositions finales
+## T1 Dispositions transitoires de la modification du 21.04.2021
