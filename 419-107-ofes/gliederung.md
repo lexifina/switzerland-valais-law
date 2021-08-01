@@ -1,8 +1,10 @@
-## 1 Généralités
+## 1 Dispositions générales
 ## 2 Admission
 ## 3 Organisation de la formation
-## 4 Evaluation finale
-## 5 Titres
-## 6 Etudiants
-## 7 Maîtres-formateurs
-## 8 Dispositions finales
+## 4 Certification des modules
+## 5 Examens finaux
+## 6 Certificats de diplôme et titres
+## 7 Etudiants
+## 8 Praticiens formateurs
+## 9 Dispositions finales
+## 10 Dispositions transitoires
