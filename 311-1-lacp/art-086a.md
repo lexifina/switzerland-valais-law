@@ -1,0 +1,4 @@
+# Art. 86a Surveillance de la correspondance par poste et télécommunication
+1 En dehors de la procédure pénale, l’office est compétent pour ordonner la surveillance au sens de la loi fédérale sur la surveillance de la correspondance par poste et télécommunication, d’une personne condamnée se situant sous l’autorité d’exécution du canton du Valais.
+2 Le tribunal des mesures de contrainte est compétent pour autoriser la surveillance.
+3 La décision du tribunal est sujette à recours auprès d’un juge du Tribunal cantonal. Les articles 379 à 397 CPP s’appliquent par analogie.
