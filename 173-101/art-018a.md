@@ -1,5 +1,5 @@
-# Art. 18a Registre des liens d'intérêt
-1 Le registre des liens d'intérêt des magistrats du Ministère public comprend:
+# Art. 18a Registre des liens d'intérêts
+1 Le registre des liens d'intérêts des magistrats du ministère public comprend:
 a) son appartenance aux organes de direction ou de surveillance de corporations, entreprises, établissements ou fondations de droit privé ou de droit public;
 b) les fonctions qu'il occupe au sein de commissions ou d'autres organes de la Confédération, du canton et des communes;
 c) les activités accessoires.
