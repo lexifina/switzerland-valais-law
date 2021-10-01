@@ -1,6 +1,7 @@
-# Ordonnance sur les autorisations d'exploiter un établissement ou une institution sanitaire
-du 26.03.1997
+# Ordonnance sur les autorisations d'exploiter une institution sanitaire
+du 01.09.2021
 Le Conseil d'Etat du canton du Valais,
-vu la loi sur la santé du 9 février 1996, notamment le titre sixième;
-sur la proposition du Département de la santé publique,
-ordonne
+vu le chapitre 5 de la loi sur la santé du 12 mars 2020 (LS);
+vu la loi sur l'intégration des personnes handicapées du 31 janvier 1991;
+sur la proposition du département en charge de la santé,
+ordonne:
