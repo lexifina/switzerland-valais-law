@@ -24,3 +24,4 @@
 ## 6 Frais et dépens
 ## 7 Disposition finale
 ## T1 Disposition transitoire
+## T2 Disposition transitoire de la modification du 11 février 2021
