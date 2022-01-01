@@ -1,6 +1,9 @@
-# Règlement d'application de la loi sur le recouvrement des pensions alimentaires et le versement d'avances
-du 15.04.1981
+# Ordonnance sur le recouvrement et les avances de contributions d’entretien
+(ORACE)
+du 01.12.2021
 Le Conseil d'Etat du canton du Valais
-vu les articles 7 et 12 de la loi sur le recouvrement des pensions alimentaires et le versement d'avances;
-sur proposition du Département de justice et police,
-arrête:
+vu l’article 57 alinéa 2 de la Constitution cantonale;
+vu la loi sur le recouvrement et les avances de contributions d'entretien du 11 février 2021 (LRACE);
+vu l’ordonnance fédérale sur l’aide au recouvrement des créances d’entretien du droit de la famille du 6 décembre 2019 (OAiR);
+sur la proposition du département en charge des affaires sociales,
+ordonne:
