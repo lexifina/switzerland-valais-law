@@ -12,4 +12,5 @@
 ## 8 Droits de l'employé
 ## 9 Surveillance de l'Etat
 ## 10 Dispositions transitoires et finales
+## T1 Dispositions transitoires de la modification du 30.03.2022
 ## A1 Annexe 1 à l'article 54

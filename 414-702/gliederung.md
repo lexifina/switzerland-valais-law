@@ -12,5 +12,6 @@
 ## 4 Classification
 ## 5 Temps de travail, vacances, congés spéciaux et divers
 ## 6 Dispositions transitoires et finales
+## T1 Dispositions transitoires de la modification du 30.03.2022
 ## A1 Annexe 1 à l'article 7 alinéa 1
 ## A2 Annexe 2 à l'article 7 alinéa 2

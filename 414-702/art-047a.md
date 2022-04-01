@@ -1,0 +1,6 @@
+# Art. 47a Réduction d'activité après une naissance ou une adoption
+1 Le collaborateur, après la naissance ou l’adoption d’un ou de plusieurs enfants, a droit dans sa fonction à une réduction de 20 pour cent au plus du taux d’occupation, jusqu’à concurrence d’un taux d’occupation résiduel de 60 pour cent.
+2 Le droit à la réduction du taux d’occupation doit être exercé dans les 12 mois qui suivent la naissance ou l’adoption de l’enfant.
+3 Le travail à taux réduit débute au plus tard le premier jour qui suit l’expiration du délai de 12 mois mentionné à l’alinéa 2 du présente article.
+4 L'autorité d'engagement peut définir par voie de directive les catégories de collaborateurs ne bénéficiant pas des dispositions du présent article.
+5 Pour autant que l’organisation le permette, l’autorité d’engagement peut autoriser un taux d’occupation inférieur à 60 pour cent.
