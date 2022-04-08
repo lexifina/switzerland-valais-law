@@ -1,0 +1,4 @@
+# Art. 65a Obligation de présenter un certificat COVID-19 pour accéder à la salle et à la tribune du Grand Conseil
+1 L’accès à la salle et à la tribune du Grand Conseil est réservé lors des sessions parlementaires aux personnes âgées de 16 ans ou plus sur présentation d’un certificat COVID-19 valide conformément à l’article 6a de la loi fédérale sur les bases légales des ordonnances du Conseil fédéral visant à surmonter l’épidémie de COVID-19 (Loi COVID-19). Le bureau du Grand Conseil peut suspendre cette mesure si la situation épidémiologique le permet.
+2 Pour les personnes qui doivent avoir accès aux séances du Grand Conseil, les coûts des tests éventuellement nécessaires à l’établissement du certificat sont remboursés. Le bureau du Grand Conseil détermine les catégories de personnes ayant droit au remboursement.
+3 Le service parlementaire règle les modalités du contrôle des certificats.
