@@ -1,4 +1,5 @@
 # Règlement concernant le fonds cantonal de la formation continue des adultes
+(RFCFCA)
 du 18.11.2020
 Le Conseil d'Etat du canton du Valais
 vu la loi fédérale sur la formation continue du 20 juin 2014 (LFCo);
