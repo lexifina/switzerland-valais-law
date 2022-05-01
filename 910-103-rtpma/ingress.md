@@ -7,5 +7,5 @@ vu la loi cantonale fixant le tarif des frais et dépens devant les autorités j
 vu l’ordonnance cantonale concernant les procédures d’encaissement et de recouvrement du 28 juin 2006 (OPER);
 vu la directive cantonale relative à la perception des frais dans les affaires administratives du 17 décembre 2015 (DPF);
 vu l’arrêté cantonal fixant le barème du droit spécial perçu pour la promotion de la santé et la prévention des maladies du 2 novembre 2016 (ADSPS);
-sur proposition du Département de l’économie et de la formation,
+sur la proposition du département en charge de l’économie,
 ordonne:
