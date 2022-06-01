@@ -67,3 +67,4 @@
 ### 3.1 Droit transitoire en général
 ### 3.2 Introduction du registre foncier
 ### 3.3 Dispositions finales
+## T1 Disposition transitoire de la modification du 17.12.2020
