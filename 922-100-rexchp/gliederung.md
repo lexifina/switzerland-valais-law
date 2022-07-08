@@ -3,3 +3,4 @@
 ## 3 Pratique de la chasse
 ## 4 Dommages causés par la faune sauvage
 ## 5 Dispositions diverses
+## T1 Disposition transitoire de la modification du 28 juin 2022
