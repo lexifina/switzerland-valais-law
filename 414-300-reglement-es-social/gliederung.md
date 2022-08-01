@@ -1,6 +1,8 @@
 ## 1 Dispositions générales
-## 2 Conditions d'admission
-## 3 Organisation des études
-## 4 Evaluation des savoirs et des compétences, promotion et certification
-## 5 Etudiants
-## 6 Dispositions finales
+## 2 Admission
+## 3 Organisation des formations
+## 4 Evaluation, promotion et certification
+## 5 Droits et devoirs de l’étudiant
+## 6 Eléments disciplinaires
+## 7 Fin d’études et voies de droit
+## 8 Dispositions finales
