@@ -9,3 +9,4 @@
 ### 5.4 Exclusion
 ## 6 Voies de droit
 ## 7 Dispositions transitoires
+## T1-1 Disposition transitoire de la modification du 8 mars 2023
