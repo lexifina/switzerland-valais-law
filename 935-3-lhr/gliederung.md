@@ -9,5 +9,7 @@
 ## 3 Commerce de détail de boissons alcoolisées
 ## 4 Exécution et procédure
 ## 5 Voies de droit et dispositions pénales
-## 6 Dispositions transitoires et finales
+## 6 Dispositions diverses
+## 7 Dispositions transitoires et finales
 ## T1 Disposition transitoire de la modification du 12.05.2016
+## T2 Disposition transitoire de la modification du 19 novembre 2021
