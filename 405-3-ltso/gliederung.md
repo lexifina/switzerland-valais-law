@@ -18,4 +18,5 @@
 ## 4 Direction des écoles de l'enseignement secondaire du deuxième degré
 ## 5 Inspection
 ## 6 Dispositions finales
+## T1 Disposition transitoire de la modification du 12 mai 2022
 ## A1 Annexe 1 à l'article 2
