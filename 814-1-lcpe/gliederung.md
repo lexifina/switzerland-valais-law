@@ -8,7 +8,7 @@
 ### 2.2 Protection contre les accidents majeurs et autres catastrophes
 ### 2.3 Protection de l'air
 ### 2.4 Protection contre le bruit
-### 2.5 Protection contre les sons et lasers
+### 2.5 …
 ### 2.6 Protection contre le rayonnement non ionisant
 ### 2.7 Déchets
 ### 2.8 Sites pollués
