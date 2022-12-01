@@ -1,4 +1,5 @@
 # Règlement sur le temps de travail dans l'administration cantonale
+(RTTr)
 du 29.11.2011
 Le Conseil d'Etat du canton du Valais
 vu la loi sur le personnel de l'Etat du Valais du 19 novembre 2010;
