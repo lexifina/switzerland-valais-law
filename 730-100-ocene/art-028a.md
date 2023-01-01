@@ -1,0 +1,4 @@
+# Art. 28a Exigences relatives à l'utilisation de l'énergie solaire pour les nouveaux bâtiments
+1 Lors de la construction de nouveaux bâtiments d'une surface déterminante de construction supérieure à 300 m², une installation solaire doit être mise en place sur les toits ou les façades. Par surface déterminante de construction, on entend la surface située à l’intérieur de la projection du pied de façade.
+2 La surface des panneaux ou des capteurs solaires doit correspondre au minimum à 40 pour cent de la surface déterminante de construction.
+3 Les demandes de dérogations sont régies par l’article 7 de la présente ordonnance. N’est pas considérée comme économiquement disproportionnée une installation solaire dont le prix de revient est inférieur à 20 cts/kWh en calculant avec une durée d’amortissement de 25 ans.
