@@ -1,7 +1,11 @@
 ## 1 Dispositions générales
-## 2 Surveillance administrative des APEA
-## 3 Organisation administrative et fonctionnelle des APEA
-## 4 Gestion des affaires
-## 5 Inventaires, comptes et rapports d'activité
-## 5a Rémunération du curateur
-## 6 Dispositions diverses, transitoires et finales
+## 2 Surveillance administrative et organisationnelle et rattachement administratif des APEA
+## 3 Organisation administrative des APEA
+## 4 Formation des curateurs privés et nomination des curateurs
+## 5 Tenue des dossiers
+## 6 Inventaires, comptes et rapports d'activité
+## 7 Valeurs, placements et fortune
+## 8 Rémunération du curateur et frais de l’APEA
+## 9 Dispositions en matière de placement à des fins d'assistance
+## 10 Conservation des dossiers et archives
+## 11 Disposition transitoire
