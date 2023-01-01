@@ -1,6 +1,10 @@
 ## 1 Dispositions générales
-## 2 Mesures d'encouragement aux transports publics
-## 3 Le financement des transports publics régionaux
-## 4 Compétences
-## 5 Dispositions transitoires et finales
-## A1 Annexe 1 à l'article 11 alinéa 1
+## 2 Transports publics
+### 2.1 Trafic régional de voyageurs
+### 2.2 Trafic d'agglomération et trafic urbain
+## 3 Mobilité douce quotidienne
+## 4 Mobilité d’intérêt particulier
+## 5 Compétences et procédure
+### 5.1 Compétences
+### 5.2 Procédure
+## 6 Dispositions transitoires et finales

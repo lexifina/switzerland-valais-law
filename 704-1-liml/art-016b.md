@@ -1,0 +1,2 @@
+# Art. 16b Exécution par substitution
+1 Si une tâche légale, notamment lors de l'établissement des plans, la mise en place de la signalisation, la construction d'ouvrages, le remplacement ou la conservation, n’est pas exécutée ou est exécutée partiellement, le département peut, après sommation demeurée sans effet, décider et exécuter les mesures nécessaires à l’accomplissement de ladite tâche aux frais du responsable.
