@@ -1,5 +1,5 @@
-# Loi sur les forêts et les dangers naturels
-(LcFDN)
+# Loi sur les forêts
+(LcFo)
 du 14.09.2011
 Le Grand Conseil du canton du Valais
 vu la loi fédérale sur les forêts du 4 octobre 1991;
