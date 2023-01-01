@@ -3,6 +3,7 @@
 ### 2.1 Autorités compétentes
 ### 2.2 Arrondissements de tir
 ### 2.3 Commissions cantonales de tir
+### 2.3a Expert cantonal des installations de tir sportif
 ### 2.4 Installations de tir
 ### 2.5 Sociétés de tir
 ### 2.6 Obligations des communes et des sociétés de tir
