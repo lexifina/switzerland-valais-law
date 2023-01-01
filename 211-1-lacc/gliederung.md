@@ -6,6 +6,8 @@
 ##### 1.2.1.2 Compétences particulières
 ##### 1.2.1.3 Autorité de protection de l'enfant et de l'adulte
 ##### 1.2.1.3a Service officiel de la curatelle
+##### 1.2.1.3b Curateurs et tuteurs
+##### 1.2.1.3c Responsabilité civile
 ##### 1.2.1.4 Notaires
 #### 1.2.2 Procédures administratives particulières
 ##### 1.2.2.1 Droit des personnes physiques
