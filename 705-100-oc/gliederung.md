@@ -22,4 +22,5 @@
 ## 4 Police des constructions
 ## T1 Disposition transitoire
 ## T2 Disposition transitoire de la modification du 11 février 2021
+## T3 Disposition transitoire de la modification du 16 septembre 2022
 ## A1 Annexe 1
