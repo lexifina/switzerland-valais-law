@@ -1,8 +1,9 @@
-# Art. 2a Plateforme informatique
-1 Le canton met à disposition une plateforme informatique (ci-après: plateforme) permettant le dépôt et la gestion des dossiers de construction.
-2 La CCC et les communes utilisent la plateforme pour la gestion des dossiers de construction. Les communes peuvent renoncer à imposer l’utilisation de celle-ci pour les dossiers relevant de leur compétence.
-3 Les accès aux dossiers sont déterminés par l’autorité compétente au sens de l’article 2 LC.
-4 La validation des documents déposés sur la plateforme remplace la signature individuelle. La plateforme assure l’intégrité et l’horodatage de chaque document et certifie l’identité de la personne l’ayant déposé ou validé.
-5 Le Conseil d’Etat édicte un règlement d’accès et d’utilisation de la plateforme.
-6 Les systèmes utilisés par les communes, les unités administratives ou les tiers permettant le dépôt de documents sur la plateforme doivent être conformes aux exigences techniques et sécuritaires fixées par le règlement.
+# Art. 2a Plateforme numérique
+1 Le canton met à disposition une plateforme numérique cantonale eConstruction (ci-après: plateforme) permettant l’introduction et la gestion de tous les actes de procédure (notamment les demandes d’autorisations de construire, les annonces, les rappels, les sommations, les notifications) prévus par la présente loi et son ordonnance, à l’exception des procédures de surveillance.
+2 Les communes, pour les dossiers relevant de leur compétence, et les administrés, lorsque l’utilisation de la plateforme est offerte par l’autorité compétente, peuvent renoncer à l’utilisation de la plateforme. Les communes doivent publier leur décision de renoncer à l’utilisation de la plateforme au Bulletin officiel. A défaut, elles sont tenues d’offrir la possibilité d’utiliser la plateforme aux administrés.
+3 Les droits d’accès des autorités administratives devant se prononcer sur les dossiers déposés sur la plateforme sont déterminés par l’autorité compétente au sens de l’article 2 de la présente loi.
+4 A défaut d’exception prévue par la présente loi ou son ordonnance, la validation des documents déposés sur la plateforme fait office de signature manuscrite. Pour chaque communication et document, la plateforme assure que le contenu n’est pas modifié (intégrité) et que les données numériques déterminées existent à un moment précis (horodatage).
+4bis Une identité numérique vérifiée est obligatoire pour procéder à la validation.
+5 Le Conseil d’Etat édicte un règlement d’accès et d’utilisation de la plateforme numérique cantonale eConstruction (ci-après: ReC).
+6 Les systèmes permettant la validation de documents sur la plateforme que les autorités administratives utilisent doivent être conformes aux exigences techniques et sécuritaires fixées par le ReC.
 7 Les dispositions en matière de protection des données sont expressément réservées.
