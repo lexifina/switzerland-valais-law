@@ -1,5 +1,5 @@
-# Arrêté concernant l'estivage 2022
-du 09.03.2022
+# Arrêté concernant l'estivage 2023
+du 14.03.2023
 Le Conseil d'Etat du canton du Valais
 vu la loi fédérale sur les denrées alimentaires et les objets usuels du 20 juin 2014 (Loi sur les denrées alimentaires, LDAI);
 vu la loi fédérale sur la protection des eaux du 24 janviers 1991 (LEaux);
