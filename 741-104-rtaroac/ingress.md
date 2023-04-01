@@ -1,4 +1,5 @@
 # Règlement fixant le tarif des émoluments et des frais en matière d'admission des personnes et des véhicules à la circulation routière
+(RTarOAC)
 du 15.12.2021
 Le Conseil d'Etat du canton du Valais
 vu la loi fédérale sur la circulation routière du 19 décembre 1958 (LCR) et l'ordonnance réglant l'admission des personnes et des véhicules à la circulation routière du 27 octobre 1976 (OAC);
