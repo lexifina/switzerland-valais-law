@@ -1,0 +1,2 @@
+# Art. 221d Accès aux informations
+1 Les informations devant être tenues à disposition en vertu des articles 221a à 221c doivent être communiquées, dans un délai de 10 jours, à tout intéressé qui en fait la demande écrite auprès des personnes visées par ces dispositions. Si celles-ci ne donnent pas suite à la demande dans le délai utile, l’intéressé peut saisir le préposé à la protection des données et à la transparence, qui ouvre une procédure de médiation au sens de la LIPDA.
