@@ -9,5 +9,7 @@
 ### 2.2 Compétences du Grand Conseil et du Conseil d'Etat
 ### 2.3 Subventionnement cantonal de l'Hôpital du Valais
 ### 2.4 Infrastructures
+## 2a Hospices de soins palliatifs
 ## 3 Contrôles et sanctions
 ## 4 Dispositions finales et transitoires
+## T1 Disposition transitoire de la modification du 17 novembre 2022
