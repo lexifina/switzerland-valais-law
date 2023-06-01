@@ -1,0 +1,76 @@
+221.605
+Arrêté
+édictant un contrat-type de travail prévoyant des salaires minimaux impératifs pour le personnel des téléphériques, télésièges, téléskis et tous autres moyens de transports analogues
+du 23.11.2022 (état 01.06.2023)
+Le Conseil d'Etat du canton du Valais
+vu les articles 360a à 360f du Code des obligations (CO);
+vu l'article 12 de la loi d'application de la loi fédérale sur les travailleurs détachés et de la loi fédérale sur le travail au noir du 12 mai 2016 (LALDétLTN);
+vu l'article 31 de la loi cantonale sur le travail du 12 mai 2016 (LcTr);
+vu la sous-enchère salariale abusive et répétée observée dans le secteur des remontées mécaniques valaisannes;
+vu la publication du projet d'arrêté édictant un contrat-type de travail prévoyant des salaires minimaux impératifs pour le personnel des téléphériques, télésièges, téléskis et tous autres moyens de transports analogues dans le Bulletin officiel du Canton du Valais numéro 39 du 30 septembre 2022;
+vu les observations déposées;
+sur proposition de la Commission tripartite cantonale et du département en charge des affaires sociales,
+arrête:
+Art.
+1
+Champ d'application
+1
+Le présent contrat-type de travail s'applique sur tout le territoire du canton du Valais.
+2
+Il régit les rapports de travail entre les entreprises exploitant des téléphériques, télésièges, téléskis et autres moyens de transports analogues et leur personnel, quel que soit leur mode de rémunération et leur taux d’occupation.
+Art.
+2
+Salaires du 1
+er
+janvier 2023 au 31 mai 2023
+1
+Le salaire minimal est de 4'005 francs par mois (Fr. 22.75 à l'heure).
+2
+Les salaires minimaux pour les jeunes sont les suivants:
+Catégorie
+Salaire mensuel
+Salaire horaire
+15 ans
+Fr. 2'712
+Fr. 15.40
+16 ans
+Fr. 2'805
+Fr. 15.90
+17 ans
+Fr. 2'897
+Fr. 16.45
+18 ans
+Fr. 2'989
+Fr. 16.95
+19 ans
+Fr. 3'082
+Fr. 17.50
+3
+Un 13
+e
+salaire est payé en sus des salaires minimaux prévus aux alinéas 1 et 2 du présent article.
+Art.
+3
+*
+Salaires du 1
+er
+juin 2023 au 31 mai 2027
+1
+Les travailleurs sont rémunérés selon les classes de salaires définies dans l'annexe 1 au présent contrat-type de travail.
+2
+Les salaires minimaux font l’objet de l'annexe 2 au présent contrat-type de travail.
+3
+Un 13
+e
+salaire est payé en sus des salaires minimaux prévus à l'annexe 2.
+4
+Est considérée comme année d'expérience dans la branche, une année complète d'activité ou 2 saisons (hiver ou été), chacune d'une durée d'activité de 3 mois au minimum.
+Art.
+4
+Effets
+1
+Le présent contrat-type de travail s’applique directement aux rapports de travail qu’il régit. Il ne peut y être dérogé en défaveur des travailleuses et des travailleurs.
+RCV RO/AGS 2022-083
+Annexes
+Annexe 1: Annexe 1
+Annexe 2: Annexe 2
