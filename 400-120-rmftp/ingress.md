@@ -1,4 +1,5 @@
 # Règlement concernant les modalités de prise en charge des frais de déplacement en transport public pour les apprentis et étudiants du secondaire du deuxième degré général
+(RMFTP)
 du 06.06.2012
 Le Conseil d'Etat du canton du Valais
 vu l’article 57 de la Constitution du canton du Valais du 8 mars 1907;
