@@ -10,3 +10,4 @@
 ### 3.3 Incompatibilités tenant à la parenté
 ### 3.4 Incompatibilités tenant à l'exercice d'une fonction publique
 ## 4 Dispositions finales
+## T1 Disposition transitoire de la modification du 17 novembre 2022

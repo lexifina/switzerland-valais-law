@@ -1,4 +1,5 @@
 # Loi sur les incompatibilités
+(LI)
 du 11.02.1998
 Le Grand Conseil du canton du Valais
 vu les articles 31 alinéa 1 et 90 de la Constitution cantonale;
