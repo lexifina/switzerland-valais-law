@@ -1,4 +1,5 @@
 # Ordonnance concernant l'organisation et les directions des écoles cantonales du secondaire du deuxième degré professionnel
+(OODESP)
 du 10.01.2013
 Le Conseil d'Etat du canton du Valais
 vu l’article 57 alinéa 2 de la Constitution cantonale;
