@@ -1,3 +1,3 @@
-# Art. 34a Liens d'intérêts
-1 En entrant en fonction et lors de toute modification, chaque magistrat de l'ordre judiciaire et du ministère public signale ses liens d'intérêts définis par règlement.
-2 Le secrétaire général des tribunaux valaisans établit un registre public des indications fournies par les magistrats de l'ordre judiciaire. Le procureur général en fait de même des indications fournies par les magistrats du ministère public. Ces registres sont publiés sur les sites officiels du pouvoir judiciaire et du ministère public.
+# Art. 34a Liens d'intérêts et affiliation à un parti politique
+1 En entrant en fonction et lors de toute modification, chaque magistrat du pouvoir judiciaire et du ministère public signale ses liens d'intérêts définis par règlement ainsi que son affiliation à un parti politique.
+2 Le secrétaire général des tribunaux valaisans établit un registre public des indications fournies par les magistrats du pouvoir judiciaire. Le secrétaire général du ministère public en fait de même des indications fournies par les magistrats du ministère public. Ces registres sont publiés sur les sites officiels du pouvoir judiciaire et du ministère public.
