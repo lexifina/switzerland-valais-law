@@ -16,3 +16,4 @@
 ### 2.5 Répertoires, conservation et expéditions
 ## 3 Dispositions pénales, finales et transitoires
 ## T1 Dispositions transitoires de la modification du 9 septembre 2021
+## T2 Disposition transitoire de la modification du 15 juin 2023
