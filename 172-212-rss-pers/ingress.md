@@ -1,4 +1,5 @@
 # Règlement régissant l'organisation et la gestion de la sécurité et de la protection de la santé au travail pour le personnel de l'Etat du Valais
+(RSS-Pers)
 du 10.12.2007
 Le Conseil d'Etat du Canton du Valais
 vu les articles 81 à 82 de la loi fédérale sur l'assurance-accidents du 20 mars 1981;
