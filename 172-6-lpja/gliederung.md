@@ -33,7 +33,7 @@
 ### 5.1 Organisation du Tribunal cantonal
 ### 5.2 Le Tribunal cantonal comme autorité de recours
 #### 5.2.1 Juridiction de droit administratif
-#### 5.2.2 Juridiction de droit des assurances sociales
+#### 5.2.2 Juridiction de droit fiscal et des assurances sociales
 ### 5.3 Le Tribunal cantonal comme juridiction unique
 #### 5.3.1 Action de droit public
 #### 5.3.2 Action de droit des assurances sociales
