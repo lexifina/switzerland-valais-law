@@ -1,3 +1,0 @@
-# Art. 39c Surveillance de l'exécution
-1 Lors de la conclusion du contrat, l'adjudicateur s'assure de sa conformité avec la procédure menée.
-2 L'adjudicateur contrôle durant l'exécution du marché le respect de l'adjudication. Il s’assure notamment du respect par l’adjudicataire des dispositions relatives à la protection des travailleurs, aux conditions de travail et de salaires. Sur demande, l’adjudicataire doit en démontrer leur respect, tant par lui-même que par ses sous-traitants. Demeure réservée une requête de contrôle similaire à ce que prévoit l'article 15 alinéa 5 de la présente ordonnance.
