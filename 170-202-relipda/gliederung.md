@@ -6,7 +6,8 @@
 ### 4.2 Exceptions à la gratuité et émoluments
 ## 5 Protection des données
 ### 5.1 Modalités
-### 5.2 Déclaration des fichiers
+### 5.2 Registre
 ### 5.3 Mesures techniques et organisationnelles
+## 5a Autorité de surveillance
 ## 6 Archivage
 ## 7 Dispositions finales
