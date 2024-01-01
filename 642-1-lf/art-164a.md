@@ -8,5 +8,6 @@
 a) intérêts rémunératoires sur les acomptes payés de manière anticipée;
 b) intérêts moratoires sur les acomptes impayés ou payés tardivement;
 c) intérêts de remboursement sur les montants facturés et payés en trop;
-d) les intérêts compensatoires représentant des montants inférieurs à 500 francs ne sont pas facturés sur les impôts non payés au terme général d'échéance de l'impôt.
+d) les intérêts compensatoires représentant des montants inférieurs à 500 francs ne sont pas facturés sur les impôts non payés au terme général d'échéance de l'impôt;
+e) le taux d’intérêt moratoire et le taux d’intérêt de remboursement sont identiques.
 7 Le Département des finances détermine les conditions auxquelles il n'est pas compté d'intérêt pour des raisons d'économie ou par simplification administrative.

@@ -2,7 +2,7 @@
 1 Le débiteur des prestations imposables a l’obligation:
 a) de retenir l'impôt dû à l'échéance des prestations en espèces et de prélever auprès du contribuable l'impôt dû sur les autres prestations;
 b) de remettre au contribuable une attestation indiquant le montant de la retenue;
-c) de verser l'impôt à l'autorité compétente;
+c) de verser périodiquement l'impôt à l'autorité fiscale compétente, d'établir à son intention les relevés y relatifs, ce par voie électronique, et de lui permettre de consulter tous les documents utiles au contrôle de la perception de l'impôt;
 d) de verser la part proportionnelle de l'impôt sur les options de collaborateur exercées à l'étranger; l'employeur doit la part proportionnelle de l'impôt même si l'avantage appréciable en argent est versé par une société du groupe à l'étranger.
 2 Il doit également retenir l’impôt à la source lorsque le contribuable est assujetti dans un autre canton.
 3 Le débiteur des prestations imposables est responsable du paiement de l'impôt à la source.
