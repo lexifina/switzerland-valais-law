@@ -1,10 +1,8 @@
-# Loi concernant l'adhésion du canton du Valais à l'accord intercantonal sur les marchés publics
+# Loi concernant l'adhésion du canton du Valais à l'accord intercantonal sur les marchés publics du 15 novembre 2019
 (LcAIMP)
-du 08.05.2003
+du 15.03.2023
 Le Grand Conseil du canton du Valais
-en exécution de l'accord GATT sur les marchés publics du 15 avril 1994;
-en exécution de l'accord bilatéral de la Suisse avec l'Union européenne sur les marchés publics du 21 juin 1999;
-en exécution de la loi fédérale sur le marché intérieur du 6 octobre 1995;
-vu les articles 31 alinéa 3 lettre a, 42 alinéa 2, 54 et 58 de la Constitution cantonale;
+vu les articles 31, 32, 38 alinéa 2, 42 et 54 de la Constitution cantonale;
+vu l'article 41 de la loi sur l'organisation des Conseils et les rapports entre les pouvoirs du 28 mars 1996 (LOCRP);
 sur la proposition du Conseil d'Etat,
 ordonne:
