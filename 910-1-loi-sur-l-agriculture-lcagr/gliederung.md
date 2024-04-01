@@ -1,6 +1,9 @@
 ## 1 Dispositions générales
 ## 2 Organisation
 ## 3 Promotion de la qualité et des ventes
+### 3.1 En général
+### 3.2 Redevances agricoles
+### 3.3 Financement spécial pour risques météorologiques ou phytosanitaires
 ## 4 Viti-viniculture
 ### 4.1 Dispositions générales
 ### 4.2 Secteurs d'encépagement
