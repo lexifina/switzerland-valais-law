@@ -6,3 +6,4 @@
 ## 4 Dispositions finales et transitoires
 ## T1 Disposition transitoire de la modification du 16.02.2017
 ## T2 Dispositions transitoires de la modification du 9 septembre 2021
+## T3 Disposition transitoire de la modification du 16 novembre 2023
