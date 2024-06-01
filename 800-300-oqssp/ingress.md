@@ -1,6 +1,7 @@
 # Ordonnance sur la qualité des soins et la sécurité des patients
+(OQSSP)
 du 03.09.2014
 Le Conseil d'Etat du canton du Valais
-vu les articles 40 à 48, ainsi que 90 à 91b de la loi sur la santé du 14 février 2008 (LS);
-sur la proposition du Département de la santé, des affaires sociales et de la culture,
+vu les articles 41 à 44, ainsi que 78 et 85 de la loi sur la santé du 12 mars 2020 (LS);
+sur la proposition du département en charge de la santé,
 ordonne:
