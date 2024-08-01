@@ -1,6 +1,7 @@
 ## 1 Généralités
-## 2 Admission et organisation de la formation
-## 3 Certification
-## 4 Examens de maturité
-## 5 Procédure de recours
-## 6 Dispositions finales
+## 2 Organisation de la formation
+## 3 Admission
+## 4 Certification
+## 5 Examens finaux
+## 6 Procédure de recours
+## 7 Dispositions finales
