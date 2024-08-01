@@ -7,7 +7,7 @@
 ### 3.4 Protection des forêts contre d'autres atteintes
 ### 3.5 Protection contre les atteintes naturelles
 ## 4 Gestion des forêts
-## 5 Protection contre les dangers naturels
+## 5 …
 ## 6 Mesures d'encouragement
 ## 7 Dispositions pénales et contraintes administratives
 ## 8 Dispositions finales et transitoires

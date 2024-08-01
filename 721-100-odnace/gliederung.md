@@ -1,9 +1,9 @@
 ## 1 Dispositions générales
-## 2 Organisation
-## 3 Zones de danger
-## 4 Aménagement des cours d'eau
-## 5 Cas particuliers
-## 6 Financement
-## 7 Dispositions diverses
+## 2 Répartition des compétences
+## 3 Gestion intégrée des risques
+## 4 Conditions pour construire dans les secteurs exposés au danger
+## 5 Procédure
+## 6 Spécificités des projets d'aménagement des cours d'eau et lacs ainsi que des ouvrages de protection
+## 7 Financement
 ## 8 Dispositions finales
-## A1 Annexe 1 à l'article 5 alinéa 1
+## T1 Disposition transitoire
