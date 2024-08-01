@@ -1,11 +1,13 @@
-# Règlement de la maturité spécialisée option "social" du canton du Valais
+# Règlement de la maturité spécialisée domaine "travail social" du canton du Valais
+(RMSSo)
 du 28.09.2011
 Le Conseil d'Etat du canton du Valais
-vu la loi sur l'instruction publique du 4 juillet 1962;
-vu le règlement de la CDIP relatif à la reconnaissance des certificats délivrés par les ecoles de culture générale du 12 juin 2003;
-vu le règlement de l’école de culture générale du 3 juin 2008;
-vu la loi fédérale sur les Hautes écoles spécialisées du 6 octobre 1995, en particulier son article 5 dans la teneur du 17 décembre 2004;
-vu les directives d’admission dans le domaine du travail social HES-SO, version du 16 octobre 2008;
-vu la reconnaissance par la CDIP des écoles de culture générale du Valais du 26 juin 2009;
-sur la proposition du Département de l’éducation, de la culture et du sport (ci-après: Département),
-arrête:
+vu la loi sur l'instruction publique du 4 juillet 1962 (LIP);
+vu la loi fédérale sur l'encouragement des hautes écoles et la coordination dans le domaine suisse des hautes écoles du 30 septembre 2011 (LEHE);
+vu le règlement de la CDIP concernant la reconnaissance des certificats délivrés par les écoles de culture générale du 25 octobre 2018;
+vu le règlement de l’école de culture générale du 15 août 2021;
+vu le règlement d'admission en Bachelor HES-SO du 26 mai 2011;
+vu le règlement d'admission en Bachelor of Arts HES-SO en Travail social du 23 novembre 2021;
+vu la reconnaissance par la CDIP des écoles de culture générale du Valais du 29 juin 2021;
+sur la proposition du département en charge de la formation,
+ordonne:

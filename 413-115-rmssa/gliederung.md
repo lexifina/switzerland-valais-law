@@ -4,3 +4,4 @@
 ## 4 Obligations de l'étudiant
 ## 5 Procédure de recours
 ## 6 Dispositions finales
+## T1 Disposition transitoire de la modification du XXX

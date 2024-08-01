@@ -1,12 +1,14 @@
-# Règlement de la maturité spécialisée orientation santé du canton du Valais
+# Règlement de la maturité spécialisée domaine "santé/sciences expérimentales" du canton du Valais
+(RMSSa)
 du 20.04.2016
 Le Conseil d'Etat du canton du Valais
-vu la loi sur l'instruction publique du 4 juillet 1962;
-vu le règlement de la Conférence suisse des directeurs cantonaux de l'instruction publique (CDIP) relatif à la reconnaissance des certificats délivrés par les Ecoles de culture générale du 12 juin 2003;
-vu le règlement cantonal de l'école de culture générale du 3 juin 2008;
-vu la loi fédérale sur les Hautes écoles spécialisées du 6 octobre 1995, en particulier son article 5;
-vu la reconnaissance par la CDIP des écoles de culture générale du Valais du 26 juin 2009;
+vu la loi sur l'instruction publique du 4 juillet 1962 (LIP);
+vu la loi fédérale sur l'encouragement des hautes écoles et la coordination dans le domaine suisse des hautes écoles du 30 septembre 2011 (LEHE);
+vu le règlement de la CDIP concernant la reconnaissance des certificats délivrés par les écoles de culture générale du 25 octobre 2018;
+vu le règlement de l'école de culture générale du 15 août 2021;
+vu le règlement d'admission en Bachelor HES-SO du 26 mai 2011;
+vu le règlement d'admission en Bachelor dans le domaine Santé HES-SO du 28 novembre 2017;
+vu la reconnaissance par la CDIP des écoles de culture générale du Valais du 29 juin 2021;
 vu la décision de la Conférence intercantonale de l'instruction publique de la Suisse romande et du Tessin (CIIP) sur les principes cadres de la maturité spécialisée santé romande du 26 mai 2011;
-vu les directives d'admission en Bachelor dans le domaine Santé de la HES-SO dans la version du 21 octobre 2011;
-sur la proposition du Département de la formation et de la sécurité,
-arrête:
+sur la proposition du département en charge de la formation,
+ordonne:
