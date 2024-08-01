@@ -1,4 +1,5 @@
 # Règlement fixant les normes et directives concernant les constructions scolaires de la scolarité obligatoire
+(RCS)
 du 23.03.2005
 Le Conseil d'Etat du canton du Valais
 vu les dispositions des articles 8, 14, 27, 111 à 113, 118 à 120 de la loi sur l'instruction publique du 4 juillet 1962 (LIP);

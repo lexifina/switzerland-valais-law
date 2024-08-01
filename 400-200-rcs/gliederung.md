@@ -5,6 +5,7 @@
 ### 1.4 Programme de réalisation
 ## 2 Normes de construction
 ### 2.1 Généralités
+### 2.1a Infrastructure informatique et multimédia
 ### 2.2 Type de salles et aménagements
 ### 2.3 Salles de gymnastique
 ### 2.4 Bibliothèques et médiathèques
