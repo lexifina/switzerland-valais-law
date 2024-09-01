@@ -8,7 +8,7 @@
 ### 1.2 Organisation de l'année scolaire
 ## 2 Traitement des enseignants
 ### 2.1 Principes
-### 2.2 Enseignement de l'école enfantine et primaire
+### 2.2 Enseignement de l'école primaire
 ### 2.3 Enseignement du secondaire du premier degré
 ### 2.4 Enseignement secondaire du deuxième degré général
 ### 2.5 Enseignement secondaire du deuxième degré professionnel
@@ -19,4 +19,5 @@
 ## 5 Inspection
 ## 6 Dispositions finales
 ## T1 Disposition transitoire de la modification du 12 mai 2022
+## T2 Disposition transitoire de la modification du 15 mars 2024
 ## A1 Annexe 1 à l'article 2
