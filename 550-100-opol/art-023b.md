@@ -1,0 +1,2 @@
+# Art. 23b c) Section informatique
+1 La section informatique est en charge de la mise en place et de la gestion des infrastructures informatiques et des logiciels ainsi que de la sécurité informatique de la police cantonale. Elle est également en charge des acquisitions et de la gestion du parc informatique de la police cantonale. Elle collabore étroitement avec le Service cantonal de l’informatique.
