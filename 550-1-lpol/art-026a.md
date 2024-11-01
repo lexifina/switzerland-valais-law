@@ -1,0 +1,3 @@
+# Art. 26a But et organisation
+1 La gestion des menaces a pour but la détection précoce et la prévention de la commission d'infractions par des personnes dont le comportement ou les propos laissent supposer une propension marquée à la violence dirigée contre des tiers et qui sont susceptibles de porter gravement atteinte à l'intégrité physique, psychique ou sexuelle de tiers. Elle inclut également les cas de harcèlement ou de cyberharcèlement dès qu'un tel comportement a été rapporté à plusieurs reprises par rapport à un individu ou à un groupe d'individus.
+2 La police judiciaire, par une structure opérationnelle additionnelle, est en charge de la gestion des menaces. Elle conduit et coordonne la gestion des menaces sur le plan cantonal.

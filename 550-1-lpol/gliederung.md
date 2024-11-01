@@ -3,6 +3,7 @@
 ## 3 Organisation du corps de la police cantonale
 ## 4 Modes d'intervention de la police cantonale
 ### 4.1 Principes généraux
+### 4.1a Gestion des menaces
 ### 4.2 Mesures de police
 ### 4.3 Mesures de surveillance secrète
 ### 4.4 Contrainte - Usage de l'arme à feu
@@ -13,4 +14,4 @@
 ## 9 Financement des prestations de la police cantonale
 ## 10 Dispositions diverses
 ## 11 Disposition finale
-## T1 Disposition transitoire de la modification du 09.05.2019
+## T1 …
