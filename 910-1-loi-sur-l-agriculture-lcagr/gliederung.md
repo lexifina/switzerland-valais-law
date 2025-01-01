@@ -10,6 +10,7 @@
 ### 4.3 Exigences quant aux vignes, vendanges et vins
 ### 4.4 Contrôles
 ### 4.5 Appellation Grand Cru
+### 4.6 Modernisation, adaptation et valorisation du vignoble
 ## 5 Surveillance, entretien des cultures et zones de protection
 ## 6 Amélioration de structures
 ### 6.1 Dispositions générales
