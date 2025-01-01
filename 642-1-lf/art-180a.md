@@ -3,3 +3,4 @@
 a) 2,75 pour cent jusqu'à concurrence de 250'000 francs;
 b) 6,75 pour cent de 250'001 francs et plus.
 L’impôt ne peut cependant être inférieur au taux de 2,75 pour cent avant les déductions prévues aux articles 88b, 88e et T1-2.
+2 Le taux de l'impôt peut être majoré dans des cas particuliers en lien avec les relations internationales.
