@@ -1,13 +1,17 @@
 ## 1 Généralités
-## 2 Enveloppe des bâtiments
-## 3 Part maximale d'énergies non renouvelables pour les nouveaux bâtiments
-## 4 Installations techniques
-## 5 Piscines chauffées
-## 6 Décompte individuel des frais de chauffage et d'eau chaude sanitaire
-## 7 Exemplarité des bâtiments publics
-## 8 Standards de qualité dans le domaine du bâtiment
-## 9 Exécution
-## A1 Annexe 1 à l'article 20 alinéa 1
-## A2 Annexe 2 à l'article 21 alinéa 2
-## A3 Annexe 3 à l'article 21 alinéa 4
-## A4 Annexe 4 à l'article 26 alinéa 1
+## 2 Planification énergétique
+## 3 Approvisionnement énergétique
+## 4 Utilisation économe et efficace de l'énergie
+### 4.1 Dispositions générales
+#### 4.1.1 Enveloppe des bâtiments
+#### 4.1.2 Installations techniques
+#### 4.1.3 Piscines chauffées
+#### 4.1.4 Décompte individuel des frais de chauffage et d’eau chaude sanitaire
+### 4.2 Exigences concernant la couverture des besoins de chaleur et la production propre d’électricité pour les nouveaux bâtiments
+### 4.3 Exigences concernant la couverture des besoins de chaleur et la production propre d’électricité pour les bâtiments existants
+### 4.4 Exemplarité des collectivités publiques
+### 4.5 Bâtiments et processus grands consommateurs
+## 5 Aides financières et mesures d’encouragement
+### 5.1 Mise en œuvre des aides financières
+### 5.2 Mesures d’encouragement et soutien
+## 6 Exécution
