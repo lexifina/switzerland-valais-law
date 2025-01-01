@@ -1,4 +1,5 @@
 # Ordonnance concernant le traitement des employés de l'Etat du Valais
+(OTrait)
 du 10.07.1997
 Le Conseil d'Etat du canton du Valais
 vu l'article 57 de la Constitution cantonale;
