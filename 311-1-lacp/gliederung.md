@@ -19,6 +19,7 @@
 ### 5.1 Loi fédérale sur le droit pénal administratif (DPA)
 ### 5.2 Loi fédérale sur l'entraide internationale en matière pénale (EIMP) - Loi fédérale sur la coopération avec la Cour pénale internationale (LCPI) - Loi fédérale relative au Traité conclu avec les Etats-Unis d'Amérique sur l'entraide judiciaire en matière pénale (LTEJUS)
 ### 5.3 Loi fédérale sur la surveillance de la correspondance par poste et télécommunication (LSCPT)
+### 5.4 Loi fédérale sur l'interdiction de se dissimuler le visage (LIDV)
 ## 6 Disposition finale
 ## T1 Disposition transitoire
 ## T2 Disposition transitoire de la modification du 13.09.2019
