@@ -11,7 +11,8 @@
 #### 2.1.6 Indemnités et abornement
 #### 2.1.7 Prestations en nature des communes et bourgeoisies
 #### 2.1.8 Contributions de propriétaires fonciers aux frais routiers
-#### 2.1.9 Construction et entretien des voies publiques
+#### 2.1.9 Fonds routiers cantonaux
+#### 2.1.10 Caractéristiques, exécution et frais
 ### 2.2 Entretien
 #### 2.2.1 Dispositions générales
 #### 2.2.2 Routes nationales
