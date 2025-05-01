@@ -7,5 +7,6 @@
 ### 3.4 Pharmacie privée du médecin
 ### 3.5 Drogueries
 ### 3.6 Prescription et remise
+## 3a Stupéfiants
 ## 4 Inspections et contrôles
 ## 5 Dispositions diverses et finales
