@@ -1,0 +1,5 @@
+# Art. 57d Domaines de spécialité visés par la limitation de l’admission
+1 Le Conseil d’Etat fixe dans une ordonnance les domaines de spécialité soumis à la limitation et les nombres maximaux de médecins des domaines de spécialité soumis à la limitation et admis à fournir des soins ambulatoires à la charge de l’assurance obligatoire des soins, selon les critères et les principes méthodologiques définis dans l’ordonnance fédérale sur la fixation de nombres maximaux de médecins qui fournissent des prestations ambulatoires.
+2 Lorsqu’il fixe les nombres maximaux de médecins, le Conseil d’Etat prévoit des facteurs de pondération afin de tenir compte de circonstances qui ne sont pas prises en considération dans le calcul du taux de couverture.
+3 Dans des cas particuliers, le département peut déroger à la limitation pour des raisons de santé publique ou d’équilibre régional.
+4 Le département procède à une évaluation périodique de la démographie médicale, des facteurs de pondération et des limitations.

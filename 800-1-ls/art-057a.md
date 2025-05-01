@@ -1,0 +1,2 @@
+# Art. 57a Champ d’application
+1 La présente section définit les principes applicables, les compétences du Conseil d’Etat et la procédure applicable en matière de limitation des admissions des médecins soumis au régime général de la limitation à pratiquer à charge de l’assurance obligatoire des soins au sens de l’article 55a de la loi fédérale sur l’assurance-maladie (LAMal) et de l’ordonnance fédérale sur la fixation de nombres maximaux de médecins qui fournissent des prestations ambulatoires.

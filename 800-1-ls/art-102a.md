@@ -1,0 +1,9 @@
+# Art. 102a "Thérapies de conversion" : pratiques visant à modifier l'orientation affective ou sexuelle ou l'identité de genre d'autrui
+1 Les "thérapies de conversion", incluant toute pratique visant à modifier ou réprimer l'orientation affective ou sexuelle ou l'identité de genre d'autrui, sont interdites et passibles des sanctions prévues par la présente loi.
+2 Est également interdite et passible des sanctions prévues par la présente loi la promotion ou le fait de faciliter ou d'encourager l'accès ou le recours à de telles pratiques.
+3 Les professionnels œuvrant notamment dans le domaine de la santé, de l’éducation, du social, du sport, des activités de jeunesse ou des activités religieuses, qui constatent qu'une personne mineure ou incapable de discernement subit des pratiques désignées à l'alinéa 1 ou 2, avisent le médecin cantonal, l'autorité de protection de l'enfant et de l'adulte selon la législation applicable en la matière et, le cas échéant, l'autorité administrative dont ils dépendent.
+4 Demeurent réservées les dispositions de la loi en faveur de la jeunesse relatives au devoir de signalement lorsque les personnes sont mineures.
+5 Ne sont pas concernés par les alinéas 1 à 4:
+a) les thérapies et prestations d'aide et de soutien de nature psychosociale ou psychothérapeutique respectueuses de l'autodétermination de la personne et contribuant à la libre expression de son orientation affective ou sexuelle ou de son identité de genre;
+b) les traitements hormonaux et les chirurgies d'affirmation du genre effectués avec le consentement libre et éclairé de la personne et indiqués médicalement dans le cadre des traitements reconnus de l'incongruence de genre;
+c) le fait d’inviter à la réflexion, tout en respectant son autodétermination sans entraver ou retarder son accès aux soins d'affirmation, une personne qui s’interroge sur son identité de genre et qui envisage un traitement prévu à la lettre b.
