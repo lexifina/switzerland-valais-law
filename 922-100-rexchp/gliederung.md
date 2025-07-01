@@ -6,3 +6,4 @@
 ## T1 Disposition transitoire de la modification du 28 juin 2022
 ## T2 Disposition transitoire de la modification du 14 juin 2023
 ## T3 Disposition transitoire de la modification du 19 juin 2024
+## T4 Disposition transitoire de la modification du 18 juin 2025
