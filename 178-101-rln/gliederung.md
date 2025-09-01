@@ -13,3 +13,4 @@
 ## T1 Disposition transitoire de la modification du 16 octobre 2019
 ## T2 Disposition transitoire de la modification du 1er décembre 2021
 ## T3 Disposition transitoire de la modification du 6 décembre 2023
+## T4 Disposition transitoire de la modification du 27 août 2025
