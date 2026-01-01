@@ -7,3 +7,4 @@
 ## 7 Procédure pour la constatation du périmètre des territoires en mouvement permanent
 ## 8 Diffusion des données et émoluments
 ## 9 Dispositions finales
+## T1 Disposition transitoire de la modification du 18 juin 2025
