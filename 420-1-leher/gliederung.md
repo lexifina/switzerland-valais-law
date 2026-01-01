@@ -1,6 +1,6 @@
-## 1 Généralités et champ d'application
-## 2 Organes
-## 3 Conditions cadre
-## 4 Formation et recherche
-## 5 Dispositions financières
-## 6 Dispositions finales
+## 1 Dispositions générales
+## 2 Gouvernance
+## 3 Contributions du canton
+## 4 Surveillance, protection des titres et protection contre les fraudes
+## 5 Dispositions pénales
+## 6 Recours

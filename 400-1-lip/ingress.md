@@ -7,3 +7,5 @@ considérant la nécessité d'organiser les diverses parties de l'enseignement;
 vu les articles 2, 13, 15 et 18 de la Constitution cantonale;
 sur la proposition du Conseil d'Etat,
 ordonne:
+1 Organisation de l'enseignement
+1.1 Dispositions générales
