@@ -6,3 +6,4 @@ vu la loi fédérale sur l'acquisition d'immeubles par des personnes à l'étran
 vu la loi réglant l'application de la loi fédérale du 16 décembre 1983 sur l'acquisition d'immeubles par des personnes à l'étranger du 31 janvier 1991 (LALFAIE);
 sur la proposition du Département de l’économie, de l'énergie et du territoire,
 décide:
+1 Organisation
