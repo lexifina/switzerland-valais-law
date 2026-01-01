@@ -1,4 +1,0 @@
-# Art. 2d Notification des décisions
-1 L’autorité compétente notifie ses décisions par le biais de la plateforme pour autant que l'administré ait expressément accepté cette forme de communication. L’acceptation expresse se fait via l’insertion, par l’administré, d’une coche au lieu indiqué sur la plateforme.
-2 Les décisions sont munies d’une signature électronique qualifiée conformément à la législation fédérale sur la signature électronique.
-3 Les autres modalités relatives à la notification sont réglées dans l’ordonnance.
