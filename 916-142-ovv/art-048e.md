@@ -3,4 +3,4 @@
 a) pour les vins blancs et rosés, 30 milliéquivalents par litre ou 1.8g/l;
 b) pour les vins rouges, 30 milliéquivalents par litre ou 1.8g/l.
 2 On entend par méthodes particulières les productions de vins définis par l’article 48d alinéa 2 et 3.
-3 Il est en outre renvoyé aux prescriptions de l'appendice 10 de l'annexe 2 de l'ordonnance fédérale sur les boissons alcooliques.
+3 Il est en outre renvoyé aux prescriptions de l'ordonnance du DFI sur les boissons.
