@@ -1,2 +1,1 @@
-# Art. 69c Réserve
-1 La dénomination "réserve" peut être attribuée à un vin AOC Valais mis dans le commerce après une période de vieillissement d'au moins 18 mois pour les vins rouges et 12 mois pour les vins blancs à partir du 1er octobre de l'année de récolte.
+# Art. 69c …
