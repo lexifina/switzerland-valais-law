@@ -1,0 +1,4 @@
+# Art. 10b Prise de contact par les consultations spécialisées
+1 Les consultations spécialisées mandatées par le canton contactent les personnes suite à une intervention de police, selon les modalités définies avec la police cantonale et le ministère public, pour les informer sur les aides existantes.
+2 Si une personne vient de sa propre initiative dénoncer une situation la concernant au poste de police, la transmission des informations ne se fera qu’au moment où elle ne constitue plus un risque de compromettre la sécurité des personnes, l’enquête ou la procédure.
+3 A l’exception des personnes sous le coup d'une mesure prononcée sur la base de l’article 17 de la loi, les personnes concernées n’ont aucune obligation d’accepter un entretien après cette prise de contact. A leur demande, les consultations spécialisées effacent les données transmises par la police.
