@@ -8,3 +8,4 @@ vu l'article 39 de la loi sur l'organisation des Conseils et les rapports entre 
 vu l’article 6 lettre b de la loi sur les communes du 5 février 2004;
 sur proposition du Conseil d’Etat,
 ordonne:
+1 Dispositions générales
