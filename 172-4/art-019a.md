@@ -1,4 +1,5 @@
 # Art. 19a Renchérissement
-1 Les éléments du traitement, à l'exception des allocations sociales et des indemnités, sont adaptés au renchérissement une fois par an, le 1er janvier, sur la base de l'indice suisse des prix à la consommation du mois de décembre précédent.
-2 Si la situation du ménage financier de l'Etat l'exige, le Conseil d'Etat peut décider, à titre exceptionnel, de ne pas verser tout ou partie de l'allocation de renchérissement.
-3 L'adaptation au renchérissement non effectuée peut, selon la situation financière de l'Etat, faire l'objet d'un rattrapage en tout ou en partie, sans compensation.
+1 Les éléments du traitement, à l'exception des allocations sociales et des indemnités, sont adaptés au renchérissement une fois par an, le 1er janvier, sur la base de l'indice suisse des prix à la consommation du mois de mars précédent.
+2 Si la situation du ménage financier de l'Etat l'exige, le Conseil d'Etat peut décider de ne pas verser tout ou partie de l'allocation de renchérissement.
+3 L'adaptation au renchérissement non effectuée peut, selon la situation financière de l'Etat, faire l'objet d'un rattrapage en tout ou en partie, sans compensation, dans le cadre du processus budgétaire.
+3 Allocations sociales
