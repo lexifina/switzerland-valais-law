@@ -1,0 +1,165 @@
+805.130
+Arrêté
+fixant les coûts facturables et les contributions résiduelles des pouvoirs publics pour les organisations de soins et d'aide à domicile et les infirmières indépendantes
+du 10.06.2026 (état 01.06.2026)
+Le Conseil d’Etat du canton du Valais
+vu l’article 57 alinéa 3 de la Constitution cantonale;
+vu la loi fédérale sur l’assurance-maladie du 18 mars 1994 (LAMal), en particulier l’article 25a;
+vu l’ordonnance du Département fédéral de l’intérieur sur les prestations dans l’assurance obligatoire des soins en cas de maladie du 29 septembre 1995 (OPAS);
+vu la loi sur les soins de longue durée du 14 septembre 2011 (LSLD);
+vu l’ordonnance sur la planification et le financement des soins de longue durée du 15 octobre 2014;
+vu l’arrêté du Conseil d’Etat du 18 décembre 2024 fixant les coûts facturables et les contributions résiduelles des pouvoirs publics pour l’année 2025;
+vu la décision du Conseil d’Etat du 21 janvier 2026 et la décision du Conseil d’Etat du 27 mai 2026 reconduisant à titre provisoire les coûts facturables et les contributions résiduelles fixés dans l’arrêté du 18 décembre 2024 pour les cinq premiers mois de l’année 2026;
+sur la proposition du département en charge de la santé,
+arrête:
+[1]
+Art.
+1
+Dispositions générales
+1
+Le présent arrêté fixe pour les organisations de soins et d'aide à domicile (OSAD) et les infirmières et infirmiers indépendants:
+a)
+les coûts facturables pour les prestations de soins au sens de l’article 21 alinéa 2 de l’ordonnance sur la planification et le financement des soins de longue durée, et
+b)
+les contributions résiduelles des pouvoirs publics aux coûts des soins pour les assurés domiciliés en Valais, au sens de l’article 21 alinéa 3 et 4 de l’ordonnance sur la planification et le financement des soins de longue durée.
+2
+Le petit matériel à usage courant est compris dans les coûts facturables.
+3
+Pour les organisations de soins et d’aide à domicile qui emploient et rémunèrent des proches aidants aucune contribution résiduelle des pouvoirs publics n’est accordée pour les prestations effectuées par ces derniers.
+4
+Les OSAD ainsi que les infirmières indépendantes qui fournissent des soins exclusivement dans leurs propres locaux sans se déplacer au domicile du patient ne sont pas éligibles aux contributions résiduelles. Des exceptions sont possibles pour des OSAD sans but lucratif.
+Art.
+2
+Coûts facturables et contributions résiduelles du 1
+er
+janvier au 31 mai 2026
+1
+Les coûts facturables et les contributions résiduelles pour la période du 1
+er
+janvier au 31 mai 2026 sont ceux fixés aux articles 2 et 3 de l’arrêté du Conseil d’Etat du 18 décembre 2024.
+Art.
+3
+Coûts facturables dès le 1
+er
+juin 2026
+1
+Pour les organisations de soins et d’aide à domicile standards (OSAD standards) qui appliquent la CCT soins longue durée, les coûts facturables pour les prestations de soins s’élèvent, par heure, à:
+a)
+124,35 francs pour les prestations d’évaluation et de conseils;
+b)
+104,30 francs pour les prestations d’examens et de traitements;
+c)
+75,20 francs pour les prestations de soins de base.
+2
+Pour les organisations de soins et d’aide à domicile standards (OSAD standards) qui n’appliquent pas la CCT soins longue durée, les coûts facturables pour les prestations de soins s’élèvent, par heure, à:
+a)
+112,60 francs pour les prestations d’évaluation et de conseils;
+b)
+94,35 francs pour les prestations d’examens et de traitements;
+c)
+67,95 francs pour les prestations de soins de base.
+3
+Pour les organisations de soins et d’aide à domicile fournissant des soins uniquement en appartement à encadrement médico-social (In-House Spitex) qui appliquent la CCT soins longue durée, les coûts facturables pour les prestations de soins s’élèvent, par heure, à:
+a)
+94,15 francs pour les prestations d’évaluation et de conseils;
+b)
+83,15 francs pour les prestations d’examens et de traitements;
+c)
+65,35 francs pour les prestations de soins de base.
+4
+Pour les organisations de soins et d’aide à domicile fournissant des soins uniquement en appartement à encadrement médico-social (In-House Spitex) qui n’appliquent pas la CCT soins longue durée, les coûts facturables pour les prestations de soins s’élèvent, par heure, à:
+a)
+84,75 francs pour les prestations d’évaluation et de conseils;
+b)
+74,85 francs pour les prestations d’examens et de traitements;
+c)
+58,80 francs pour les prestations de soins de base.
+5
+Pour les infirmières et infirmiers indépendants, les coûts facturables pour les prestations de soins s’élèvent, par heure, à:
+a)
+112,05 francs pour les prestations d’évaluation et de conseils;
+b)
+94,70 francs pour les prestations d’examens et de traitements;
+c)
+69,10 francs pour les prestations de soins de base.
+Art.
+4
+Contributions résiduelles dès le 1
+er
+juin 2026
+1
+Pour les organisations de soins et d’aide à domicile standards (OSAD standards) qui appliquent la CCT soins longue durée, les contributions résiduelles des pouvoirs publics aux coûts de soins s’élèvent, par heure, à:
+Prestations
+Part canton (CHF)
+Part communes (CHF)
+Evaluation et conseils
+33,20
+14,25
+Examens et traitements
+28,90
+12,40
+Soins de base
+15,80
+6,80
+2
+Pour les organisations de soins et d’aide à domicile standards (OSAD standards) qui n’appliquent pas la CCT soins longue durée, les contributions résiduelles des pouvoirs publics aux coûts de soins s’élèvent, par heure, à:
+Prestations
+Part canton (CHF)
+Part communes (CHF)
+Evaluation et conseils
+25,00
+10,70
+Examens et traitements
+21,95
+9,40
+Soins de base
+10,75
+4,60
+3
+Pour les organisations de soins et d’aide à domicile fournissant des soins uniquement en appartement à encadrement médico-social (In-House Spitex) qui appliquent la CCT soins longue durée, les contributions résiduelles des pouvoirs publics aux coûts des soins s’élèvent, par heure, à:
+Prestations
+Part canton (CHF)
+Part communes (CHF)
+Evaluation et conseils
+12,10
+5,15
+Examens et traitements
+14,10
+6,05
+Soins de base
+8,95
+3,80
+4
+Pour les organisations de soins et d’aide à domicile fournissant des soins uniquement en appartement à encadrement médico-social (In-House Spitex) qui n’appliquent pas la CCT soins longue durée, les contributions résiduelles des pouvoirs publics aux coûts des soins s'élèvent, par heure, à:
+Prestations
+Part canton (CHF)
+Part communes (CHF)
+Evaluation et conseils
+5,50
+2,35
+Examens et traitements
+8,30
+3,55
+Soins de base
+4,35
+1,85
+5
+Pour les infirmières et infirmiers indépendants, les contributions résiduelles des pouvoirs publics aux coûts des soins s’élèvent, par heure, à:
+Prestations
+Part canton (CHF)
+Part communes (CHF)
+Evaluation et conseils
+24,60
+10,55
+Examens et traitements
+22,20
+9,50
+Soins de base
+11,55
+4,95
+Art.
+5
+Dispositions finales
+1
+Le département en charge de la santé est chargé de l’exécution du présent arrêté.
+RCV RO/AGS 2026-069
