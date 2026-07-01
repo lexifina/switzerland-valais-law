@@ -9,3 +9,4 @@ vu l'ordonnance fédérale sur la fixation des taux régionaux de couverture des
 vu la loi cantonale sur la santé du 1er mars 2020 (LS), en particulier les articles 57a à 57g;
 sur la proposition du département en charge de la santé,
 ordonne:
+1 Dispositions générales
