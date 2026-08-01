@@ -1,4 +1,5 @@
 # Ordonnance relative à l'évaluation du travail des élèves à l'école obligatoire
+(OÉval)
 du 17.06.2015
 Le Conseil d'Etat du canton du Valais
 vu l'article 57 de la Constitution cantonale;
@@ -10,3 +11,4 @@ vu l'ordonnance concernant la loi sur l'enseignement primaire du 11 février 201
 vu l'ordonnance concernant les structures suprarégionales du cycle d'orientation du 12 janvier 2011;
 sur la proposition du Département de la formation et de la sécurité,
 ordonne:
+1 Dispositions générales
