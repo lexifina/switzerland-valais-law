@@ -11,3 +11,4 @@ vu l’article 24 de l’ordonnance sur le personnel de la scolarité obligatoir
 vu l’article 1 alinéa 2 du règlement sur les indemnités de déplacement du 24 juin 2010;
 sur la proposition du département en charge de la formation;
 ordonne :
+1 Dispositions générales
