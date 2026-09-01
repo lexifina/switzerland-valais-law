@@ -11,3 +11,4 @@ h) informer régulièrement le service sur ses projets et activités, notamment 
 i) honorer les invitations adressées au Parlement des jeunes;
 j) informer régulièrement les membres du Parlement des jeunes sur les affaires courantes.
 2 Les attributions des membres du bureau sont précisées par le règlement interne.
+2 Commission pour la promotion et la protection de la jeunesse

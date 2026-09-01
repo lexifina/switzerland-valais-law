@@ -1,5 +1,5 @@
 # Art. 4c Composition
-1 Le Parlement des jeunes se compose de 60 membres issus des différents établissements de formation du secondaire II, élus pour un mandat de 2 ans, selon une répartition au prorata du nombre d’élèves.
+1 Le Parlement des jeunes se compose de 65 membres issus des différents établissements de formation du secondaire II, élus pour un mandat de 2 ans, selon une répartition au prorata du nombre d’élèves.
 2 Les membres sont élus par les personnes en formation selon un dispositif d’élection propre à chaque établissement.
 3 Aucun parti politique n'est représenté au sein du Parlement des jeunes.
 4 Les membres du Parlement des jeunes sont âgés entre 14 ans et 20 ans et domiciliés dans le canton du Valais.
