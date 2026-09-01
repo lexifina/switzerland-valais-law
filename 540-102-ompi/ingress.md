@@ -1,4 +1,5 @@
 # Ordonnance concernant les mesures préventives contre les incendies
+(OMPI)
 du 12.12.2001
 Le Conseil d'Etat du canton du Valais
 vu l'article 57 alinéa 2 de la Constitution cantonale;
