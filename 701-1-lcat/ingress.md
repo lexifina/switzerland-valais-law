@@ -7,3 +7,4 @@ vu l'article 702 du Code civil suisse;
 vu les articles 6, 30, 44, 69 à 71 de la Constitution cantonale;
 sur la proposition du Conseil d'Etat,
 arrête:
+1 Dispositions générales
