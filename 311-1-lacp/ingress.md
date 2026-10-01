@@ -7,3 +7,4 @@ vu les articles 31 alinéa 1 lettre a, 32 alinéa 1 et 42 alinéas 1 et 2 de la 
 vu les articles 40 et 43 de la loi sur l'organisation des Conseils et les rapports entre les pouvoirs du 28 mars 1996;
 sur la proposition du Conseil d'Etat,
 ordonne:
+1 Dispositions générales
