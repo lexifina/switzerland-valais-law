@@ -8,3 +8,4 @@ vu les articles 38 et 56 ss de l’ordonnance sur la gestion financière des com
 vu l’ordonnance concernant les procédures d'encaissement et de recouvrement du 28 juin 2006;
 sur proposition du département en charge du territoire,
 arrête:
+1 Dispositions générales
