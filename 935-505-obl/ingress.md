@@ -1,4 +1,5 @@
 # Ordonnance concernant l'attribution des bénéfices résultant des loteries
+(OBL)
 du 04.07.2001
 Le Conseil d'Etat du canton du Valais
 vu l'article 57 de la Constitution cantonale;
