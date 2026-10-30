@@ -1,0 +1,575 @@
+# How this repository was made (Valais)
+
+This file is written by the build on 2026-10-30, the day the source data was retrieved.
+
+## Sources
+
+| Source | Address | Retrieved | Licence |
+| --- | --- | --- | --- |
+| Canton du Valais: RS (LexWork) | <https://lex.vs.ch/> | 2026-10-30 | Laws and decrees are not protected by copyright (Art. 5 para. 1 let. a URG, SR 231.1). |
+
+Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
+
+## What is in it
+
+| Act | Title | Versions | Span |
+| --- | --- | ---: | --- |
+| `101-1-cst-cant` | Constitution du canton du Valais | 4 | 2008-04-01 to 2023-05-01 |
+| `111-1` | Loi sur le sceau de la République | 1 | 1802-09-04 to 1802-09-04 |
+| `111-010` | Loi concernant la mise en œuvre de la réforme de la péréquation financière et de la répartition des tâches entre la Confédération, le canton et les communes | 1 | 2012-01-01 to 2012-01-01 |
+| `112-1` | Loi concernant les prestations à faire par la ville de Sion comme chef-lieu du canton | 1 | 1882-12-01 to 1882-12-01 |
+| `141-1` | Loi sur le droit de cité valaisan | 1 | 2013-01-01 to 2013-01-01 |
+| `142-1-laletr` | Loi d'application de la loi fédérale sur les étrangers | 1 | 2016-01-01 to 2016-01-01 |
+| `142-3` | Loi sur l'hébergement collectif des personnes relevant du droit d'asile | 1 | 2016-01-01 to 2016-01-01 |
+| `151-1` | Loi concernant l'application du principe d'égalité entre femmes et hommes | 1 | 2011-01-01 to 2011-01-01 |
+| `160-1-lcdp` | Loi sur les droits politiques | 4 | 2017-04-09 to 2023-04-01 |
+| `160-3-laldp` | Loi d'application de la loi fédérale sur les droits politiques | 2 | 2011-03-01 to 2018-07-01 |
+| `160-5-li` | Loi sur les incompatibilités | 4 | 2016-07-01 to 2023-07-01 |
+| `170-1` | Loi sur la responsabilité des collectivités publiques et de leurs agents | 1 | 2011-01-01 to 2011-01-01 |
+| `170-2-lipda` | Loi sur l'information du public, la protection des données et l'archivage | 2 | 2011-09-01 to 2024-01-01 |
+| `170-3-lpartet` | Loi sur les participations de l'Etat à des personnes morales et autres entités | 3 | 2012-01-01 to 2025-01-01 |
+| `170-6-lma` | Loi sur la médiation administrative | 1 | 2024-01-01 to 2024-01-01 |
+| `170-7` | Loi sur l'organisation de la cour chargée de statuer sur les conflits de compétence entre le pouvoir administratif et le pouvoir judiciaire | 1 | 1992-01-01 to 1992-01-01 |
+| `170-8-lsna` | Loi sur les services numériques des autorités | 1 | 2025-01-01 to 2025-01-01 |
+| `171-1-locrp` | Loi sur l'organisation des Conseils et les rapports entre les pouvoirs | 11 | 2015-01-01 to 2024-09-01 |
+| `172-2-lcpers` | Loi sur le personnel de l'Etat du Valais | 3 | 2017-03-17 to 2026-05-01 |
+| `172-4` | Loi fixant le traitement des employés de l'Etat du Valais | 3 | 2011-07-01 to 2026-05-01 |
+| `172-6-lpja` | Loi sur la procédure et la juridiction administratives | 4 | 2016-04-01 to 2025-01-01 |
+| `172-8-lbdr` | Loi sur les bases de données référentielles et sur l'harmonisation des registres des personnes, des entreprises et établissements ainsi que des bâtiments et logements | 1 | 2020-05-01 to 2020-05-01 |
+| `172-10-lstat` | Loi sur la statistique publique cantonale | 1 | 2023-01-01 to 2023-01-01 |
+| `172-12` | Loi concernant les traitements des magistrats de l'ordre exécutif | 2 | 2015-01-01 to 2020-07-01 |
+| `172-13` | Loi sur la prévoyance professionnelle des magistrats | 3 | 2015-01-01 to 2024-01-01 |
+| `172-15` | Loi sur l'organisation et les attributions des conseils de districts | 1 | 1855-12-23 to 1855-12-23 |
+| `172-16` | Loi sur les attributions des préfets | 1 | 1850-05-24 to 1850-05-24 |
+| `172-51-lcpval` | Loi régissant la Caisse de prévoyance du Canton du Valais (CPVAL) | 1 | 2020-01-01 to 2020-01-01 |
+| `172-61` | Loi supprimant une instance de recours administratif | 1 | 1996-03-15 to 1996-03-15 |
+| `173-1-loj` | Loi sur l'organisation de la Justice | 7 | 2013-01-01 to 2024-01-01 |
+| `173-7-lcdm` | Loi sur le Conseil de la magistrature | 4 | 2020-09-01 to 2026-03-01 |
+| `173-8-ltar` | Loi fixant le tarif des frais et dépens devant les autorités judiciaires ou administratives | 4 | 2018-01-01 to 2025-01-01 |
+| `173-12` | Loi concernant le traitement des autorités judiciaires et des représentants du ministère public | 2 | 2013-01-01 to 2024-01-01 |
+| `175-1-lco` | Loi sur les communes | 3 | 2012-01-01 to 2023-01-01 |
+| `175-2` | Loi sur les bourgeoisies | 1 | 2008-01-01 to 2008-01-01 |
+| `175-101` | Loi sur la fusion des communes municipales et bourgeoisiales de Sion et des Agettes | 1 | 2016-07-01 to 2016-07-01 |
+| `175-102` | Loi concernant la fusion des communes municipales de Baltschieder, Eggerberg et Viège | 1 | 2026-05-01 to 2026-05-01 |
+| `176-1` | Loi sur le contrôle de l'habitant | 2 | 2009-03-01 to 2023-07-21 |
+| `177-1-loi-sur-la-profession-d-avocat-lpav` | Loi sur la profession d'avocat pratiquant la représentation en justice | 5 | 2014-03-01 to 2024-06-01 |
+| `177-7-laj` | Loi sur l'assistance judiciaire | 1 | 2011-01-01 to 2011-01-01 |
+| `178-1-ln` | Loi sur le notariat | 3 | 2014-03-01 to 2024-01-01 |
+| `180-1-lree` | Loi sur les rapports entre les Eglises et l'Etat dans le canton du Valais | 1 | 1996-05-01 to 1996-05-01 |
+| `211-1-lacc` | Loi d'application du code civil suisse | 6 | 2016-10-01 to 2027-01-01 |
+| `211-6` | Loi sur la mensuration officielle | 1 | 2016-07-01 to 2016-07-01 |
+| `211-7-lcgeo` | Loi d'application de la loi fédérale sur la géoinformation | 1 | 2016-07-01 to 2016-07-01 |
+| `211-15-lalpart` | Loi d'application de la loi fédérale sur le partenariat enregistré | 1 | 2007-01-01 to 2007-01-01 |
+| `211-41-lalfaie` | Loi réglant l'application de la loi fédérale sur l'acquisition d'immeubles par des personnes à l'étranger | 1 | 2011-01-01 to 2011-01-01 |
+| `211-412-laldfr` | Loi concernant l'application du droit foncier rural | 1 | 1996-01-01 to 1996-01-01 |
+| `221-21` | Loi d'application de la loi fédérale sur le crédit à la consommation | 1 | 2004-07-01 to 2004-07-01 |
+| `270-1-lacpc` | Loi d'application du code de procédure civile suisse | 3 | 2014-06-01 to 2025-01-01 |
+| `281-1-lalp` | Loi d'application de la loi fédérale sur la poursuite pour dettes et la faillite | 3 | 2015-09-01 to 2020-05-01 |
+| `311-1-lacp` | Loi d'application du code pénal | 9 | 2016-10-01 to 2026-10-01 |
+| `312-0-lacpp` | Loi d'application du code de procédure pénale suisse | 6 | 2013-01-01 to 2026-02-01 |
+| `312-1-ldpolj` | Loi concernant les dossiers de police judiciaire | 3 | 2017-01-01 to 2024-01-01 |
+| `312-2-lalao` | Loi d'application de la loi sur les amendes d'ordre | 3 | 2020-01-01 to 2025-11-01 |
+| `312-5-lalavi` | Loi d'application de la loi fédérale sur l'aide aux victimes d'infractions | 2 | 2009-01-01 to 2024-01-01 |
+| `314-1-ladpmin` | Loi d'application de la loi fédérale régissant la condition pénale des mineurs | 3 | 2011-01-01 to 2026-02-01 |
+| `314-2-lappmin` | Loi d'application de la loi fédérale sur la procédure pénale applicable aux mineurs | 3 | 2014-06-01 to 2026-02-01 |
+| `400-1-lip` | Loi sur l'instruction publique | 3 | 2015-08-01 to 2026-01-01 |
+| `400-2-lpso` | Loi sur le personnel de la scolarité obligatoire et de l'enseignement secondaire du deuxième degré général et professionnel | 2 | 2016-12-01 to 2020-01-01 |
+| `400-90` | Loi sur la coordination scolaire | 1 | 2015-08-01 to 2015-08-01 |
+| `405-1` | Loi sur la contribution des communes au traitement du personnel de la scolarité obligatoire et aux charges d'exploitation des institutions spécialisées | 1 | 2012-01-01 to 2012-01-01 |
+| `405-3-ltso` | Loi sur le traitement du personnel de la scolarité obligatoire et de l'enseignement secondaire du deuxième degré général et professionnel | 4 | 2018-01-01 to 2024-09-01 |
+| `411-0-lep` | Loi sur l'enseignement primaire | 2 | 2016-12-01 to 2021-08-01 |
+| `411-2-lco` | Loi sur le cycle d'orientation | 2 | 2016-12-01 to 2021-08-01 |
+| `411-3-les` | Loi sur l'enseignement spécialisé | 1 | 2016-12-01 to 2016-12-01 |
+| `412-1-lalfpr` | Loi d'application de la loi fédérale sur la formation professionnelle | 2 | 2012-01-01 to 2022-04-22 |
+| `412-5-lffp` | Loi sur le fonds cantonal en faveur de la formation professionnelle | 2 | 2013-01-01 to 2021-01-01 |
+| `413-10` | Loi fixant la contribution des communes du siège des collèges et établissements cantonaux | 1 | 2012-01-01 to 2012-01-01 |
+| `414-70` | Loi sur la Haute Ecole Spécialisée de Suisse occidentale Valais/Wallis | 2 | 2015-01-01 to 2026-01-01 |
+| `415-1` | Loi sur le sport | 2 | 2018-01-01 to 2025-01-01 |
+| `415-2` | Loi réglant l'octroi de subventions cantonales pour la construction et l'agrandissement d'aménagements destinés à la gymnastique et au sport | 1 | 1996-05-01 to 1996-05-01 |
+| `416-1-lbpe` | Loi sur les bourses et prêts d'études | 2 | 2011-06-08 to 2021-07-01 |
+| `417-03` | Loi fixant le traitement du personnel des écoles de formation professionnelle supérieure | 2 | 2015-01-01 to 2020-01-01 |
+| `417-4-lfca` | Loi sur la formation continue des adultes | 3 | 2001-07-01 to 2022-04-22 |
+| `417-10-lccs` | Loi fixant la contribution des communes sièges aux institutions de formation et de recherche du degré tertiaire | 3 | 2015-01-01 to 2026-01-01 |
+| `419-1-lhep` | Loi concernant la Haute école pédagogique du Valais | 3 | 2012-09-01 to 2026-01-01 |
+| `420-1-leher` | Loi sur l’encouragement des hautes écoles et de la recherche | 2 | 2001-07-01 to 2026-01-01 |
+| `440-1-lprc` | Loi sur la promotion de la culture | 5 | 2018-07-01 to 2026-09-01 |
+| `451-1-lcpn` | Loi sur la protection de la nature, du paysage et des sites | 2 | 2016-01-01 to 2018-01-01 |
+| `455-1-lalpa` | Loi d'application de la loi fédérale sur la protection des animaux | 2 | 2015-09-01 to 2020-01-01 |
+| `501-1-lppex` | Loi sur la protection de la population et la gestion des situations particulières et extraordinaires | 2 | 2014-01-01 to 2019-09-01 |
+| `502-1-lalarm` | Loi d'application de la loi fédérale sur les armes, les accessoires d'armes et les munitions | 1 | 1999-11-01 to 1999-11-01 |
+| `504-1-lalaam` | Loi d'application de la loi fédérale sur l'armée et l'administration militaire | 1 | 2011-01-01 to 2011-01-01 |
+| `520-1-lalpci` | Loi d'application de la législation fédérale sur la protection civile | 3 | 2014-01-01 to 2025-01-01 |
+| `520-3` | Loi d'application de la loi fédérale sur la protection des biens culturels en cas de conflit armé | 1 | 2006-01-01 to 2006-01-01 |
+| `540-1-lpien` | Loi sur la protection contre l'incendie et les éléments naturels | 3 | 2018-01-01 to 2025-01-01 |
+| `550-1-lpol` | Loi sur la police cantonale | 8 | 2017-01-01 to 2026-05-01 |
+| `550-6-lvd` | Loi sur les violences domestiques | 3 | 2017-01-01 to 2026-05-01 |
+| `611-1-lgcaf` | Loi sur la gestion et le contrôle administratifs et financiers du canton | 7 | 2015-01-01 to 2024-01-01 |
+| `612-1` | Loi sur le frein aux dépenses et à l'endettement | 1 | 2005-01-01 to 2005-01-01 |
+| `612-3-fonds-figi` | Loi sur le Fonds de financement de l'investissement et de la gestion des immeubles de l'Etat | 1 | 2018-11-01 to 2018-11-01 |
+| `612-5` | Loi concernant le financement des grands projets d'infrastructures du 21e siècle | 1 | 2012-02-01 to 2012-02-01 |
+| `612-7-lfinr3` | Loi sur le financement de la 3e correction du Rhône | 1 | 2019-05-01 to 2019-05-01 |
+| `613-1-lpfi` | Loi sur la péréquation financière intercommunale | 1 | 2012-01-01 to 2012-01-01 |
+| `616-1-lsub` | Loi sur les subventions | 1 | 2011-01-01 to 2011-01-01 |
+| `620-1-lbcvs` | Loi sur la Banque cantonale du Valais | 1 | 2018-01-01 to 2018-01-01 |
+| `641-5` | Loi sur l'imposition des véhicules automobiles | 3 | 2018-01-01 to 2025-01-01 |
+| `641-52` | Loi sur l'imposition des bateaux | 1 | 1996-01-01 to 1996-01-01 |
+| `642-1-lf` | Loi fiscale | 8 | 2018-01-01 to 2028-01-01 |
+| `643-1-ldm` | Loi sur les droits de mutations | 1 | 2013-01-01 to 2013-01-01 |
+| `658-1-lalifd` | Loi d'application de la loi fédérale sur l'impôt fédéral direct | 2 | 2012-10-12 to 2024-01-01 |
+| `660-1-lalteo` | Loi d'application de la loi fédérale sur la taxe d'exemption de l'obligation de servir | 4 | 2004-01-01 to 2026-07-01 |
+| `701-1-lcat` | Loi d'application de la loi fédérale sur l'aménagement du territoire | 4 | 2015-01-01 to 2026-09-10 |
+| `701-2` | Loi concernant le remembrement et la rectification de limites | 1 | 2007-07-01 to 2007-07-01 |
+| `701-6-loi-sur-les-contributions-des-propietaires-fonciers` | Loi concernant la perception des contributions de propriétaires fonciers aux frais d'équipements et aux frais d'autres ouvrages publics | 2 | 1989-01-01 to 2019-05-01 |
+| `702-1-lalrs` | Loi d'application de la loi fédérale sur les résidences secondaires | 1 | 2021-02-01 to 2021-02-01 |
+| `704-1-liml` | Loi sur les itinéraires de mobilité de loisirs | 2 | 2012-01-01 to 2023-01-01 |
+| `705-1-lc` | Loi sur les constructions | 6 | 2015-10-09 to 2026-01-01 |
+| `710-1-lcex` | Loi sur les expropriations | 1 | 2010-01-01 to 2010-01-01 |
+| `721-1-ldnace` | Loi sur les dangers naturels et l'aménagement des cours d'eau | 4 | 2014-10-03 to 2026-11-01 |
+| `721-8-lcfh` | Loi sur l'utilisation des forces hydrauliques | 4 | 2017-03-15 to 2025-01-01 |
+| `725-1-lr` | Loi sur les routes | 3 | 2014-01-01 to 2025-01-01 |
+| `726-1-lcaimp` | Loi concernant l'adhésion du canton du Valais à l'accord intercantonal sur les marchés publics du 15 novembre 2019 | 2 | 2012-01-01 to 2024-01-01 |
+| `730-1-lcene` | Loi sur l'énergie | 4 | 2004-07-01 to 2026-01-01 |
+| `731-1-lfmv` | Loi sur les Forces Motrices Valaisannes | 1 | 2017-03-15 to 2017-03-15 |
+| `734-1-lcapel` | Loi cantonale sur l'approvisionnement en électricité | 1 | 2015-06-01 to 2015-06-01 |
+| `740-1-ltpmdquot` | Loi sur les transports publics et la mobilité douce quotidienne | 2 | 2012-01-01 to 2023-01-01 |
+| `741-1-lalcr` | Loi d'application de la législation fédérale sur la circulation routière | 3 | 2013-01-01 to 2025-11-01 |
+| `747-2` | Loi d'application de la loi fédérale sur la navigation intérieure et de l'accord franco-suisse concernant la navigation sur le Léman | 1 | 1982-09-17 to 1982-09-17 |
+| `800-1-ls` | Loi sur la santé | 3 | 2018-01-01 to 2025-05-01 |
+| `800-10-leis` | Loi sur les établissements et institutions sanitaires | 2 | 2017-01-01 to 2023-04-15 |
+| `805-1-lsld` | Loi sur les soins de longue durée | 1 | 2015-01-01 to 2015-01-01 |
+| `805-2-lspasi` | Loi sur les soins palliatifs et l'encadrement de la pratique de l'assistance au suicide en institution | 1 | 2023-03-01 to 2023-03-01 |
+| `810-8-loss` | Loi sur l'organisation des secours sanitaires | 3 | 2015-01-01 to 2018-01-01 |
+| `811-3` | Loi sur la mise à disposition des places de stage et d’apprentissage pour les professions non universitaires de la santé | 1 | 2021-04-01 to 2021-04-01 |
+| `813-5` | Loi vétérinaire | 1 | 2012-07-01 to 2012-07-01 |
+| `813-10-loi-sur-les-produits-chimiques-lachim` | Loi d'application de la loi fédérale sur la protection contre les substances et les préparations dangereuses | 1 | 2015-01-01 to 2015-01-01 |
+| `814-1-lcpe` | Loi sur la protection de l'environnement | 3 | 2014-01-01 to 2022-12-01 |
+| `814-3-lceaux` | Loi cantonale sur la protection des eaux | 1 | 2014-01-01 to 2014-01-01 |
+| `814-7-lalrnis` | Loi d'application de la loi fédérale sur la protection contre les dangers liés au rayonnement non ionisant et au son | 1 | 2022-12-01 to 2022-12-01 |
+| `817-1` | Loi concernant l'application de la loi fédérale sur les denrées alimentaires et les objets usuels | 2 | 2016-06-01 to 2022-09-01 |
+| `822-1-lctr` | Loi cantonale sur le travail | 3 | 2016-10-01 to 2025-01-01 |
+| `822-2` | Loi sur le repos du dimanche et des jours de fête | 1 | 2013-03-01 to 2013-03-01 |
+| `822-20` | Loi concernant l'ouverture des magasins | 2 | 2002-11-01 to 2018-12-01 |
+| `823-1-laldetltn` | Loi d'application de la loi fédérale sur les travailleurs détachés et de la loi fédérale sur le travail au noir | 3 | 2016-10-01 to 2023-03-01 |
+| `831-1-lalavs` | Loi d'application de la loi fédérale sur l'assurance-vieillesse et survivants | 1 | 2011-01-01 to 2011-01-01 |
+| `831-2` | Loi d'application de la loi fédérale sur l'assurance invalidité | 1 | 2011-01-01 to 2011-01-01 |
+| `831-3-lalpc` | Loi d'application de la loi fédérale sur les prestations complémentaires à l'AVS/AI | 2 | 2011-01-01 to 2021-01-01 |
+| `832-1` | Loi sur l'assurance maladie | 2 | 1996-01-01 to 2020-01-01 |
+| `836-1-lalafam` | Loi d'application de la loi fédérale sur les allocations familiales | 5 | 2013-01-01 to 2025-01-01 |
+| `837-1-lemc` | Loi sur l'emploi et les mesures en faveur des chômeurs | 1 | 2014-02-14 to 2014-02-14 |
+| `841-1` | Loi sur le logement | 1 | 1996-05-01 to 1996-05-01 |
+| `850-1-lias` | Loi sur l'intégration et l'aide sociale | 5 | 2012-01-01 to 2022-01-01 |
+| `850-2-lharm` | Loi sur l'harmonisation du financement des régimes sociaux et d'insertion socio-professionnelle | 2 | 2015-01-01 to 2025-01-01 |
+| `850-3-lrace` | Loi sur le recouvrement et les avances de contributions d'entretien | 2 | 2005-01-01 to 2022-01-01 |
+| `850-4-lje` | Loi en faveur de la jeunesse | 4 | 2014-10-01 to 2025-10-01 |
+| `850-6-ldiph` | Loi sur les droits et l'inclusion des personnes en situation de handicap | 4 | 2012-01-01 to 2022-01-01 |
+| `857-1` | Loi d'application de la loi fédérale sur les centres de consultation en matière de grossesse | 1 | 1996-05-01 to 1996-05-01 |
+| `900-1-lpoleco` | Loi sur la politique économique cantonale | 1 | 2013-01-01 to 2013-01-01 |
+| `900-2-lpi` | Loi sur la société de gestion et d’exploitation du parc de l’innovation du Campus Energypolis | 1 | 2023-02-01 to 2023-02-01 |
+| `901-1` | Loi sur la politique régionale | 1 | 2010-01-01 to 2010-01-01 |
+| `902-1-lerm` | Loi sur l'encouragement des remontées mécaniques | 2 | 2019-03-01 to 2025-01-01 |
+| `910-1-loi-sur-l-agriculture-lcagr` | Loi sur l'agriculture et le développement rural | 4 | 2016-06-01 to 2025-01-01 |
+| `916-4` | Loi d'application de la loi fédérale sur les épizooties | 2 | 2009-01-01 to 2025-01-01 |
+| `921-1-lcfo` | Loi sur les forêts | 6 | 2014-01-01 to 2023-01-01 |
+| `922-1-loi-sur-la-chasse-lcchp` | Loi sur la chasse et la protection des mammifères et oiseaux sauvages | 3 | 1996-05-01 to 2026-11-01 |
+| `923-1-lcsp` | Loi cantonale sur la pêche | 2 | 2018-01-01 to 2025-01-01 |
+| `930-1` | Loi sur la police du commerce | 3 | 2010-01-01 to 2022-09-01 |
+| `931-1` | Loi sur les mines et carrières | 1 | 1997-01-01 to 1997-01-01 |
+| `932-1-lprost` | Loi sur la prostitution | 1 | 2016-01-01 to 2016-01-01 |
+| `935-1` | Loi sur le tourisme | 2 | 2015-01-01 to 2022-09-01 |
+| `935-2-lgar` | Loi sur les guides de montagne et les organisateurs d'autres activités à risque | 2 | 2014-01-01 to 2018-05-01 |
+| `935-3-lhr` | Loi sur l'hébergement, la restauration et le commerce de détail de boissons alcoolisées | 3 | 2018-01-01 to 2025-01-01 |
+| `935-55-laljar` | Loi d'application de la loi fédérale sur les jeux d'argent | 1 | 2021-01-01 to 2021-01-01 |
+| `941-2` | Loi d'application de la loi fédérale sur la métrologie | 1 | 2006-01-01 to 2006-01-01 |
+| `946-2` | Loi concernant la reconnaissance des formations professionnelles des ressortissants des Etats membres de la Communauté européenne | 1 | 2003-06-01 to 2003-06-01 |
+| `141-100` | Règlement concernant l'exécution de la loi sur le droit de cité valaisan | 1 | 2008-01-01 to 2008-01-01 |
+| `142-100-olaletr` | Ordonnance de la loi d'application de la loi fédérale sur les étrangers | 1 | 2013-01-01 to 2013-01-01 |
+| `142-104` | Règlement fixant les taxes de police des étrangers et leur mode de répartition entre l'Etat et les communes | 3 | 2015-09-01 to 2021-10-01 |
+| `142-400-olalmc` | Ordonnance d'exécution de la loi d'application de la loi fédérale sur les mesures de contrainte en matière de droit des étrangers | 1 | 1997-07-15 to 1997-07-15 |
+| `143-300` | Ordonnance d'application sur les documents d'identité | 1 | 2010-03-01 to 2010-03-01 |
+| `151-100` | Règlement fixant les tâches et compétences de l'Office cantonal de l'égalité et de la famille et du Conseil de l'égalité et de la famille | 2 | 1998-03-11 to 2017-05-01 |
+| `160-102` | Ordonnance sur le vote par correspondance | 3 | 2012-01-01 to 2024-02-01 |
+| `160-500` | Ordonnance sur les incompatibilités | 1 | 2016-07-01 to 2016-07-01 |
+| `170-5-rbo` | Règlement sur le Bulletin officiel | 3 | 2000-01-01 to 2023-03-01 |
+| `170-30-rpartet` | Règlement concernant les participations de l'Etat à des personnes morales et autres entités | 2 | 2012-01-01 to 2021-05-01 |
+| `170-202-relipda` | Règlement d'exécution de la loi sur l'information du public, la protection des données et l'archivage | 3 | 2015-10-01 to 2024-01-01 |
+| `170-206-reccpdt` | Règlement de la Commission cantonale de protection des données et de transparence | 1 | 2024-10-01 to 2024-10-01 |
+| `170-510` | Règlement sur la publication en ligne des recueils cantonaux | 1 | 2018-08-01 to 2018-08-01 |
+| `170-800-osna` | Ordonnance sur les services numériques des autorités | 1 | 2025-01-01 to 2025-01-01 |
+| `171-100-rgc` | Règlement du Grand Conseil | 5 | 2017-03-01 to 2025-09-12 |
+| `172-010` | Ordonnance sur les attributions de la présidence et des départements | 5 | 2013-05-01 to 2025-05-01 |
+| `172-011` | Règlement sur le Conseil d'Etat | 1 | 2016-09-09 to 2016-09-09 |
+| `172-050` | Règlement sur l'organisation de l'Administration cantonale | 2 | 2014-10-24 to 2018-08-01 |
+| `172-130` | Ordonnance sur la prévoyance professionnelle des magistrats | 1 | 2015-01-01 to 2015-01-01 |
+| `172-132` | Règlement concernant le régime de pensions des magistrats | 1 | 2015-01-01 to 2015-01-01 |
+| `172-200-ocpers` | Ordonnance sur le personnel de l'Etat du Valais | 8 | 2011-07-01 to 2026-05-01 |
+| `172-211-rttr` | Règlement sur le temps de travail dans l'administration cantonale | 4 | 2012-01-01 to 2024-01-01 |
+| `172-212-rss-pers` | Règlement régissant l'organisation et la gestion de la sécurité et de la protection de la santé au travail pour le personnel de l'Etat du Valais | 2 | 2008-03-01 to 2024-01-01 |
+| `172-216` | Règlement sur les personnes en formation professionnelle initiale de l'Administration cantonale | 2 | 2016-08-01 to 2020-01-01 |
+| `172-218-rihda` | Règlement fixant les indemnités et honoraires servis dans le domaine agricole | 2 | 2011-05-01 to 2025-01-01 |
+| `172-220-reglement-sur-la-formation` | Règlement sur la formation continue pour le personnel de l'Administration cantonale | 2 | 2012-01-01 to 2021-01-01 |
+| `172-224` | Règlement sur les cartes de légitimation pour les employés d'Etat exerçant une tâche de police | 1 | 2021-07-01 to 2021-07-01 |
+| `172-230` | Ordonnance concernant la reconnaissance de la fidélité, de la formation de base et les départs à la retraite | 3 | 2012-01-01 to 2021-01-01 |
+| `172-410-otrait` | Ordonnance concernant le traitement des employés de l'Etat du Valais | 7 | 2012-01-01 to 2025-01-01 |
+| `172-420-oipg` | Ordonnance sur l’indemnisation de la perte de gain en cas de maladie et d’accident non professionnel du personnel de l’Etat du Valais | 1 | 2025-01-01 to 2025-01-01 |
+| `172-431` | Règlement sur les indemnités de déplacements | 2 | 2011-01-01 to 2018-05-01 |
+| `172-432` | Règlement fixant les indemnités diverses et de déplacement à verser au personnel ouvrier et aux cantonniers du Service de la mobilité | 3 | 2011-01-01 to 2020-09-01 |
+| `172-512-rcpval` | Règlement d'exécution de la loi régissant la Caisse de prévoyance du Canton du Valais (CPVAL) | 1 | 2020-01-01 to 2020-01-01 |
+| `172-514` | Règlement d'exécution concernant l’utilisation de la provision financée par le fonds CPVAL | 1 | 2020-01-01 to 2020-01-01 |
+| `172-810-ogbdr` | Ordonnance d’application générale de la loi sur les bases de données référentielles et sur l’harmonisation des registres | 2 | 2021-01-01 to 2022-06-01 |
+| `172-820-obdr-pp` | Ordonnance sur la base de données référentielles des personnes physiques | 2 | 2021-01-01 to 2022-06-01 |
+| `172-830-obdr-ee` | Ordonnance sur la base de données référentielles des entreprises et des établissements | 1 | 2021-01-01 to 2021-01-01 |
+| `172-840-obdr-bl` | Ordonnance sur la base de données référentielles des bâtiments et des logements | 1 | 2023-01-01 to 2023-01-01 |
+| `173-100-rot` | Règlement d'organisation des tribunaux valaisans | 3 | 2011-01-01 to 2025-07-01 |
+| `173-101` | Règlement du ministère public du canton du Valais | 4 | 2011-01-03 to 2022-12-01 |
+| `173-102` | Règlement sur l'archivage des dossiers judiciaires | 2 | 2002-02-01 to 2026-07-01 |
+| `173-104` | Règlement sur l'accréditation des journalistes auprès des tribunaux valaisans | 1 | 2011-01-01 to 2011-01-01 |
+| `173-105-recc` | Règlement fixant la contribution des communes aux frais d'installation et de fonctionnement des tribunaux et des offices du ministère public | 2 | 2012-01-01 to 2023-01-01 |
+| `173-122` | Règlement concernant la révision du concept salarial des greffiers | 1 | 1996-01-01 to 1996-01-01 |
+| `173-400` | Règlement régissant la procédure devant le Tribunal cantonal des assurances | 1 | 2002-02-01 to 2002-02-01 |
+| `173-700-rcdm` | Règlement du Conseil de la magistrature | 1 | 2021-01-01 to 2021-01-01 |
+| `173-710-recorem` | Règlement de la Commission de recours du Conseil de la magistrature | 1 | 2021-07-30 to 2021-07-30 |
+| `175-100-ofus` | Ordonnance sur les fusions de communes | 1 | 2014-10-31 to 2014-10-31 |
+| `177-101-rlpav` | Règlement concernant la loi sur la profession d'avocat | 8 | 2017-01-01 to 2026-01-01 |
+| `177-700-oaj` | Ordonnance sur l'assistance judiciaire | 3 | 2011-01-01 to 2023-07-01 |
+| `178-101-rln` | Règlement concernant la loi sur le notariat | 8 | 2017-01-01 to 2026-01-01 |
+| `178-104` | Règlement fixant le tarif des émoluments et des débours des notaires | 1 | 2011-01-01 to 2011-01-01 |
+| `180-100` | Règlement d'application de la loi sur les rapports entre les Eglises et l'Etat dans le canton du Valais | 2 | 2017-01-01 to 2025-09-01 |
+| `211-100-oelacc` | Ordonnance générale d'exécution de la loi d'application du code civil suisse | 3 | 2013-01-01 to 2025-06-01 |
+| `211-130` | Ordonnance sur l'état civil | 1 | 2008-01-01 to 2008-01-01 |
+| `211-250-opea` | Ordonnance sur la protection de l'enfant et de l'adulte | 8 | 2016-01-01 to 2027-01-01 |
+| `211-255-refa` | Règlement fixant les frais perçus par les autorités de protection de l'enfant et de l'adulte | 4 | 2023-01-01 to 2024-10-01 |
+| `211-260-osap` | Ordonnance fixant le siège des autorités cantonales de protection de l'enfant et de l'adulte | 1 | 2023-01-01 to 2023-01-01 |
+| `211-410-raie` | Règlement sur l'acquisition d'immeubles par des personnes à l'étranger | 4 | 2016-01-01 to 2026-01-01 |
+| `211-600-ocmo` | Ordonnance sur la mensuration officielle | 3 | 2006-07-01 to 2026-01-01 |
+| `211-610` | Ordonnance concernant l'introduction du registre foncier dans le canton du Valais | 1 | 2012-02-03 to 2012-02-03 |
+| `211-611-ocrf` | Ordonnance cantonale sur le registre foncier | 3 | 2015-01-02 to 2025-10-01 |
+| `211-612` | Ordonnance sur la tenue du registre foncier informatisé | 4 | 2014-06-27 to 2025-10-01 |
+| `211-700-ocgeo` | Ordonnance sur la géoinformation | 1 | 2022-07-01 to 2022-07-01 |
+| `211-705-occrdp` | Ordonnance sur le cadastre des restrictions de droit public à la propriété foncière | 1 | 2022-07-01 to 2022-07-01 |
+| `221-210` | Ordonnance concernant l'octroi d'un crédit à la consommation et le courtage en crédit | 1 | 2004-07-01 to 2004-07-01 |
+| `271-100` | Règlement concernant l'assistance financière en médiation civile | 1 | 2014-06-01 to 2014-06-01 |
+| `281-100-oalp` | Ordonnance d'application de la législation sur la poursuite pour dettes et la faillite | 1 | 2015-09-01 to 2015-09-01 |
+| `311-200-oelacp` | Ordonnance générale d'exécution de la loi d'application du code pénal | 2 | 2015-07-03 to 2018-01-01 |
+| `311-210-olec` | Ordonnance sur l'exécution des confiscations | 1 | 2018-01-01 to 2018-01-01 |
+| `311-300` | Règlement concernant l'utilisation d'un fonds de soutien en faveur des personnes détenues | 1 | 2016-02-19 to 2016-02-19 |
+| `312-100-reldpolj` | Règlement d'exécution de la loi concernant les dossiers de police judiciaire | 1 | 2004-02-01 to 2004-02-01 |
+| `340-100` | Ordonnance sur les droits et les devoirs de la personne détenue | 2 | 2015-01-01 to 2018-01-01 |
+| `340-104` | Ordonnance concernant l'organisation, les droits et devoirs du personnel du service de l'application des peines et mesures | 1 | 2017-05-01 to 2017-05-01 |
+| `343-300` | Règlement concernant l'octroi d'autorisations de sortie aux personnes condamnées adultes et jeunes adultes | 2 | 2014-04-04 to 2024-04-01 |
+| `343-301` | Règlement concernant la Fondation latine Projets pilotes - Addictions | 1 | 2014-06-01 to 2014-06-01 |
+| `343-310` | Règlement concernant la liste des établissements pour l'exécution des privations de liberté à caractère pénal | 1 | 2011-01-01 to 2011-01-01 |
+| `343-320-reglement-sur-le-tig` | Règlement sur l'exécution des peines sous la forme du travail d'intérêt général | 1 | 2018-01-01 to 2018-01-01 |
+| `343-330-reglement-sur-la-semi-detention` | Règlement sur l'exécution des peines sous la forme de la semi-détention | 1 | 2018-01-01 to 2018-01-01 |
+| `343-340` | Ordonnance sur la surveillance électronique | 1 | 2018-01-01 to 2018-01-01 |
+| `343-340-1` | Règlement sur l’exécution des peines privatives de liberté sous surveillance électronique | 1 | 2018-01-01 to 2018-01-01 |
+| `343-400` | Règlement concernant l'octroi d'autorisations de sortie aux personnes condamnées mineures | 1 | 2014-01-01 to 2014-01-01 |
+| `343-401` | Règlement sur le droit disciplinaire applicable aux personnes détenues pénalement ou placées dans des établissements fermés pour mineurs | 1 | 2014-01-01 to 2014-01-01 |
+| `400-20-opso` | Ordonnance sur le personnel de la scolarité obligatoire et de l'enseignement secondaire du deuxième degré général et professionnel | 5 | 2012-09-01 to 2026-01-01 |
+| `400-21-rsubfce` | Règlement concernant le subventionnement de la formation continue individuelle pour le personnel enseignant de la scolarité obligatoire et du secondaire II général | 2 | 2024-08-01 to 2026-08-01 |
+| `400-050` | Règlement concernant le compte de financement spécial Centrale cantonale des moyens d'enseignement | 1 | 2013-07-05 to 2013-07-05 |
+| `400-100` | Règlement concernant l'octroi de subventions diverses en vertu de la loi sur l'instruction publique | 3 | 2015-08-01 to 2024-08-01 |
+| `400-101` | Règlement concernant la prise en charge des frais pour les fournitures scolaires et les activités culturelles et sportives relatifs à la scolarité obligatoire | 3 | 2019-08-01 to 2021-08-01 |
+| `400-102` | Règlement concernant l'éducation physique à l'école | 1 | 2015-08-01 to 2015-08-01 |
+| `400-104-rasn` | Règlement concernant les modalités d'application de l'action sports de neige | 3 | 2020-12-01 to 2024-08-01 |
+| `400-105` | Règlement concernant l'apposition de signatures et de sceaux officiels sur des diplômes ou documents similaires émanant d'institutions privées | 1 | 1999-01-01 to 1999-01-01 |
+| `400-106` | Règlement concernant la reconnaissance d'une école secondaire privée | 1 | 1965-11-01 to 1965-11-01 |
+| `400-107` | Règlement concernant l'inspection des écoles de la scolarité obligatoire et de l'enseignement secondaire du deuxième degré | 1 | 2015-08-01 to 2015-08-01 |
+| `400-108-reil` | Règlement concernant les aides aux échanges et immersions linguistiques | 1 | 2025-01-01 to 2025-01-01 |
+| `400-109` | Règlement concernant le Conseil de l'instruction publique | 1 | 2008-08-15 to 2008-08-15 |
+| `400-110-rfrp` | Règlement concernant la prise en charge des frais pour les ressources pédagogiques relatives à la scolarité obligatoire | 1 | 2024-08-01 to 2024-08-01 |
+| `400-120-rmftp` | Règlement concernant les modalités de prise en charge des frais de déplacement en transport public pour les apprentis et étudiants du secondaire du deuxième degré général | 8 | 2016-06-01 to 2025-08-01 |
+| `400-200-rcs` | Règlement fixant les normes et directives concernant les constructions scolaires de la scolarité obligatoire | 4 | 2015-08-01 to 2024-08-01 |
+| `400-300` | Règlement concernant l'indemnité versée au personnel enseignant pour l'utilisation de son matériel informatique à des fins professionnelles | 1 | 2021-09-01 to 2021-09-01 |
+| `405-20` | Ordonnance concernant la direction des écoles de la scolarité obligatoire | 1 | 2015-08-01 to 2015-08-01 |
+| `405-30-otso` | Ordonnance concernant le traitement du personnel de la scolarité obligatoire et de l'enseignement secondaire du deuxième degré général et professionnel | 8 | 2015-08-01 to 2025-01-01 |
+| `405-100` | Règlement concernant la contribution des communes au traitement du personnel de la scolarité obligatoire et aux charges d'exploitation des institutions spécialisées | 2 | 2016-08-12 to 2019-11-01 |
+| `411-001-olep` | Ordonnance concernant la loi sur l'enseignement primaire | 3 | 2015-08-01 to 2023-09-01 |
+| `411-100` | Ordonnance fixant le statut de la commission scolaire | 1 | 2013-01-01 to 2013-01-01 |
+| `411-101` | Règlement concernant les congés et les mesures disciplinaires applicables dans les limites de la scolarité obligatoire | 3 | 2015-08-01 to 2025-08-01 |
+| `411-102` | Règlement fixant l'organisation et les attributions de la commission cantonale de l'enseignement secondaire | 1 | 1989-10-11 to 1989-10-11 |
+| `411-106-oeval` | Ordonnance relative à l'évaluation du travail des élèves à l'école obligatoire | 2 | 2015-08-01 to 2026-08-01 |
+| `411-200` | Ordonnance concernant les structures suprarégionales du cycle d'orientation | 3 | 2012-09-01 to 2021-08-01 |
+| `411-300-oles` | Ordonnance concernant la loi sur l'enseignement spécialisé | 2 | 2008-11-07 to 2017-09-01 |
+| `411-320` | Règlement fixant l'organisation et les attributions de la commission stratégique cantonale de la pédagogie spécialisée | 1 | 2019-01-01 to 2019-01-01 |
+| `412-100-olalfpr` | Ordonnance concernant la loi d'application de la loi fédérale sur la formation professionnelle | 2 | 2012-09-01 to 2022-04-22 |
+| `412-101` | Ordonnance concernant le statut et le traitement des maîtres professionnels des cours interentreprises organisés dans les écoles professionnelles cantonales | 1 | 2013-09-01 to 2013-09-01 |
+| `412-103-oospc` | Ordonnance sur l'orientation scolaire, professionnelle et de carrière | 3 | 2012-09-01 to 2022-04-22 |
+| `412-104` | Ordonnance concernant les procédures de qualifications professionnelles pour adultes | 1 | 2024-01-01 to 2024-01-01 |
+| `412-105-rap` | Règlement concernant la reconnaissance d’acquis professionnels | 1 | 2024-05-01 to 2024-05-01 |
+| `412-106-oomp` | Ordonnance sur l'organisation de la maturité professionnelle | 2 | 2014-09-01 to 2026-08-01 |
+| `412-309` | Ordonnance concernant le fonctionnement des écoles cantonales du secondaire du deuxième degré professionnel | 1 | 2013-09-01 to 2013-09-01 |
+| `412-310-oodesp` | Ordonnance concernant l'organisation et les directions des écoles cantonales du secondaire du deuxième degré professionnel | 2 | 2012-09-01 to 2023-09-01 |
+| `412-500` | Règlement d'exécution de la loi sur le fonds cantonal en faveur de la formation professionnelle | 2 | 2013-01-01 to 2021-01-01 |
+| `412-510-rfcfca` | Règlement concernant le fonds cantonal de la formation continue des adultes | 2 | 2021-01-01 to 2022-04-22 |
+| `412-550` | Règlement concernant le compte de financement spécial "Formation professionnelle" | 1 | 2010-10-27 to 2010-10-27 |
+| `413-100` | Règlement général concernant les établissements de l'enseignement secondaire du deuxième degré | 2 | 2012-09-01 to 2025-08-01 |
+| `413-101` | Ordonnance concernant les directions des écoles cantonales du degré secondaire II général | 1 | 2012-09-01 to 2012-09-01 |
+| `413-105-rmsop` | Règlement de la maturité spécialisée orientation pédagogie du canton du Valais | 2 | 2013-09-01 to 2024-08-01 |
+| `413-106-rec` | Règlement des écoles des métiers du commerce | 4 | 2015-08-01 to 2026-08-01 |
+| `413-108` | Règlement de l'école de culture générale | 3 | 2008-09-01 to 2021-08-01 |
+| `413-109` | Règlement des écoles préprofessionnelles du canton du Valais | 1 | 2007-09-01 to 2007-09-01 |
+| `413-110` | Règlement concernant les études gymnasiales et les examens de maturité | 2 | 2010-09-01 to 2017-08-01 |
+| `413-111-rmsso` | Règlement de la maturité spécialisée domaine "travail social" du canton du Valais | 2 | 2010-09-01 to 2024-08-01 |
+| `413-112-rve` | Règlement concernant les voyages d'études pour les écoles du secondaire II général | 1 | 2011-09-01 to 2011-09-01 |
+| `413-113` | Règlement relatif à l'examen complémentaire permettant aux titulaires d'un certificat fédéral de maturité professionnelle ou d'un certificat de maturité spécialisée reconnu au niveau suisse d'être admis aux hautes écoles universitaires | 3 | 2016-02-01 to 2017-09-01 |
+| `413-115-rmssa` | Règlement de la maturité spécialisée domaine "santé/sciences expérimentales" du canton du Valais | 2 | 2015-09-01 to 2024-08-01 |
+| `413-116-rmsmt` | Règlement de la maturité spécialisée domaine "musique et théâtre" du canton du Valais | 2 | 2015-09-01 to 2024-08-01 |
+| `413-210-otes` | Ordonnance concernant les titres et diplômes pour l'enseignement dans les écoles de l'enseignement secondaire du degré I et du degré II général | 2 | 2008-03-01 to 2021-08-01 |
+| `414-300-reglement-es-social` | Règlement d'études concernant les filières école supérieure (ES) éducation de l’enfance et maîtrise socioprofessionnelle de la Haute Ecole Spécialisée de Suisse occidentale Valais-Wallis | 4 | 2013-09-01 to 2025-08-01 |
+| `414-305` | Règlement d’études concernant la filière ES (école supérieure) en soins infirmiers | 3 | 2018-09-01 to 2022-09-01 |
+| `414-701` | Ordonnance concernant le statut du personnel de la Haute Ecole Spécialisée de Suisse occidentale Valais/Wallis | 2 | 2016-09-01 to 2022-04-01 |
+| `414-702` | Ordonnance concernant le traitement du personnel de la Haute Ecole Spécialisée de Suisse occidentale Valais/Wallis | 2 | 2016-09-01 to 2022-04-01 |
+| `414-703` | Ordonnance concernant la gestion et le contrôle financier et des prestations de la HES-SO Valais/Wallis | 2 | 2015-01-01 to 2017-12-31 |
+| `414-705-o-langues-hes-so-vs-ws` | Ordonnance concernant l'usage du français et/ou de l'allemand dans l'enseignement à la HES-SO Valais/Wallis et dans ses relations avec les étudiants | 1 | 2019-09-01 to 2019-09-01 |
+| `414-720` | Règlement des modules complémentaires santé | 2 | 2016-09-01 to 2020-08-01 |
+| `414-733-rpivhes` | Règlement concernant la propriété intellectuelle, la valorisation et l'exploitation des résultats acquis par la recherche de la HES-SO Valais/Wallis | 2 | 2010-01-01 to 2024-01-01 |
+| `415-100` | Ordonnance sur le sport | 1 | 2018-01-01 to 2018-01-01 |
+| `415-102-rsis` | Règlement concernant le subventionnement des installations sportives | 1 | 2024-01-01 to 2024-01-01 |
+| `415-200` | Règlement d'exécution de la loi réglant l'octroi de subventions cantonales pour la construction et l'agrandissement d'aménagements destinés à la gymnastique et au sport | 1 | 2012-01-01 to 2012-01-01 |
+| `416-100-obpe` | Ordonnance sur les bourses et prêts d'études | 6 | 2016-07-01 to 2023-07-01 |
+| `416-110-rafsi` | Règlement concernant les aides à la formation pour les filières en soins infirmiers en école supérieure et en haute école spécialisée | 1 | 2024-07-01 to 2024-07-01 |
+| `417-030` | Ordonnance concernant le traitement du personnel des écoles de formation professionnelle supérieure en Valais | 1 | 2015-01-01 to 2015-01-01 |
+| `417-100-r-lccs` | Règlement fixant la localisation et la contribution des communes sièges aux institutions de formation et de recherche du degré tertiaire | 3 | 2015-01-01 to 2026-01-01 |
+| `417-403-rri` | Règlement concernant la reconnaissance institutionnelle des acquis informels | 2 | 2007-01-01 to 2024-01-01 |
+| `419-101-ohep` | Ordonnance concernant l'admission et la formation initiale à la Haute école pédagogique | 2 | 2013-09-01 to 2019-09-01 |
+| `419-104-rtaxes-hep-vs` | Règlement concernant les taxes et les contributions financières à la Haute école pédagogique du Valais | 1 | 2020-08-01 to 2020-08-01 |
+| `419-105` | Règlement concernant le plan d'études cadres de la formation initiale de la Haute école pédagogique du Valais | 1 | 2013-09-01 to 2013-09-01 |
+| `419-106` | Règlement général concernant les formations complémentaires | 1 | 2004-08-02 to 2004-08-02 |
+| `419-107-ofes` | Ordonnance sur la formation à l'enseignement du degré secondaire I et/ou du degré secondaire II | 3 | 2013-08-01 to 2021-08-01 |
+| `419-109` | Règlement sur la rétribution des intervenants par la Haute école pédagogique du Valais | 1 | 2014-02-17 to 2014-02-17 |
+| `419-200-osp-hep-vs` | Ordonnance concernant le statut du personnel de la Haute école pédagogique du Valais | 2 | 2021-01-01 to 2022-12-30 |
+| `419-202-otp-hep-vs` | Ordonnance concernant le traitement du personnel de la Haute école pédagogique du Valais | 2 | 2021-01-01 to 2022-12-30 |
+| `419-204-ogcf-hep-vs` | Ordonnance concernant la gestion et le contrôle financiers de la Haute école pédagogique du Valais | 2 | 2021-01-01 to 2022-12-30 |
+| `419-206-rcost-hep-vs` | Règlement sur la composition, l’organisation et les attributions du conseil stratégique de la Haute école pédagogique du Valais | 1 | 2023-09-01 to 2023-09-01 |
+| `420-101-r-leher` | Règlement sur l’encouragement des hautes écoles et de la recherche | 1 | 2026-01-01 to 2026-01-01 |
+| `420-104-raphe` | Règlement concernant l’activité sur le territoire cantonal des prestataires privés offrant des formations conduisant à l'obtention de diplômes de niveau haute école | 3 | 2021-04-01 to 2026-07-01 |
+| `440-100-rprc` | Règlement sur la promotion de la culture | 3 | 2010-11-19 to 2026-09-01 |
+| `440-102-rspc` | Règlement sur la sauvegarde du patrimoine culturel mobilier, documentaire, immatériel et linguistique | 2 | 2019-07-01 to 2026-09-01 |
+| `440-104-remas` | Règlement sur les écoles de musique et les écoles de formation culturelle dans le domaine des arts de la scène | 2 | 2018-01-01 to 2026-09-01 |
+| `451-100-ocpn` | Ordonnance sur la protection de la nature, du paysage et des sites | 2 | 2012-01-01 to 2018-01-01 |
+| `451-102` | Ordonnance sur l'octroi de contributions à l'exploitation agricole du sol pour des prestations en faveur de la nature et du paysage | 1 | 2000-10-01 to 2000-10-01 |
+| `451-104` | Règlement sur la gestion du fonds cantonal pour la protection des sites bâtis, des monuments historiques et du patrimoine archéologique | 1 | 2018-10-01 to 2018-10-01 |
+| `451-106` | Règlement sur l'aide financière en faveur de la biodiversité, du paysage et de l'adaptation aux changements climatiques dans le milieu bâti | 1 | 2026-03-01 to 2026-03-01 |
+| `455-100` | Ordonnance concernant la formation des nouveaux détenteurs de chiens | 1 | 2020-01-01 to 2020-01-01 |
+| `501-100-oppex` | Ordonnance sur la protection de la population et la gestion des situations particulières et extraordinaires | 4 | 2015-05-22 to 2023-01-01 |
+| `501-201` | Règlement d'organisation et de fonctionnement du Groupe de coordination cantonal Blatten 2030 | 1 | 2026-02-11 to 2026-02-11 |
+| `503-100-optsd` | Ordonnance sur la police des tirs, les installations de tir et les autorités compétentes pour prononcer les sanctions disciplinaires | 2 | 1999-01-01 to 2023-01-01 |
+| `520-100-olalpci` | Ordonnance de la loi d'application de la législation fédérale sur la protection civile | 2 | 2012-01-01 to 2024-01-01 |
+| `520-101-raspci` | Règlement concernant l'administration durant le service de protection civile | 2 | 2006-06-09 to 2024-01-01 |
+| `520-200-ofcr` | Ordonnance sur le fonds cantonal des contributions de remplacement en faveur des constructions de protection civile | 2 | 2012-01-01 to 2024-01-01 |
+| `540-100-rpien` | Règlement organisant l'exécution du service de protection contre l'incendie et les éléments naturels | 2 | 2012-01-01 to 2020-01-01 |
+| `540-101` | Ordonnance concernant l'entretien, le nettoyage et le contrôle des installations recevant du feu ou des fumées | 3 | 2017-03-01 to 2025-07-01 |
+| `540-102-ompi` | Ordonnance concernant les mesures préventives contre les incendies | 2 | 2008-07-25 to 2026-09-01 |
+| `550-100-opol` | Ordonnance de la loi sur la police cantonale | 5 | 2017-01-01 to 2024-11-01 |
+| `550-101-oluc` | Ordonnance sur l'usage des moyens de contrainte par la police cantonale | 1 | 2018-01-01 to 2018-01-01 |
+| `550-102-ovidpol` | Ordonnance sur les mesures de vidéo et d'audio-surveillance par la police cantonale | 2 | 2018-01-01 to 2021-10-01 |
+| `550-103` | Règlement concernant la création d'un fonds financier pour le financement des tâches confidentielles d'enquête de police | 1 | 1998-09-18 to 1998-09-18 |
+| `550-110-otrapol` | Ordonnance concernant le traitement, les frais et indemnités des membres du corps de la police cantonale | 5 | 2008-05-01 to 2025-01-01 |
+| `550-300` | Règlement sur les entreprises de sécurité | 1 | 1999-10-01 to 1999-10-01 |
+| `550-500` | Règlement d'application du concordat instituant des mesures contre la violence lors de manifestations sportives | 1 | 2015-04-01 to 2015-04-01 |
+| `550-600-ovd` | Ordonnance sur les violences domestiques | 3 | 2017-01-01 to 2026-05-01 |
+| `611-100-ogf` | Ordonnance concernant la gestion financière | 1 | 2013-01-01 to 2013-01-01 |
+| `611-101` | Ordonnance concernant la délégation de compétences financières du Conseil d'Etat aux départements et aux services | 2 | 2005-08-01 to 2022-01-01 |
+| `611-102-ogfco` | Ordonnance sur la gestion financière des communes | 2 | 2012-10-05 to 2021-03-01 |
+| `611-103` | Règlement concernant la représentation de l'Etat devant les tribunaux | 2 | 1989-06-09 to 2020-03-27 |
+| `611-104` | Ordonnance concernant les procédures d'encaissement et de recouvrement | 1 | 2006-10-01 to 2006-10-01 |
+| `611-105` | Ordonnance sur le controlling des finances, du personnel et des prestations | 1 | 2010-01-01 to 2010-01-01 |
+| `613-100-opfi` | Ordonnance sur la péréquation financière intercommunale | 1 | 2012-01-01 to 2012-01-01 |
+| `614-100-ricf` | Règlement concernant l'Inspection cantonale des finances | 2 | 1995-09-29 to 2023-09-01 |
+| `616-100` | Ordonnance sur les subventions | 2 | 2015-10-09 to 2023-09-01 |
+| `642-100-ralf` | Règlement d'application de la loi fiscale | 2 | 2011-01-01 to 2020-01-01 |
+| `642-108` | Ordonnance sur la communication aux autorités fiscales des transferts de propriété immobilière | 1 | 2001-01-01 to 2001-01-01 |
+| `642-111` | Ordonnance concernant le dépôt de la déclaration d'impôt des personnes physiques par voie électronique sans signature | 1 | 2018-01-01 to 2018-01-01 |
+| `642-200-oalia` | Ordonnance d'application de la loi fédérale sur l'impôt anticipé et de l'ordonnance fédérale relative à l'imputation d'impôts étrangers prélevés à la source | 3 | 2012-07-20 to 2026-01-01 |
+| `642-300` | Ordonnance concernant la fixation du caractère confiscatoire de l'impôt sur la fortune | 1 | 2016-01-01 to 2016-01-01 |
+| `642-400` | Ordonnance sur l'impôt d'après la dépense | 1 | 2016-01-01 to 2016-01-01 |
+| `642-500` | Ordonnance concernant la dation en paiement | 1 | 2016-01-01 to 2016-01-01 |
+| `645-100` | Règlement concernant les taxes cadastrales | 2 | 2011-01-01 to 2017-01-01 |
+| `645-102` | Règlement concernant les teneurs des registres d'impôts dans les communes | 1 | 2012-01-01 to 2012-01-01 |
+| `652-100` | Règlement concernant la perception de l'impôt sur les chiens | 2 | 2012-01-01 to 2020-01-01 |
+| `701-100-omp` | Ordonnance fixant les montants de la prime de démolition | 1 | 2026-10-01 to 2026-10-01 |
+| `701-105` | Règlement sur les mesures d’encouragement et sur le régime de compensation en matière d’aménagement du territoire | 2 | 2019-04-19 to 2026-10-01 |
+| `701-201` | Règlement fixant le tarif des prestations cantonales en matière de remembrement parcellaire urbain | 1 | 2009-01-01 to 2009-01-01 |
+| `704-100-riml` | Règlement sur les itinéraires de mobilité de loisirs | 2 | 2017-01-01 to 2023-05-01 |
+| `705-100-oc` | Ordonnance sur les constructions | 7 | 2015-06-01 to 2026-01-01 |
+| `705-106-reglement-econstruction-rec` | Règlement d’accès et d’utilisation de la plateforme cantonale eConstruction | 2 | 2022-01-01 to 2026-01-01 |
+| `721-100-odnace` | Ordonnance sur les dangers naturels et l'aménagement des cours d'eau | 2 | 2011-07-01 to 2024-08-01 |
+| `721-200` | Ordonnance relative à la détermination des espaces réservés aux eaux superficielles des grands cours d'eau | 1 | 2014-07-04 to 2014-07-04 |
+| `721-800-relcfh` | Règlement concernant l'exécution de la loi sur l'utilisation des forces hydrauliques | 2 | 2018-01-01 to 2025-01-01 |
+| `721-801-reglement-sur-l-assurance-rc` | Règlement concernant l'application de l'article 46 de la loi sur l'utilisation des forces hydrauliques | 1 | 1990-11-23 to 1990-11-23 |
+| `721-803-rbs` | Règlement sur les bénéfices issus de la solidarité | 1 | 2025-12-01 to 2025-12-01 |
+| `725-105` | Règlement relatif à la fermeture hivernale des routes et chemins cantonaux | 1 | 2010-10-15 to 2010-10-15 |
+| `725-109` | Règlement sur les taxes perçues pour l'usage particulier du domaine public relatif aux voies publiques cantonales, au Rhône et au Léman | 2 | 2017-04-14 to 2026-01-01 |
+| `726-100-ocmp` | Ordonnance sur les marchés publics | 3 | 2012-01-01 to 2024-01-01 |
+| `726-101-olpa` | Ordonnance concernant les listes des entreprises remplissant les conditions de participation et les critères d’aptitude | 3 | 2003-06-01 to 2025-01-01 |
+| `730-100-ocene` | Ordonnance sur l'énergie | 3 | 2011-06-01 to 2025-01-01 |
+| `740-100-ratv` | Règlement concernant l'octroi d'autorisations cantonales pour le transport de voyageurs | 2 | 1999-06-01 to 2023-05-01 |
+| `740-200-rltpmdquot` | Règlement sur les transports publics et la mobilité douce quotidienne | 1 | 2023-01-01 to 2023-01-01 |
+| `741-100-rccsr` | Règlement de la commission cantonale de signalisation routière | 4 | 1999-02-08 to 2026-07-01 |
+| `741-101-resi` | Règlement d’accès et d’utilisation de la plateforme numérique SIROUT | 1 | 2026-07-01 to 2026-07-01 |
+| `741-104-rtaroac` | Règlement fixant le tarif des émoluments et des frais en matière d'admission des personnes et des véhicules à la circulation routière | 7 | 2003-07-01 to 2025-07-01 |
+| `741-110` | Règlement sur les pistes de karting, de motocross et autres pistes similaires | 1 | 1999-07-01 to 1999-07-01 |
+| `741-111` | Règlement sur l'utilisation des véhicules à chenilles | 1 | 2003-02-01 to 2003-02-01 |
+| `743-20` | Ordonnance concernant la construction et l'exploitation de téléphériques et de téléskis sans concession fédérale | 1 | 1999-06-01 to 1999-06-01 |
+| `747-201` | Règlement concernant la navigation motorisée de plaisance sur les voies d'eau valaisannes | 1 | 1990-07-27 to 1990-07-27 |
+| `747-202-rnavrhone` | Règlement sur l'interdiction de naviguer sur le Rhône | 1 | 2025-04-01 to 2025-04-01 |
+| `747-204` | Règlement fixant le tarif des émoluments et des frais en matière de navigation intérieure | 1 | 2016-07-01 to 2016-07-01 |
+| `748-100` | Règlement d'exécution de la loi fédérale sur la navigation aérienne | 1 | 1951-06-01 to 1951-06-01 |
+| `748-101` | Ordonnance sur la demande en mainlevée de la saisie conservatoire d'un aéronef | 1 | 2011-01-01 to 2011-01-01 |
+| `800-15` | Ordonnance sur les conditions salariales, sociales et de prévoyance professionnelle du personnel des institutions psychiatriques du Valais romand et du Centre valaisan de pneumologie (établissements sanitaires cantonaux) | 1 | 2007-02-01 to 2007-02-01 |
+| `800-16` | Ordonnance sur le transfert des infrastructures hospitalières | 1 | 2007-02-01 to 2007-02-01 |
+| `800-100` | Ordonnance sur l'Hôpital du Valais | 2 | 2015-01-01 to 2018-01-01 |
+| `800-101` | Ordonnance sur la composition de l'Hôpital du Valais | 2 | 2017-01-01 to 2020-04-01 |
+| `800-102` | Ordonnance relative à l'Office de l'Ombudsman de la santé et des institutions sociales | 3 | 2018-01-01 to 2022-01-01 |
+| `800-200` | Ordonnance sur le Conseil de santé et d'éthique | 1 | 2021-10-01 to 2021-10-01 |
+| `800-300-oqssp` | Ordonnance sur la qualité des soins et la sécurité des patients | 2 | 2014-09-26 to 2024-06-01 |
+| `800-400` | Ordonnance sur la régulation des équipements médico-techniques lourds | 1 | 2021-01-01 to 2021-01-01 |
+| `800-500` | Ordonnance sur les mesures limitant la liberté de mouvement dans les institutions sanitaires | 1 | 2023-01-01 to 2023-01-01 |
+| `801-20` | Ordonnance concernant les structures de la santé mentale du canton du Valais | 1 | 1996-12-01 to 1996-12-01 |
+| `801-100-opps` | Ordonnance sur la promotion de la santé et la prévention des maladies non-transmissibles et des accidents | 3 | 2012-01-01 to 2025-05-01 |
+| `801-120` | Ordonnance sur la santé scolaire | 1 | 2016-01-01 to 2016-01-01 |
+| `805-10-osld` | Ordonnance sur la planification et le financement des soins de longue durée | 4 | 2015-01-01 to 2026-07-01 |
+| `810-10` | Ordonnance sur la planification sanitaire et le subventionnement des établissements et institutions sanitaires | 1 | 2012-01-01 to 2012-01-01 |
+| `810-12` | Ordonnance sur les autorisations d'exploiter une institution sanitaire | 2 | 1996-12-01 to 2021-10-01 |
+| `810-13` | Ordonnance sur les hospitalisations hors canton | 2 | 2013-05-01 to 2018-01-01 |
+| `810-20` | Ordonnance sur la planification et le financement hospitaliers | 2 | 2015-01-01 to 2018-01-01 |
+| `810-40` | Ordonnance sur l'Observatoire valaisan de la santé | 3 | 2015-01-01 to 2019-01-01 |
+| `810-41` | Ordonnance sur la statistique sanitaire cantonale | 1 | 2015-01-01 to 2015-01-01 |
+| `810-800` | Ordonnance sur l'organisation des secours sanitaires | 3 | 1996-12-01 to 2025-01-01 |
+| `811-100-oex` | Ordonnance sur l'exercice des professions de la santé | 6 | 2014-01-01 to 2023-09-01 |
+| `811-102-osps` | Ordonnance sur la surveillance des professions de la santé | 2 | 2021-01-01 to 2024-03-01 |
+| `811-104` | Règlement sur la formation continue obligatoire pour les professionnels de la santé | 1 | 2020-01-01 to 2020-01-01 |
+| `811-200` | Ordonnance sur les activités de santé publique déléguées par l'Etat | 2 | 2015-01-01 to 2022-03-01 |
+| `811-300` | Ordonnance sur la mise à disposition des places de stage et d’apprentissage pour les professions non universitaires de la santé | 3 | 2021-08-01 to 2026-01-01 |
+| `811-900` | Règlement de la Conférence suisse des directrices et directeurs cantonaux de la santé (CDS) concernant les émoluments pour l'examen intercantonal des ostéopathes | 1 | 2014-04-10 to 2014-04-10 |
+| `812-200-opth` | Ordonnance sur les produits thérapeutiques | 4 | 2009-07-01 to 2025-05-01 |
+| `814-100-reie` | Règlement sur l’examen des impacts sur l’environnement | 3 | 2016-06-17 to 2024-09-01 |
+| `814-105` | Règlement sur la gestion du fonds cantonal pour les investigations préalables des sites présumés pollués | 1 | 2007-01-05 to 2007-01-05 |
+| `814-107` | Règlement sur la gestion du fonds cantonal pour les mesures d'exécution par substitution en matière de protection de l'environnement | 1 | 2012-06-15 to 2012-06-15 |
+| `814-200` | Règlement concernant la procédure relative à la délimitation des zones et périmètres de protection des eaux souterraines, ainsi que des secteurs de protection des eaux superficielles | 1 | 2015-09-11 to 2015-09-11 |
+| `814-700-olalrnis` | Ordonnance concernant la loi d'application de la loi fédérale sur la protection contre les dangers liés au rayonnement non ionisant et au son | 1 | 2026-01-01 to 2026-01-01 |
+| `817-101` | Ordonnance concernant les installations d'alimentation en eau potable | 2 | 1993-01-01 to 2017-02-01 |
+| `818-100` | Ordonnance sur la lutte contre les maladies transmissibles | 1 | 2016-04-01 to 2016-04-01 |
+| `818-120-ordonnance-fumee-passive-ofp` | Ordonnance sur la protection de la population contre la fumée passive et l'interdiction de la publicité pour les produits du tabac, la cigarette électronique, la vaporette, le cannabis légal, les produits nicotiniques et autres produits à fumer | 3 | 2014-01-01 to 2025-05-01 |
+| `818-400-ocd` | Ordonnance sur la constatation des décès et les interventions sur les cadavres humains | 2 | 2014-09-05 to 2025-01-01 |
+| `822-100-octr` | Ordonnance cantonale sur le travail | 1 | 2016-10-01 to 2016-10-01 |
+| `822-106-rpm` | Règlement sur l'octroi de permis professionnels pour les conducteurs de machines de chantier | 2 | 2015-04-01 to 2025-01-01 |
+| `822-200` | Règlement d'exécution de la loi sur le repos du dimanche et des jours de fête | 1 | 1966-12-02 to 1966-12-02 |
+| `822-201-rlom` | Règlement concernant l'ouverture des magasins | 5 | 2002-11-01 to 2024-03-01 |
+| `823-100` | Ordonnance de la loi d'application de la loi fédérale sur les travailleurs détachés et de la loi fédérale sur le travail au noir | 2 | 2016-10-01 to 2021-05-01 |
+| `823-102-omci` | Ordonnance sur le moyen de contrôle individuel | 1 | 2025-01-01 to 2025-01-01 |
+| `831-103` | Règlement concernant la Caisse de compensation du canton du Valais et les agences locales AVS | 1 | 2001-01-01 to 2001-01-01 |
+| `831-300-rpc` | Règlement sur les prestations complémentaires à l'AVS/AI | 3 | 2015-01-01 to 2022-01-01 |
+| `831-305-rmpc` | Règlement relatif au remboursement des frais de maladie et des frais résultant de l'invalidité en matière de prestations complémentaires | 4 | 2014-01-01 to 2021-01-01 |
+| `832-001-oalam` | Ordonnance d'application sur la limitation de l'admission des médecins à facturer à la charge de l'assurance-maladie obligatoire | 6 | 2016-07-01 to 2026-07-01 |
+| `832-100` | Ordonnance désignant les autorités et les procédures en matière d'assurance maladie | 1 | 2011-01-01 to 2011-01-01 |
+| `832-101` | Ordonnance sur le fonds cantonal de secours en matière d'assurance-maladie | 1 | 2001-01-01 to 2001-01-01 |
+| `832-102` | Règlement concernant la composition et l'organisation du tribunal arbitral prévu à l'article 25 de la LAMA, ainsi que la procédure à suivre devant ce tribunal | 1 | 1999-01-01 to 1999-01-01 |
+| `832-105-ocrip` | Ordonnance concernant l'assurance-maladie obligatoire et les réductions individuelles des primes | 6 | 2017-01-01 to 2026-05-01 |
+| `836-100-ocafam` | Ordonnance cantonale sur les allocations familiales | 4 | 2013-01-01 to 2025-01-01 |
+| `836-101-ocrafam` | Ordonnance cantonale sur l'adaptation des montants des allocations familiales au renchérissement | 1 | 2025-01-01 to 2025-01-01 |
+| `837-100-remc` | Règlement sur l'emploi et les mesures en faveur des chômeurs | 1 | 2014-02-14 to 2014-02-14 |
+| `837-101` | Règlement fixant l'organisation et la gestion de la Caisse publique cantonale valaisanne de chômage | 2 | 2011-07-08 to 2017-03-01 |
+| `841-100` | Règlement d'exécution de la loi sur le logement | 1 | 2006-01-01 to 2006-01-01 |
+| `850-60-odiph` | Ordonnance sur les droits et l'inclusion des personnes en situation de handicap | 2 | 2008-01-01 to 2022-01-01 |
+| `850-100-olias` | Ordonnance sur l'intégration et l'aide sociale | 3 | 2016-01-01 to 2024-10-01 |
+| `850-101-rfisp` | Règlement d'utilisation du fonds cantonal pour l'intégration socio-professionnelle | 1 | 2024-10-01 to 2024-10-01 |
+| `850-200` | Règlement sur l'harmonisation du financement des régimes sociaux et d'insertion socio-professionnelle | 1 | 2005-01-01 to 2005-01-01 |
+| `850-301-orace` | Ordonnance sur le recouvrement et les avances de contributions d’entretien | 2 | 2012-12-12 to 2022-01-01 |
+| `850-400-oje` | Ordonnance sur les différentes structures en faveur de la jeunesse | 5 | 2016-12-15 to 2023-01-01 |
+| `850-402-rdsje` | Règlement sur les différentes structures en faveur de la jeunesse | 4 | 2001-06-01 to 2026-09-01 |
+| `850-600` | Règlement concernant l'octroi de subventions aux investissements en vertu de la loi sur l'intégration des personnes handicapées | 1 | 1994-02-11 to 1994-02-11 |
+| `850-610` | Ordonnance sur l'organisation et le fonctionnement de La Castalie | 2 | 2013-02-15 to 2022-01-01 |
+| `857-100` | Règlement de la législation fédérale et cantonale sur les centres de consultation en matière de grossesse | 1 | 2001-10-01 to 2001-10-01 |
+| `900-101-opoleco` | Ordonnance sur la politique économique cantonale | 1 | 2001-01-01 to 2001-01-01 |
+| `900-120-romea` | Règlement sur l'octroi de mesures exceptionnelles à des acteurs économiques touchés par des événements majeurs et imprévisibles, exogènes | 1 | 2024-12-04 to 2024-12-04 |
+| `900-150` | Ordonnance sur la création de la société de promotion du Valais | 1 | 2013-01-01 to 2013-01-01 |
+| `901-100` | Ordonnance sur la loi sur la politique régionale | 5 | 2014-01-01 to 2026-01-01 |
+| `902-100-olerm` | Ordonnance concernant la loi sur l’encouragement des remontées mécaniques | 1 | 2019-03-01 to 2019-03-01 |
+| `902-110` | Règlement sur le fonds cantonal pour les remontées mécaniques | 1 | 2019-09-01 to 2019-09-01 |
+| `910-100-ocagr` | Ordonnance sur l'agriculture et le développement rural | 3 | 2016-01-01 to 2019-05-01 |
+| `910-102-omavv` | Ordonnance sur la modernisation, l'adaptation et la valorisation du vignoble valaisan | 1 | 2025-01-01 to 2025-01-01 |
+| `910-103-rtpma` | Règlement fixant le tarif des prestations cantonales en matière agricole | 3 | 2017-02-01 to 2022-05-01 |
+| `910-110-rfsra` | Règlement sur le financement spécial pour risques météorologiques ou phytosanitaires en matière agricole | 1 | 2024-04-01 to 2024-04-01 |
+| `916-142-ovv` | Ordonnance sur la vigne et le vin | 5 | 2017-01-01 to 2026-04-01 |
+| `916-148` | Ordonnance sur l'authenticité du matériel végétal viticole valaisan | 1 | 1999-09-01 to 1999-09-01 |
+| `916-340` | Ordonnance portant exécution de la législation fédérale sur l'abattage d'animaux et le contrôle des viandes | 2 | 2005-06-01 to 2017-03-01 |
+| `916-400` | Ordonnance concernant l'élimination des sous-produits animaux | 1 | 2017-01-01 to 2017-01-01 |
+| `916-472-reglement-sur-les-frais-veterinaires-rfv` | Règlement fixant les frais et les indemnités dans le domaine vétérinaire | 3 | 2016-01-01 to 2022-10-01 |
+| `921-100-ocfo` | Ordonnance sur les forêts | 3 | 2013-01-01 to 2024-08-01 |
+| `921-150` | Règlement concernant la fonction et les tâches du garde forestier | 1 | 2013-01-01 to 2013-01-01 |
+| `922-100-rexchp` | Règlement d'exécution de la loi sur la chasse | 8 | 2016-07-08 to 2026-07-01 |
+| `922-150` | Règlement sur l'administration et l'utilisation du fond cantonal relatif au financement des dommages causés par la faune sauvage | 1 | 2012-10-01 to 2012-10-01 |
+| `923-100-ocpe` | Ordonnance sur l'exercice de la pêche | 4 | 2014-01-01 to 2023-06-01 |
+| `923-150` | Règlement sur l'administration et l'utilisation du fonds piscicole | 1 | 2012-06-01 to 2012-06-01 |
+| `923-900` | Règlement d'exécution du concordat intercantonal sur la pêche dans le lac Léman | 1 | 2001-01-01 to 2001-01-01 |
+| `930-100` | Ordonnance concernant la loi sur la police du commerce | 1 | 2016-01-01 to 2016-01-01 |
+| `932-100-oprost` | Ordonnance sur la prostitution | 1 | 2016-01-01 to 2016-01-01 |
+| `935-100` | Ordonnance concernant la loi sur le tourisme | 1 | 2015-01-01 to 2015-01-01 |
+| `935-101` | Ordonnance concernant une exonération de la taxe de séjour | 1 | 1996-11-01 to 1996-11-01 |
+| `935-102` | Règlement sur le fonds cantonal pour le tourisme | 1 | 2016-01-01 to 2016-01-01 |
+| `935-200-ogar` | Ordonnance sur les guides de montagne et les organisateurs d'autres activités à risque | 2 | 2014-01-01 to 2026-09-01 |
+| `935-300-ohr` | Ordonnance concernant la loi sur l'hébergement, la restauration et le commerce de détail de boissons alcoolisées | 3 | 2005-01-01 to 2025-01-01 |
+| `935-505-obl` | Ordonnance concernant l'attribution des bénéfices résultant des loteries | 3 | 2001-07-01 to 2026-10-01 |
+| `935-506` | Règlement concernant l’attribution annuelle des bénéfices résultant de la Loterie romande au fonds de secours du Conseil d’Etat | 3 | 2010-07-01 to 2021-03-19 |
+| `935-509-reglement-sur-laide-durgence-pour-blatten` | Règlement concernant la contribution de solidarité en faveur de la population, des entreprises et des sociétés locales de Blatten, à la suite de l’éboulement du 28 mai 2025 ainsi que l’octroi d’un crédit supplémentaire au budget 2025 pour le versement de 10 millions de francs d’aides dans le cadre de l’aide d’urgence pour Blatten | 1 | 2025-09-11 to 2025-09-11 |
+| `935-520` | Ordonnance concernant la répartition de la part du produit des jeux résultant de l'exploitation des maisons de jeu | 2 | 2003-05-01 to 2021-03-19 |
+| `935-550-olaljar` | Ordonnance concernant la loi d'application de la loi fédérale sur les jeux d'argent | 1 | 2021-05-21 to 2021-05-21 |
+| `935-700-rfds` | Règlement sur le Fonds du Sport | 4 | 2014-01-01 to 2023-12-01 |
+| `935-701-rfdna` | Règlement concernant l'utilisation des fonds mis à disposition par la Loterie de la Suisse romande en vue de venir en aide aux victimes de dommages non assurables causés par les forces de la nature | 4 | 2006-04-28 to 2022-12-09 |
+| `935-703` | Règlement fixant les modalités d'attribution d'aides financière du fonds du sport aux centres de sports à caractère national | 1 | 2009-01-01 to 2009-01-01 |
+| `941-4` | Ordonnance d'exécution de la loi fédérale et de l'ordonnance sur les substances explosibles | 2 | 1993-08-25 to 2017-02-01 |
+| `941-200` | Ordonnance concernant la loi d'application de la loi fédérale sur la métrologie | 1 | 2006-01-01 to 2006-01-01 |
+
+The build made 968 commits:
+
+| Commits | Kind |
+| ---: | --- |
+| 506 | first version of an act |
+| 462 | one law on its in-force day |
+| 0 | changes no amendment note explains, credited to the publisher |
+
+Other counts:
+- 4 commits on the branch `futur`: laws not yet in force on 2026-10-30.
+- 7 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
+- 1169 laws in the record.
+- 1518 tags.
+
+## Dates
+
+Each commit is dated at noon (Europe/Zurich) on the day the change took effect. The other dates, enacted and published, are trailers.
+
+When a law gives no date of its own, the default rule applies: Each version is dated by the day the canton's systematic collection says it took effect ("in Kraft seit / von"); cantonal acts take effect on the day the act or the government sets. https://lex.vs.ch/
+
+## How the history is built
+
+`tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
+
+- Corpus: sha256 `12d443bd13e04d80297991a7c09546a828795dd2b1dbda713a5ffb0427c1f27e` (17005717 bytes).
+- Builder blob hashes (`git hash-object`): `build.py` `a4faa25af85facb64b956b372f6b528aafdd7ec1`, `check.py` `3d00541d258745461ab52b1b0cb4e1716a27a95d`, `on.py` `644a6c0857fbcc72562032b58d57aa113fee0641`.
+- Python 3.12.10; git version 2.46.0.windows.1.
+
+## Checks
+
+1085 versions of 506 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+
+No second build of this corpus has been compared yet.
+
+## Decisions made by hand
+
+- Each version is the consolidated text the canton's systematic collection publishes, dated by its "in force from" day; when two versions share a day only the last is kept.
+- Changes are credited to the entries of the act's own change table (decision, in-force day, element, RCV reference) whose in-force day falls after the previous version and on or before this one; a change whose element the table does not name is credited to every entry of that window.
+- Section headings are kept together in one file per act (gliederung.md); the title, date and preamble in ingress.md; the signature block in schluss.md. Amendment markers (*) and the "Stand" date are left out.
+- Annexes published only as separate PDF files are not included.
+- An act's first version is credited to its original enactment only when the change table shows no change in force before it; otherwise it is the oldest version available.
+
+## What AI did and did not do
+
+The scripts that read the sources and build this repository were written by Claude Code running Claude Opus 5.5 (`claude-opus-5-5`) under Lexifina's direction.
+
+No model wrote, translated or corrected legal text. No model runs at build time. Every word of law in this repository comes from the official sources above.
+
+The commit messages are written by `build.py` from the source data.
+
+Model use at data-build time:
+- A model (Claude) wrote the fetch and parse code and chose which acts to include; it wrote no law text. Every word of law comes from the canton's own collection.

@@ -1,0 +1,11 @@
+{
+  "path": "ch-vs",
+  "code": "CH-VS",
+  "name": "Valais",
+  "level": "canton",
+  "parent": "ch",
+  "repo": "https://github.com/lexifina/switzerland-valais-law",
+  "build": "built: constitution, cantonal laws and ordonnances (506 acts, 1085 versions) from the RS",
+  "language": "fr",
+  "sources": 1
+}
