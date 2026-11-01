@@ -7,3 +7,4 @@ vu l'ordonnance fédérale sur la chasse et la protection des mammifères et ois
 vu les articles 30 chiffre 3 et 44 chiffre 2 de la Constitution cantonale;
 sur la proposition du Conseil d'Etat,
 décrète:
+1 Dispositions générales
