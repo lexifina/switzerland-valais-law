@@ -1,6 +1,6 @@
 # Loi sur la chasse et la protection des mammifères et oiseaux sauvages
 
-Loi sur la chasse, LcChP · 3 versions, from 1996-05-01 (latest in force: 2018-07-13) · <https://lex.vs.ch/app/fr/texts_of_law/922.1>
+Loi sur la chasse, LcChP · 3 versions, from 1996-05-01 (latest in force: 2026-11-01) · <https://lex.vs.ch/app/fr/texts_of_law/922.1>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -34,6 +34,7 @@ Loi sur la chasse, LcChP · 3 versions, from 1996-05-01 (latest in force: 2018-0
 | Art. 26 | [art-026.md](art-026.md) | 1 | 2026-11-01 |
 | Art. 27 | [art-027.md](art-027.md) | 0 |  |
 | Art. 28 | [art-028.md](art-028.md) | 0 |  |
+| Art. 28a | [art-028a.md](art-028a.md) | 1 | 2026-11-01 |
 | Art. 29 | [art-029.md](art-029.md) | 0 |  |
 | Art. 30 | [art-030.md](art-030.md) | 1 | 2026-11-01 |
 | Art. 31 | [art-031.md](art-031.md) | 0 |  |
@@ -61,5 +62,4 @@ Loi sur la chasse, LcChP · 3 versions, from 1996-05-01 (latest in force: 2018-0
 | Art. 53 | [art-053.md](art-053.md) | 0 |  |
 | Art. 54 | [art-054.md](art-054.md) | 0 |  |
 | Art. 55 | [art-055.md](art-055.md) | 0 |  |
-| Gliederung | [gliederung.md](gliederung.md) | 1 | 2026-11-01 |
 | Titel und Ingress | [ingress.md](ingress.md) | 1 | 2026-11-01 |

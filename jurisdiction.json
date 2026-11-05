@@ -5,7 +5,7 @@
   "level": "canton",
   "parent": "ch",
   "repo": "https://github.com/lexifina/switzerland-valais-law",
-  "build": "built: constitution, cantonal laws and ordonnances (506 acts, 1085 versions) from the RS",
+  "build": "built: 688 in-force normative RS entries (1267 versions), including additional current texts and extractable textual annexes; 2 candidate acts held for annex extraction",
   "language": "fr",
   "sources": 1
 }

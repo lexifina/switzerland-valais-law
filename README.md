@@ -1,6 +1,6 @@
 # Valais: law history in git
 
-The law of the canton of Valais (Canton du Valais, Switzerland) as a git history: one file per article, one commit per amending act on the day it took effect, and the amending act as the commit's author. `git blame` names the act behind every paragraph; `git log` lists every change to an article; checking out a date gives the text in force that day.
+The law of the canton of Valais (Canton du Valais, Switzerland) as a git history. Earlier consolidated acts have an article per file and dated amendment commits; additional current-text acts use a single `texte.md` file, with a separate `annexe.md` when the official PDF has extractable text. Checking out a date gives the recorded text in force that day.
 
 It follows the shared design of [lexifina/global-law](https://github.com/lexifina/global-law), which places it at `ch-vs/`. The federal law is in [lexifina/switzerland-law](https://github.com/lexifina/switzerland-law).
 
@@ -8,7 +8,7 @@ The text is in French, the canton's first official language in the collection, e
 
 ## What this repository holds
 
-506 acts with 1085 versions so far: the cantonal constitution, the cantonal laws (Gesetze) in force and 339 ordonnances and règlements in force, in the order of the systematic collection, added in parts. Other decrees and decisions, intercantonal agreements and repealed acts are not included yet.
+688 acts with 1267 versions so far: the cantonal constitution and in-force normative entries in the systematic collection, added in parts. Repealed acts are not included yet.
 
 | Folder | Act | Versions | History |
 | --- | --- | ---: | --- |
@@ -521,7 +521,7 @@ The text is in French, the canton's first official language in the collection, e
 
 ## Source
 
-The RS (systematic collection) of the canton, published by the canton at <https://lex.vs.ch/>. For each act it gives every consolidated version it holds, with the day each version took effect, and a change table listing each amendment: its decision date, the day it took effect, the provision it touched and its entry in the chronological collection (RCV). Annexes the collection publishes only as separate PDF files are not included.
+The RS (systematic collection) of the canton, published by the canton at <https://lex.vs.ch/>. For each act it gives every consolidated version it holds, with the day each version took effect, and a change table listing each amendment: its decision date, the day it took effect, the provision it touched and its entry in the chronological collection (RCV). Extractable text from 11 separately published PDF annexes is included for the additional current-text acts; image content is listed for later restoration. Other older separate annexes have not all been reviewed.
 
 ## Dates
 
@@ -532,7 +532,7 @@ The RS (systematic collection) of the canton, published by the canton at <https:
 
 ## Files
 
-`<act>/art-005.md` is Art. 5 (or § 5), `art-005a.md` Art. 5a; `ingress.md` holds the title, date and preamble; `gliederung.md` the section headings; `schluss.md` the closing formula and signatures. One paragraph or list item per line. Amendment markers (`*`), footnote numbers and the "Stand" date are left out.
+`<act>/art-005.md` is Art. 5 (or § 5) in the earlier structured acts; `ingress.md` holds their title, date and preamble, `gliederung.md` their section headings, and `schluss.md` their closing formula and signatures. These structured files generally place one paragraph or list item per line and omit amendment markers, footnote numbers and the source display date. Additional current-text acts use `texte.md` for the complete source text and `annexe.md` for extractable separate PDF text; source footnote and date text may remain in those files.
 
 ## How it is checked
 
@@ -546,4 +546,191 @@ The author of a commit is the amending act, named by its entry in the chronologi
 
 ## Limits
 
-This is not an official publication. The binding text is the one the canton publishes as binding (its chronological collection, or its systematic collection where cantonal law makes that binding). The history starts with the oldest consolidated version the collection holds for each act, which for many acts is later than the act's enactment. Only the acts listed above are included.
+This is not an official publication. The binding text is the one the canton publishes as binding (its chronological collection, or its systematic collection where cantonal law makes that binding). The history starts with the oldest consolidated version the collection holds for each act, which for many acts is later than the act's enactment. Only the acts listed in this README are included.
+
+## Additional current texts (RS entries verified 5 November 2026)
+
+| Folder | Act | Versions | History |
+| --- | --- | ---: | --- |
+| `111-21-accord-de-karlsruhe/` | Accord de Karlsruhe sur la coopération transfrontalière entre les collectivités territoriales et organisme publics locaux (RS 111.21) | 1 | current text from 2005-04-01 |
+| `143-102/` | Arrêté concernant la carte de légitimation pour le retrait de billets d'indigène (RS 143.102) | 1 | current text from 1994-12-01 |
+| `170-204/` | Arrêté fixant les indemnités dues aux membres de la Commission cantonale de protection des données et de transparence (RS 170.204) | 1 | current text from 2024-01-01 |
+| `170-21-lvid/` | Loi sur la vidéosurveillance dans les lieux publics (RS 170.21) | 1 | current text from 2026-11-01 |
+| `170-210-ovid/` | Ordonnance sur la vidéosurveillance dans les lieux publics (RS 170.210) | 1 | current text from 2026-11-01 |
+| `170-530/` | Arrêté concernant les offices cantonaux de consultation des recueils officiels fédéraux (RS 170.530) | 1 | current text from 2007-01-01 |
+| `171-2-convention-sur-la-participation-coparl/` | Convention relative à la participation des Parlements cantonaux dans le cadre de l'élaboration, de la ratification, de l'exécution et de la modification des conventions intercantonales et des traités des cantons avec l'étranger (RS 171.2) | 1 | current text from 2011-03-01 |
+| `172-433/` | Arrêté sur les indemnités de commissions (RS 172.433) | 1 | current text from 2008-01-01 |
+| `211-613/` | Arrêté relatif à la propriété par étages (RS 211.613) | 1 | current text from 1966-11-01 |
+| `221-214/` | Arrêté fixant les indemnités dues aux membres de la Commission de conciliation en matière de bail à loyer (RS 221.214) | 1 | current text from 2012-01-01 |
+| `221-400/` | Arrêté fixant l'organisation des offices du registre du commerce, le statut et le traitement de leurs agents (RS 221.400) | 1 | current text from 2024-05-01 |
+| `221-600/` | Arrêté édictant un contrat-type de travail prévoyant des salaires minimaux impératifs pour le personnel du secteur de la maintenance et du nettoyage industriels (RS 221.600) | 1 | current text from 2025-05-01 |
+| `221-602/` | Arrêté édictant un contrat-type de travail pour le personnel au service de l'économie domestique (RS 221.602) | 1 | current text from 2026-01-01 |
+| `221-605/` | Arrêté édictant un contrat-type de travail prévoyant des salaires minimaux impératifs pour le personnel des téléphériques, télésièges, téléskis et tous autres moyens de transports analogues (RS 221.605) | 1 | current text from 2023-06-01 |
+| `221-606/` | Arrêté édictant un contrat-type de travail pour le personnel des bureaux d'ingénieurs, d'architectes et des autres bureaux d'études du canton du Valais (RS 221.606) | 1 | current text from 2024-01-01 |
+| `221-608/` | Arrêté édictant un contrat-type de travail pour l'agriculture (RS 221.608) | 1 | current text from 2025-01-01 |
+| `343-3-concordat-latin-sur-la-detention-penale-des-adultes/` | Concordat sur l'exécution des peines privatives de liberté et des mesures concernant les adultes et les jeunes adultes dans les cantons latins (RS 343.3) | 1 | current text from 2007-11-01 |
+| `343-4-concordat-latin-sur-la-detention-penale-des-mineurs/` | Concordat sur l’exécution de la détention pénale des personnes mineures des cantons romands (et partiellement du Tessin) (RS 343.4) | 1 | current text from 2018-07-01 |
+| `362-1/` | Convention entre la Confédération et les cantons relative à la mise en œuvre, à l'application et au développement de l'acquis de Schengen et de Dublin (RS 362.1) | 1 | current text from 2008-11-01 |
+| `400-103/` | Arrêté concernant l'éducation routière à l'école (RS 400.103) | 1 | current text from 2015-08-01 |
+| `400-9/` | Concordat sur la coordination scolaire (RS 400.9) | 1 | current text from 1972-05-01 |
+| `411-35/` | Accord intercantonal sur la collaboration dans le domaine de la pédagogie spécialisée (RS 411.35) | 1 | current text from 2009-04-01 |
+| `411-350/` | Arrêté concernant la limitation provisoire de la reconnaissance par le Service cantonal de la jeunesse de nouveaux prestataires pour fournir des mesures pédago-thérapeutiques en logopédie envers des enfants et des jeunes de la naissance à l'âge de 20 ans révolus (RS 411.350) | 1 | current text from 2014-04-11 |
+| `411-354/` | Arrêté définissant la liste des organes spécialisés reconnus par l'Office de l'enseignement spécialisé pour la procédure d'évaluation standardisée dans le cadre de l'octroi de mesures scolaires d'enseignement spécialisé (RS 411.354) | 1 | current text from 2017-09-01 |
+| `411-4-concordat-harmos/` | Accord intercantonal sur l'harmonisation de la scolarité obligatoire (RS 411.4) | 1 | current text from 2008-10-01 |
+| `411-5/` | Convention scolaire romande (RS 411.5) | 1 | current text from 2009-08-01 |
+| `412-102/` | Arrêté sur les indemnités des commissaires de branche et des experts aux procédures de qualification (RS 412.102) | 1 | current text from 2011-09-01 |
+| `412-107/` | Arrêté concernant les émoluments et les taxes et contributions à charge des participants à une formation continue (RS 412.107) | 1 | current text from 2017-04-01 |
+| `412-6-accord-sur-les-ecoles-professionnelles-aepr/` | Accord intercantonal sur les contributions dans le domaine de la formation professionnelle initiale (RS 412.6) | 1 | current text from 2007-09-01 |
+| `413-114/` | Arrêté fixant les finances d'inscription aux examens de maturité et de diplôme commercial (RS 413.114) | 1 | current text from 1991-07-12 |
+| `413-21/` | Accord intercantonal sur la reconnaissance des diplômes de fin d’études (RS 413.21) | 1 | current text from 2016-07-01 |
+| `414-1-aes/` | Accord intercantonal sur les contributions dans le domaine des écoles supérieures (RS 414.1) | 1 | current text from 2014-01-01 |
+| `414-2-concordat-sur-les-hautes-ecoles/` | Accord intercantonal sur le domaine suisse des hautes écoles (RS 414.2) | 1 | current text from 2015-01-01 |
+| `414-31-accord-intercantonal-universitaire-aiu/` | Accord intercantonal sur les contributions aux coûts de formation des hautes écoles universitaires (RS 414.31) | 1 | current text from 2022-01-01 |
+| `414-7-hes-so/` | Convention intercantonale sur la Haute Ecole Spécialisée de Suisse occidentale (RS 414.7) | 1 | current text from 2013-01-01 |
+| `414-71-ahes/` | Accord intercantonal sur les hautes écoles spécialisées à partir de 2005 (RS 414.71) | 1 | current text from 2005-01-01 |
+| `414-75/` | Convention intercantonale relative au contrôle parlementaire sur la Haute école spécialisée de Suisse occidentale (HES-SO) (RS 414.75) | 1 | current text from 2003-10-01 |
+| `416-2/` | Accord intercantonal sur l'harmonisation des régimes de bourses d'études (RS 416.2) | 1 | current text from 2021-07-01 |
+| `451-111/` | Décision concernant la protection de la forêt d'Aletsch, commune de Riederalp (RS 451.111) | 1 | current text from 2011-06-17 |
+| `451-112/` | Décision concernant la protection de la région du Märjelensee (RS 451.112) | 1 | current text from 1938-02-23 |
+| `451-113/` | Décision concernant la protection de Géronde, de Plantzette, de l'Ancien-Sierre et de Rawyre (RS 451.113) | 1 | current text from 1959-04-07 |
+| `451-114/` | Décision concernant la protection de la forêt et du site de Derborence (RS 451.114) | 1 | current text from 1961-03-30 |
+| `451-115/` | Décision concernant la protection du site de la colline de Rarogne (RS 451.115) | 1 | current text from 1963-10-18 |
+| `451-116/` | Décision concernant la protection du site de la chapelle de Bettmeralp (RS 451.116) | 1 | current text from 1970-06-17 |
+| `451-117/` | Décision concernant la protection du site paléontologique du Vieux-Emosson (RS 451.117) | 1 | current text from 1987-01-01 |
+| `451-118/` | Décision concernant la protection de la vallée de la Borgne (RS 451.118) | 1 | current text from 1987-01-01 |
+| `451-119/` | Décision concernant la protection du site de Mont-d'Orge (RS 451.119) | 1 | current text from 1989-06-21 |
+| `451-120/` | Décision concernant la protection du site de Finges à Sierre, Salquenen, Varone et Loèche (RS 451.120) | 1 | current text from 1998-01-09 |
+| `451-121/` | Décision concernant la protection du site "Achera Biela", communes de Ried-Brigue et Termen (RS 451.121) | 1 | current text from 1999-08-01 |
+| `451-313/` | Décision concernant la protection de l'adonis du printemps sur le territoire de la commune de Tourtemagne (RS 451.313) | 1 | current text from 1944-04-16 |
+| `451-314/` | Décision concernant la protection des anémones soufrées et alpines et des gentianes de toutes espèces dans la région désignée ci-après, sur territoire des communes de Lens, Chermignon, Montana, Randogne et Icogne (RS 451.314) | 1 | current text from 1959-03-22 |
+| `451-315/` | Décision concernant la protection de la tulipe de Grengiols "Tulipa grengiolensis" à Grengiols (RS 451.315) | 1 | current text from 1994-10-12 |
+| `451-320/` | Décision concernant la protection des marais de Poutafontanaz (RS 451.320) | 1 | current text from 1959-06-09 |
+| `451-321/` | Décision concernant la protection du site du lac de Morgins, sur territoire de la commune de Troistorrents (RS 451.321) | 1 | current text from 2008-01-18 |
+| `451-322/` | Décision concernant la protection du bas-marais et du site de reproduction de batraciens d'Ardon et de Chamoson (RS 451.322) | 1 | current text from 2005-09-23 |
+| `451-323/` | Décision concernant la protection du marais des Rigoles à Vionnaz (RS 451.323) | 1 | current text from 1991-09-11 |
+| `451-324/` | Décision concernant la protection des marais de "Moosalpe" à Törbel (RS 451.324) | 1 | current text from 1995-02-22 |
+| `451-325/` | Décision concernant la protection du haut-marais "La Maraîche de Plex" à Collonges (RS 451.325) | 1 | current text from 1995-03-22 |
+| `451-326/` | Décision concernant la protection de la zone alluviale "Sand" à Oberwald (RS 451.326) | 1 | current text from 1995-10-18 |
+| `451-327/` | Décision concernant la protection des marais de "Bärfel", "Triest", "Blasestafel" et "Mutterseewji", commune d'Oberwald (RS 451.327) | 1 | current text from 1996-07-05 |
+| `451-328/` | Décision concernant la protection du haut-marais Simplon-Hopschusee et de ses alentours (RS 451.328) | 1 | current text from 1996-07-05 |
+| `451-329/` | Décision concernant la protection du haut-marais "Flesch" à Goppisberg (RS 451.329) | 1 | current text from 1997-01-17 |
+| `451-330/` | Décision concernant la protection des zones alluviales "Zeiterbode" à Biel et Selkingen et "Matte" à Gluringen et Reckingen (RS 451.330) | 1 | current text from 1997-05-16 |
+| `451-331/` | Décision concernant la protection du marais de "Mutt" à Rarogne (RS 451.331) | 1 | current text from 1997-05-23 |
+| `451-332/` | Décision concernant la protection du marais de Champex à Orsières (RS 451.332) | 1 | current text from 1997-07-11 |
+| `451-333/` | Décision concernant la protection de la zone alluviale d'importance nationale "Grund", communes de Ried-Brigue et Brigue-Glis (RS 451.333) | 1 | current text from 1997-09-19 |
+| `451-334/` | Décision concernant la protection de la zone alluviale "Bilderne", communes de Mörel et Filet (RS 451.334) | 1 | current text from 1998-05-01 |
+| `451-335/` | Décision concernant la protection des quatre zones alluviales d'importance nationale et des marges glaciaires de Jegi et Langgletscher de la vallée de Lötschen (RS 451.335) | 1 | current text from 1998-06-05 |
+| `451-336/` | Décision concernant la protection des marais "La Gouille Verte", commune de Martigny-Combe (RS 451.336) | 1 | current text from 1998-06-19 |
+| `451-337/` | Décision concernant la protection de la zone alluviale de "Gletschboden" et de la marge glaciaire du glacier du Rhône à Oberwald (RS 451.337) | 1 | current text from 1999-03-26 |
+| `451-339/` | Décision concernant la protection du bas-marais "Zwisched Bäch" à Obergesteln (RS 451.339) | 1 | current text from 1999-12-17 |
+| `451-340/` | Décision concernant la protection du site marécageux "Albrun", du bas-marais "Oxefeld" et du bas-marais "Blatt" à Binn (RS 451.340) | 1 | current text from 1999-12-17 |
+| `451-341/` | Décision concernant la protection du site des Epines à Conthey (RS 451.341) | 1 | current text from 2000-01-21 |
+| `451-342/` | Décision concernant la protection des biotopes de compensation Cleuson-Dixence sur le territoire de la commune de Nendaz, première série (RS 451.342) | 1 | current text from 2000-07-28 |
+| `451-343/` | Décision concernant la protection du biotope humide de Brigerbad, commune de Brig-Glis (RS 451.343) | 1 | current text from 2005-07-01 |
+| `451-344/` | Décision concernant la protection du bas-marais "L'Echereuse" à Champéry (RS 451.344) | 1 | current text from 2005-12-02 |
+| `451-345/` | Décision concernant la protection du marais "Les Moilles", commune de Troistorrents (RS 451.345) | 1 | current text from 2005-12-02 |
+| `451-346/` | Décision concernant la protection des bas-marais d'importance nationale "Champoussin" et "Bochasse" et du bas-marais d'importance cantonale "Les Champeys", communes de Val-d'Illiez et Troistorrents (RS 451.346) | 1 | current text from 2005-12-02 |
+| `451-347/` | Décision concernant la protection du bas-marais "Les Esserts" à Verbier, commune de Bagnes (RS 451.347) | 1 | current text from 2006-03-24 |
+| `451-348/` | Décision concernant la protection des zones alluviales d'importance nationale "Lotrey", "Pramousse - Satarma", "La Borgne en amont d'Arolla", "Salay" et "Ferpècle", commune d'Evolène (RS 451.348) | 1 | current text from 2007-08-03 |
+| `451-349/` | Décision concernant la protection des bas-marais d'importance cantonale Culet, Madzé, commune de Troistorrents; Délifrête, Sur Crête, Lac Vert, commune de Val-d'Illiez; Planachaux, Le Pisa-Ripaille, commune de Champéry (RS 451.349) | 1 | current text from 2009-06-26 |
+| `451-350/` | Décision concernant la protection du haut-marais d'importance nationale Barme; commune de Champéry (RS 451.350) | 1 | current text from 2011-08-19 |
+| `451-351/` | Décision, concernant la protection des biotopes de compensation Cleuson-Dixence sur les territoires des communes d'Hérémence et de Nendaz deuxième série (RS 451.351) | 1 | current text from 2014-04-11 |
+| `451-352/` | Décision concernant la protection du site marécageux val de Réchy et son bas-marais Ar du Tsan, commune de Mont-Noble (RS 451.352) | 1 | current text from 2015-12-18 |
+| `451-353/` | Décision concernant la protection de la zone alluviale d'importance nationale "Feegletscher Nord", commune de Saas-Fee (RS 451.353) | 1 | current text from 2020-09-11 |
+| `451-354/` | Décision concernant la protection du site de reproduction des batraciens d'importance nationale du Lac Noir, sur le territoire des communes de Nendaz et d’Isérables (RS 451.354) | 1 | current text from 2020-09-18 |
+| `452-100/` | Décision concernant la protection des papillons dans les vallées de Laggin (RS 452.100) | 1 | current text from 1985-07-03 |
+| `452-102/` | Arrêté concernant le ramassage des escargots (RS 452.102) | 1 | current text from 1985-04-10 |
+| `501-20/` | Décret pour la gestion des conséquences des événements naturels ayant touché le Lötschental (RS 501.20) | 1 | current text from 2025-12-18 |
+| `501-30/` | Décret pour le soutien aux victimes de l'incendie de Crans-Montana du 1er janvier 2026 et l'octroi d'un crédit supplémentaire (RS 501.30) | 1 | current text from 2026-06-11 |
+| `520-110/` | Arrêté fixant le montant des contributions de remplacement pour les abris de la protection civile (RS 520.110) | 1 | current text from 2024-01-01 |
+| `520-120/` | Arrêté fixant les frais et émoluments perçus par le Service de la sécurité civile et militaire (RS 520.120) | 1 | current text from 2024-01-01 |
+| `520-300/` | Arrêté désignant les biens culturels d'importance nationale (A) et régionale (B), en application de la loi fédérale sur la protection des biens culturels en cas de conflit armé (RS 520.300) | 1 | current text from 1988-04-20 |
+| `531-110/` | Arrêté concernant l'organisation de l'économie de guerre sur le plan cantonal (RS 531.110) | 1 | current text from 1964-01-03 |
+| `540-103/` | Arrêté concernant l'interdiction de l’utilisation d’engins pyrotechniques de divertissement dans les établissements recevant ou hébergeant du public (RS 540.103) | 1 | current text from 2026-08-01 |
+| `550-2/` | Concordat réglant la coopération en matière de police en Suisse romande (RS 550.2) | 1 | current text from 2016-01-01 |
+| `550-3/` | Concordat sur les entreprises de sécurité (RS 550.3) | 1 | current text from 2025-01-04 |
+| `550-5/` | Concordat instituant des mesures contre la violence lors de manifestations sportives (RS 550.5) | 1 | current text from 2015-04-01 |
+| `550-7-ikapol/` | Convention sur les engagements de police intercantonaux (RS 550.7) | 1 | current text from 2025-01-01 |
+| `611-5-accord-cadre-aci/` | Accord-cadre pour la collaboration intercantonale assortie d'une compensation des charges (RS 611.5) | 1 | current text from 2007-06-01 |
+| `611-6/` | Décret sur le plafond et l’alimentation du fonds de compensation des fluctuations de recettes (RS 611.6) | 1 | current text from 2023-03-15 |
+| `613-104/` | Arrêté fixant les montants de la péréquation financière intercommunale 2027 (RS 613.104) | 1 | current text from 2026-06-30 |
+| `620-310/` | Arrêté désignant l'autorité cantonale unique chargée de statuer comme juge du sursis bancaire, comme juge de la faillite bancaire et comme autorité concordataire pour le concordat bancaire (RS 620.310) | 1 | current text from 1982-09-15 |
+| `641-800/` | Décision concernant l'utilisation de la part cantonale de la redevance sur le trafic des poids lourds liée aux prestations RPLP (RS 641.800) | 1 | current text from 2021-01-01 |
+| `642-034/` | Accord entre le Conseil fédéral suisse et le gouvernement de la République française relatif à l'imposition des rémunérations des travailleurs frontaliers (RS 642.034) | 1 | current text from 1986-06-24 |
+| `642-103/` | Arrêté fixant les indemnités dues aux membres de la Commission cantonale d'impôts des personnes morales et de la Commission cantonale d'impôts des personnes physiques (RS 642.103) | 1 | current text from 2009-01-01 |
+| `642-104/` | Arrêté fixant les émoluments du Service cantonal des contributions (RS 642.104) | 1 | current text from 2017-01-01 |
+| `642-105/` | Arrêté relatif à l'impôt à forfait (RS 642.105) | 1 | current text from 1993-01-01 |
+| `642-106/` | Arrêté relatif à la perception des impôts cantonaux et communaux par acomptes (RS 642.106) | 1 | current text from 2026-01-01 |
+| `642-107/` | Arrêté fixant la part des frais administratifs mis à la charge du débiteur dans le cadre de la procédure d'encaissement (RS 642.107) | 1 | current text from 1991-07-12 |
+| `642-109/` | Arrêté fixant les indemnités aux membres de la Commission cantonale des taxes cadastrales et des experts industriels (RS 642.109) | 1 | current text from 2014-01-01 |
+| `645-104/` | Arrêté fixant le tarif des émoluments en matière de registres d'impôts (RS 645.104) | 1 | current text from 2009-01-01 |
+| `671-1/` | Concordat entre les cantons de la Confédération suisse sur l'interdiction des arrangements fiscaux (RS 671.1) | 1 | current text from 1959-05-12 |
+| `671-2/` | Accord entre le Conseil fédéral suisse et le gouvernement de la République française concernant le traitement fiscal des libéralités faites dans des buts désintéressés (RS 671.2) | 1 | current text from 2010-10-22 |
+| `681-105/` | Directive concernant l'attribution du Prix cantonal "dîme de l'alcool" de l'Etat du Valais (RS 681.105) | 1 | current text from 2007-01-01 |
+| `691-1/` | Convention intercantonale sur la vente du sel en Suisse (RS 691.1) | 1 | current text from 1975-04-16 |
+| `701-102/` | Décision concernant l'adoption du concept cantonal de développement territorial (RS 701.102) | 1 | current text from 2015-01-01 |
+| `705-102/` | Arrêté fixant les indemnités dues aux membres de la Commission cantonale des constructions (RS 705.102) | 1 | current text from 2013-01-01 |
+| `705-104/` | Arrêté fixant les frais et émoluments applicables aux demandes d'autorisation de construire traitées par le secrétariat cantonal des constructions (RS 705.104) | 1 | current text from 2004-08-02 |
+| `705-105/` | Arrêté fixant les frais et émoluments applicables aux demandes d'autorisation de construire traitées par la commission cantonale des constructions (RS 705.105) | 1 | current text from 2004-08-02 |
+| `710-110/` | Arrêté fixant les indemnités dues aux membres du collège d'experts en matière d'expropriation (RS 710.110) | 1 | current text from 2025-10-01 |
+| `710-200/` | Arrêté concernant l'exécution de l'article 15 de la loi fédérale sur l'expropriation (RS 710.200) | 1 | current text from 1933-04-14 |
+| `721-802/` | Arrêté sur l'utilisation des bisses dérivant l'eau des rivières concessionnées (RS 721.802) | 1 | current text from 1924-10-17 |
+| `721-805/` | Arrêté sur les purges, vidanges de bassins et galeries de retenue et le curage des cours d'eau (RS 721.805) | 1 | current text from 2002-12-20 |
+| `725-100/` | Décision concernant le déclassement et le classement de routes (RS 725.100) | 1 | current text from 2022-11-16 |
+| `725-101/` | Décision concernant les critères d'établissement des priorités pour la construction, la correction et la réfection des routes et des voies publiques (RS 725.101) | 1 | current text from 1994-04-01 |
+| `725-111/` | Arrêté concernant l'aménagement de stations de distribution d'essence, de kiosques et d'étalages le long des voies publiques (RS 725.111) | 1 | current text from 1967-04-11 |
+| `726-1-1-aimp/` | Accord intercantonal sur les marchés publics (RS 726.1-1) | 1 | current text from 2024-01-01 |
+| `730-102/` | Arrêté concernant les conditions d'utilisation des eaux souterraines, des lacs et des cours d'eau à des fins thermo-énergétiques (RS 730.102) | 1 | current text from 1982-08-01 |
+| `741-102/` | Arrêté concernant le dépôt des plaques de contrôle des véhicules à moteur (RS 741.102) | 1 | current text from 1997-07-01 |
+| `741-106/` | Arrêté fixant le tarif des émoluments d'autorisations de manifestations sportives automobiles, motocyclistes, cyclistes et autres (RS 741.106) | 1 | current text from 1965-09-01 |
+| `741-108/` | Arrêté concernant les restrictions à la circulation des véhicules à moteur sur certaines routes et chemins du canton (RS 741.108) | 1 | current text from 1991-03-29 |
+| `741-109/` | Arrêté concernant les restrictions de circulation pour les véhicules à moteur sur la route cantonale NG13 Täsch - Zermatt (RS 741.109) | 1 | current text from 2026-03-01 |
+| `743-2/` | Concordat concernant les téléphériques et skilifts sans concession fédérale (RS 743.2) | 1 | current text from 1952-06-27 |
+| `746-10/` | Arrêté sur les installations de transport par conduites de combustibles ou carburants liquides ou gazeux (RS 746.10) | 1 | current text from 1988-01-01 |
+| `800-104/` | Arrêté sur les frais relatifs à l'application de la loi sur la santé (RS 800.104) | 1 | current text from 2024-12-01 |
+| `800-6/` | Convention intercantonale en matière de santé numérique (RS 800.6) | 1 | current text from 2024-02-01 |
+| `800-9-cimhs/` | Convention intercantonale relative à la médecine hautement spécialisée (RS 800.9) | 1 | current text from 2009-01-01 |
+| `801-110/` | Arrêté fixant le barème du droit spécial perçu pour la promotion de la santé et la prévention des maladies (RS 801.110) | 1 | current text from 2023-01-01 |
+| `805-110/` | Arrêté fixant les coûts facturables et les contributions résiduelles des pouvoirs publics pour les établissements médico-sociaux, les lits d’attente hospitaliers et les hospices de soins palliatifs (RS 805.110) | 1 | current text from 2026-01-01 |
+| `805-120/` | Arrêté fixant les coûts facturables et les contributions résiduelles des pouvoirs publics pour les structures de soins de jour ou de nuit (RS 805.120) | 1 | current text from 2026-01-01 |
+| `805-130/` | Arrêté fixant les coûts facturables et les contributions résiduelles des pouvoirs publics pour les organisations de soins et d'aide à domicile et les infirmières indépendantes (RS 805.130) | 1 | current text from 2026-06-01 |
+| `811-110/` | Arrêté concernant les attributions des médecins de district (RS 811.110) | 1 | current text from 2025-01-01 |
+| `811-5-convention-sur-le-financement-de-la-formation-postgrade-cffp/` | Convention sur les contributions des cantons aux hôpitaux relative au financement de la formation médicale postgrade et sur la compensation intercantonale des charges (RS 811.5) | 1 | current text from 2022-07-01 |
+| `813-2/` | Convention intercantonale sur l'Hôpital Riviera-Chablais Vaud et Valais (RS 813.2) | 1 | current text from 2021-06-16 |
+| `813-200/` | Règlement d'application de la Convention intercantonale sur l'Hôpital Riviera-Chablais, Vaud-Valais relatif à l'exploitation de l'établissement du 17 décembre 2008 (RS 813.200) | 1 | current text from 2025-10-01 |
+| `813-300/` | Arrêté d'application de la Convention intercantonale du 17 décembre 2008 sur l'Hôpital Riviera-Chablais, Vaud-Valais relatif à la construction du site de Rennaz (RS 813.300) | 1 | current text from 2016-11-02 |
+| `814-101/` | Arrêté concernant l'application de l'ordonnance fédérale sur la protection contre les accidents majeurs (RS 814.101) | 1 | current text from 2023-04-01 |
+| `814-102/` | Arrêté sur les feux de déchets en plein air (RS 814.102) | 1 | current text from 2007-07-06 |
+| `814-103/` | Arrêté sur le smog hivernal (RS 814.103) | 1 | current text from 2006-12-22 |
+| `814-104/` | Arrêté fixant les frais pour les prestations en matière d'environnement et des eaux (RS 814.104) | 1 | current text from 2023-12-01 |
+| `814-106/` | Arrêté sur le plan cantonal de mesures pour la protection de l'air (RS 814.106) | 1 | current text from 2009-04-24 |
+| `814-201/` | Arrêté concernant les périmètres de protection des eaux souterraines (RS 814.201) | 1 | current text from 1981-01-30 |
+| `814-206/` | Arrêté concernant l'exploitation de gravières (RS 814.206) | 1 | current text from 1964-05-08 |
+| `822-103/` | Arrêté fixant les indemnités dues aux membres du Tribunal du travail et de la Commission cantonale de conciliation pour les litiges relevant de la loi fédérale sur l'égalité (RS 822.103) | 1 | current text from 2019-12-01 |
+| `831-4/` | Concordat sur la création et l'exploitation de l'Autorité de surveillance LPP et des fondations de Suisse occidentale (RS 831.4) | 1 | current text from 2012-01-01 |
+| `832-106/` | Arrêté concernant l'affiliation obligatoire à l'assurance-maladie de certaines catégories d'étrangers (RS 832.106) | 1 | current text from 1994-03-02 |
+| `832-110/` | Arrêté fixant la part cantonale pour les prestations hospitalières (RS 832.110) | 1 | current text from 2017-01-01 |
+| `832-310/` | Arrêté concernant l'application des prescriptions fédérales relatives à l'inscription du poids sur les gros colis destinés à être transportés par bateau (RS 832.310) | 1 | current text from 1936-08-25 |
+| `837-108-pqf-prevus-par-la-loi-sur-l-emploi-et-les-mesures-en-faveur-des-chomeurs-lemc/` | Arrêté concernant la rémunération des participants aux programmes de qualification (RS 837.108) | 1 | current text from 2014-02-14 |
+| `837-109-lemc/` | Arrêté concernant la participation du Fonds cantonal pour l'emploi et de l'employeur aux stages professionnels cantonaux prévus par la loi sur l'emploi et les mesures en faveur des chômeurs (RS 837.109) | 1 | current text from 2014-02-14 |
+| `841-102/` | Arrêté fixant les limites de revenu et de fortune en matière d'aide au logement (RS 841.102) | 1 | current text from 2006-01-01 |
+| `841-104/` | Arrêté fixant les émoluments à percevoir en matière d'aide au logement (RS 841.104) | 1 | current text from 1993-11-01 |
+| `841-120/` | Arrêté relatif à l'octroi de l'aide au logement (RS 841.120) | 1 | current text from 2018-01-01 |
+| `850-110/` | Arrêté concernant la prise en charge des personnes relevant du domaine de l'asile dans le canton du Valais (RS 850.110) | 1 | current text from 2008-01-01 |
+| `850-404/` | Arrêté fixant les émoluments du Service cantonal de la jeunesse (RS 850.404) | 1 | current text from 2015-11-01 |
+| `850-9-ciis/` | Convention intercantonale relative aux institutions sociales (RS 850.9) | 1 | current text from 2020-07-01 |
+| `900-110/` | Décret concernant l’octroi de mesures exceptionnelles à des acteurs économiques touchés par des événements majeurs et imprévisibles, exogènes (RS 900.110) | 1 | current text from 2024-11-29 |
+| `910-105/` | Arrêté fixant les indemnités dues aux membres de la Commission cantonale de recours en matière agricole et de remaniements parcellaires (RS 910.105) | 1 | current text from 2013-06-01 |
+| `916-120/` | Décret sur le blocage-financement des vins du Valais (RS 916.120) | 1 | current text from 2013-10-11 |
+| `916-403/` | Arrêté concernant l'équipe d'intervention en cas d'épizootie hautement contagieuse (RS 916.403) | 1 | current text from 2022-09-01 |
+| `921-151/` | Arrêté fixant le tarif des prestations du Service des forêts et du paysage en matière de direction des travaux (RS 921.151) | 1 | current text from 2015-02-20 |
+| `922-110/` | Arrêté sur l'exercice de la chasse en Valais 2026-2027 (RS 922.110) | 1 | current text from 2026-07-01 |
+| `923-170/` | Arrêté quinquennal sur l'exercice de la pêche en Valais pour les années 2024-2028 (RS 923.170) | 1 | current text from 2026-02-25 |
+| `923-9/` | Concordat sur la pêche dans le lac Léman (RS 923.9) | 1 | current text from 2001-01-01 |
+| `935-210-arrete-esn-esf/` | Arrêté concernant les modalités opérationnelles relatives à l'octroi des autorisations d'exploiter et à la conduite des contrôles pour les écoles de sports de neige (ESN) et les écoles de ski de fonds (ESF) (RS 935.210) | 1 | current text from 2026-09-01 |
+| `935-304/` | Arrêté fixant les finances des cours préparatoires facultatifs et de l'examen obligatoire dans le domaine de l'hébergement et de la restauration (RS 935.304) | 1 | current text from 2022-01-01 |
+| `935-508-decret-sur-l-aide-d-urgence-pour-blatten/` | Décret sur la contribution de solidarité en faveur de la population, des entreprises et des sociétés locales de Blatten, à la suite de l'éboulement du 28 mai 2025 (RS 935.508) | 1 | current text from 2025-09-11 |
+| `935-51-1/` | Accord complémentaire à la convention intercantonale du 7 janvier 2005 sur la surveillance, l'autorisation et la répartition du bénéfice de loteries et paris exploités sur le plan intercantonal ou sur l'ensemble de la Suisse (RS 935.51-1) | 1 | current text from 2019-02-01 |
+| `935-53-cja/` | Concordat sur les jeux d'argent au niveau suisse (RS 935.53) | 1 | current text from 2021-01-01 |
+| `935-54-corja/` | Convention romande sur les jeux d'argent (RS 935.54) | 1 | current text from 2021-01-01 |
+| `946-1-aietc/` | Accord intercantonal sur l'élimination des entraves techniques au commerce (RS 946.1) | 1 | current text from 2003-10-28 |

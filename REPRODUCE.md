@@ -1,12 +1,13 @@
 # How this repository was made (Valais)
 
-This file is written by the build on 2026-10-30, the day the source data was retrieved.
+This file is written by the build on 2026-11-05, the day the source data was retrieved.
 
 ## Sources
 
 | Source | Address | Retrieved | Licence |
 | --- | --- | --- | --- |
 | Canton du Valais: RS (LexWork) | <https://lex.vs.ch/> | 2026-10-30 | Laws and decrees are not protected by copyright (Art. 5 para. 1 let. a URG, SR 231.1). |
+| Canton du Valais: RS (LexWork) | <https://lex.vs.ch/> | 2026-11-05 | Laws and decrees are not protected by copyright (Art. 5 para. 1 let. a URG, SR 231.1). |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -520,20 +521,202 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `935-703` | Règlement fixant les modalités d'attribution d'aides financière du fonds du sport aux centres de sports à caractère national | 1 | 2009-01-01 to 2009-01-01 |
 | `941-4` | Ordonnance d'exécution de la loi fédérale et de l'ordonnance sur les substances explosibles | 2 | 1993-08-25 to 2017-02-01 |
 | `941-200` | Ordonnance concernant la loi d'application de la loi fédérale sur la métrologie | 1 | 2006-01-01 to 2006-01-01 |
+| `111-21-accord-de-karlsruhe` | Accord de Karlsruhe sur la coopération transfrontalière entre les collectivités territoriales et organisme publics locaux | 1 | 2005-04-01 to 2005-04-01 |
+| `143-102` | Arrêté concernant la carte de légitimation pour le retrait de billets d'indigène | 1 | 1994-12-01 to 1994-12-01 |
+| `170-204` | Arrêté fixant les indemnités dues aux membres de la Commission cantonale de protection des données et de transparence | 1 | 2024-01-01 to 2024-01-01 |
+| `170-21-lvid` | Loi sur la vidéosurveillance dans les lieux publics | 1 | 2026-11-01 to 2026-11-01 |
+| `170-210-ovid` | Ordonnance sur la vidéosurveillance dans les lieux publics | 1 | 2026-11-01 to 2026-11-01 |
+| `170-530` | Arrêté concernant les offices cantonaux de consultation des recueils officiels fédéraux | 1 | 2007-01-01 to 2007-01-01 |
+| `171-2-convention-sur-la-participation-coparl` | Convention relative à la participation des Parlements cantonaux dans le cadre de l'élaboration, de la ratification, de l'exécution et de la modification des conventions intercantonales et des traités des cantons avec l'étranger | 1 | 2011-03-01 to 2011-03-01 |
+| `172-433` | Arrêté sur les indemnités de commissions | 1 | 2008-01-01 to 2008-01-01 |
+| `211-613` | Arrêté relatif à la propriété par étages | 1 | 1966-11-01 to 1966-11-01 |
+| `221-214` | Arrêté fixant les indemnités dues aux membres de la Commission de conciliation en matière de bail à loyer | 1 | 2012-01-01 to 2012-01-01 |
+| `221-400` | Arrêté fixant l'organisation des offices du registre du commerce, le statut et le traitement de leurs agents | 1 | 2024-05-01 to 2024-05-01 |
+| `221-600` | Arrêté édictant un contrat-type de travail prévoyant des salaires minimaux impératifs pour le personnel du secteur de la maintenance et du nettoyage industriels | 1 | 2025-05-01 to 2025-05-01 |
+| `221-602` | Arrêté édictant un contrat-type de travail pour le personnel au service de l'économie domestique | 1 | 2026-01-01 to 2026-01-01 |
+| `221-605` | Arrêté édictant un contrat-type de travail prévoyant des salaires minimaux impératifs pour le personnel des téléphériques, télésièges, téléskis et tous autres moyens de transports analogues | 1 | 2023-06-01 to 2023-06-01 |
+| `221-606` | Arrêté édictant un contrat-type de travail pour le personnel des bureaux d'ingénieurs, d'architectes et des autres bureaux d'études du canton du Valais | 1 | 2024-01-01 to 2024-01-01 |
+| `221-608` | Arrêté édictant un contrat-type de travail pour l'agriculture | 1 | 2025-01-01 to 2025-01-01 |
+| `343-3-concordat-latin-sur-la-detention-penale-des-adultes` | Concordat sur l'exécution des peines privatives de liberté et des mesures concernant les adultes et les jeunes adultes dans les cantons latins | 1 | 2007-11-01 to 2007-11-01 |
+| `343-4-concordat-latin-sur-la-detention-penale-des-mineurs` | Concordat sur l’exécution de la détention pénale des personnes mineures des cantons romands (et partiellement du Tessin) | 1 | 2018-07-01 to 2018-07-01 |
+| `362-1` | Convention entre la Confédération et les cantons relative à la mise en œuvre, à l'application et au développement de l'acquis de Schengen et de Dublin | 1 | 2008-11-01 to 2008-11-01 |
+| `400-103` | Arrêté concernant l'éducation routière à l'école | 1 | 2015-08-01 to 2015-08-01 |
+| `400-9` | Concordat sur la coordination scolaire | 1 | 1972-05-01 to 1972-05-01 |
+| `411-35` | Accord intercantonal sur la collaboration dans le domaine de la pédagogie spécialisée | 1 | 2009-04-01 to 2009-04-01 |
+| `411-350` | Arrêté concernant la limitation provisoire de la reconnaissance par le Service cantonal de la jeunesse de nouveaux prestataires pour fournir des mesures pédago-thérapeutiques en logopédie envers des enfants et des jeunes de la naissance à l'âge de 20 ans révolus | 1 | 2014-04-11 to 2014-04-11 |
+| `411-354` | Arrêté définissant la liste des organes spécialisés reconnus par l'Office de l'enseignement spécialisé pour la procédure d'évaluation standardisée dans le cadre de l'octroi de mesures scolaires d'enseignement spécialisé | 1 | 2017-09-01 to 2017-09-01 |
+| `411-4-concordat-harmos` | Accord intercantonal sur l'harmonisation de la scolarité obligatoire | 1 | 2008-10-01 to 2008-10-01 |
+| `411-5` | Convention scolaire romande | 1 | 2009-08-01 to 2009-08-01 |
+| `412-102` | Arrêté sur les indemnités des commissaires de branche et des experts aux procédures de qualification | 1 | 2011-09-01 to 2011-09-01 |
+| `412-107` | Arrêté concernant les émoluments et les taxes et contributions à charge des participants à une formation continue | 1 | 2017-04-01 to 2017-04-01 |
+| `412-6-accord-sur-les-ecoles-professionnelles-aepr` | Accord intercantonal sur les contributions dans le domaine de la formation professionnelle initiale | 1 | 2007-09-01 to 2007-09-01 |
+| `413-114` | Arrêté fixant les finances d'inscription aux examens de maturité et de diplôme commercial | 1 | 1991-07-12 to 1991-07-12 |
+| `413-21` | Accord intercantonal sur la reconnaissance des diplômes de fin d’études | 1 | 2016-07-01 to 2016-07-01 |
+| `414-1-aes` | Accord intercantonal sur les contributions dans le domaine des écoles supérieures | 1 | 2014-01-01 to 2014-01-01 |
+| `414-2-concordat-sur-les-hautes-ecoles` | Accord intercantonal sur le domaine suisse des hautes écoles | 1 | 2015-01-01 to 2015-01-01 |
+| `414-31-accord-intercantonal-universitaire-aiu` | Accord intercantonal sur les contributions aux coûts de formation des hautes écoles universitaires | 1 | 2022-01-01 to 2022-01-01 |
+| `414-7-hes-so` | Convention intercantonale sur la Haute Ecole Spécialisée de Suisse occidentale | 1 | 2013-01-01 to 2013-01-01 |
+| `414-71-ahes` | Accord intercantonal sur les hautes écoles spécialisées à partir de 2005 | 1 | 2005-01-01 to 2005-01-01 |
+| `414-75` | Convention intercantonale relative au contrôle parlementaire sur la Haute école spécialisée de Suisse occidentale (HES-SO) | 1 | 2003-10-01 to 2003-10-01 |
+| `416-2` | Accord intercantonal sur l'harmonisation des régimes de bourses d'études | 1 | 2021-07-01 to 2021-07-01 |
+| `451-111` | Décision concernant la protection de la forêt d'Aletsch, commune de Riederalp | 1 | 2011-06-17 to 2011-06-17 |
+| `451-112` | Décision concernant la protection de la région du Märjelensee | 1 | 1938-02-23 to 1938-02-23 |
+| `451-113` | Décision concernant la protection de Géronde, de Plantzette, de l'Ancien-Sierre et de Rawyre | 1 | 1959-04-07 to 1959-04-07 |
+| `451-114` | Décision concernant la protection de la forêt et du site de Derborence | 1 | 1961-03-30 to 1961-03-30 |
+| `451-115` | Décision concernant la protection du site de la colline de Rarogne | 1 | 1963-10-18 to 1963-10-18 |
+| `451-116` | Décision concernant la protection du site de la chapelle de Bettmeralp | 1 | 1970-06-17 to 1970-06-17 |
+| `451-117` | Décision concernant la protection du site paléontologique du Vieux-Emosson | 1 | 1987-01-01 to 1987-01-01 |
+| `451-118` | Décision concernant la protection de la vallée de la Borgne | 1 | 1987-01-01 to 1987-01-01 |
+| `451-119` | Décision concernant la protection du site de Mont-d'Orge | 1 | 1989-06-21 to 1989-06-21 |
+| `451-120` | Décision concernant la protection du site de Finges à Sierre, Salquenen, Varone et Loèche | 1 | 1998-01-09 to 1998-01-09 |
+| `451-121` | Décision concernant la protection du site "Achera Biela", communes de Ried-Brigue et Termen | 1 | 1999-08-01 to 1999-08-01 |
+| `451-313` | Décision concernant la protection de l'adonis du printemps sur le territoire de la commune de Tourtemagne | 1 | 1944-04-16 to 1944-04-16 |
+| `451-314` | Décision concernant la protection des anémones soufrées et alpines et des gentianes de toutes espèces dans la région désignée ci-après, sur territoire des communes de Lens, Chermignon, Montana, Randogne et Icogne | 1 | 1959-03-22 to 1959-03-22 |
+| `451-315` | Décision concernant la protection de la tulipe de Grengiols "Tulipa grengiolensis" à Grengiols | 1 | 1994-10-12 to 1994-10-12 |
+| `451-320` | Décision concernant la protection des marais de Poutafontanaz | 1 | 1959-06-09 to 1959-06-09 |
+| `451-321` | Décision concernant la protection du site du lac de Morgins, sur territoire de la commune de Troistorrents | 1 | 2008-01-18 to 2008-01-18 |
+| `451-322` | Décision concernant la protection du bas-marais et du site de reproduction de batraciens d'Ardon et de Chamoson | 1 | 2005-09-23 to 2005-09-23 |
+| `451-323` | Décision concernant la protection du marais des Rigoles à Vionnaz | 1 | 1991-09-11 to 1991-09-11 |
+| `451-324` | Décision concernant la protection des marais de "Moosalpe" à Törbel | 1 | 1995-02-22 to 1995-02-22 |
+| `451-325` | Décision concernant la protection du haut-marais "La Maraîche de Plex" à Collonges | 1 | 1995-03-22 to 1995-03-22 |
+| `451-326` | Décision concernant la protection de la zone alluviale "Sand" à Oberwald | 1 | 1995-10-18 to 1995-10-18 |
+| `451-327` | Décision concernant la protection des marais de "Bärfel", "Triest", "Blasestafel" et "Mutterseewji", commune d'Oberwald | 1 | 1996-07-05 to 1996-07-05 |
+| `451-328` | Décision concernant la protection du haut-marais Simplon-Hopschusee et de ses alentours | 1 | 1996-07-05 to 1996-07-05 |
+| `451-329` | Décision concernant la protection du haut-marais "Flesch" à Goppisberg | 1 | 1997-01-17 to 1997-01-17 |
+| `451-330` | Décision concernant la protection des zones alluviales "Zeiterbode" à Biel et Selkingen et "Matte" à Gluringen et Reckingen | 1 | 1997-05-16 to 1997-05-16 |
+| `451-331` | Décision concernant la protection du marais de "Mutt" à Rarogne | 1 | 1997-05-23 to 1997-05-23 |
+| `451-332` | Décision concernant la protection du marais de Champex à Orsières | 1 | 1997-07-11 to 1997-07-11 |
+| `451-333` | Décision concernant la protection de la zone alluviale d'importance nationale "Grund", communes de Ried-Brigue et Brigue-Glis | 1 | 1997-09-19 to 1997-09-19 |
+| `451-334` | Décision concernant la protection de la zone alluviale "Bilderne", communes de Mörel et Filet | 1 | 1998-05-01 to 1998-05-01 |
+| `451-335` | Décision concernant la protection des quatre zones alluviales d'importance nationale et des marges glaciaires de Jegi et Langgletscher de la vallée de Lötschen | 1 | 1998-06-05 to 1998-06-05 |
+| `451-336` | Décision concernant la protection des marais "La Gouille Verte", commune de Martigny-Combe | 1 | 1998-06-19 to 1998-06-19 |
+| `451-337` | Décision concernant la protection de la zone alluviale de "Gletschboden" et de la marge glaciaire du glacier du Rhône à Oberwald | 1 | 1999-03-26 to 1999-03-26 |
+| `451-339` | Décision concernant la protection du bas-marais "Zwisched Bäch" à Obergesteln | 1 | 1999-12-17 to 1999-12-17 |
+| `451-340` | Décision concernant la protection du site marécageux "Albrun", du bas-marais "Oxefeld" et du bas-marais "Blatt" à Binn | 1 | 1999-12-17 to 1999-12-17 |
+| `451-341` | Décision concernant la protection du site des Epines à Conthey | 1 | 2000-01-21 to 2000-01-21 |
+| `451-342` | Décision concernant la protection des biotopes de compensation Cleuson-Dixence sur le territoire de la commune de Nendaz, première série | 1 | 2000-07-28 to 2000-07-28 |
+| `451-343` | Décision concernant la protection du biotope humide de Brigerbad, commune de Brig-Glis | 1 | 2005-07-01 to 2005-07-01 |
+| `451-344` | Décision concernant la protection du bas-marais "L'Echereuse" à Champéry | 1 | 2005-12-02 to 2005-12-02 |
+| `451-345` | Décision concernant la protection du marais "Les Moilles", commune de Troistorrents | 1 | 2005-12-02 to 2005-12-02 |
+| `451-346` | Décision concernant la protection des bas-marais d'importance nationale "Champoussin" et "Bochasse" et du bas-marais d'importance cantonale "Les Champeys", communes de Val-d'Illiez et Troistorrents | 1 | 2005-12-02 to 2005-12-02 |
+| `451-347` | Décision concernant la protection du bas-marais "Les Esserts" à Verbier, commune de Bagnes | 1 | 2006-03-24 to 2006-03-24 |
+| `451-348` | Décision concernant la protection des zones alluviales d'importance nationale "Lotrey", "Pramousse - Satarma", "La Borgne en amont d'Arolla", "Salay" et "Ferpècle", commune d'Evolène | 1 | 2007-08-03 to 2007-08-03 |
+| `451-349` | Décision concernant la protection des bas-marais d'importance cantonale Culet, Madzé, commune de Troistorrents; Délifrête, Sur Crête, Lac Vert, commune de Val-d'Illiez; Planachaux, Le Pisa-Ripaille, commune de Champéry | 1 | 2009-06-26 to 2009-06-26 |
+| `451-350` | Décision concernant la protection du haut-marais d'importance nationale Barme; commune de Champéry | 1 | 2011-08-19 to 2011-08-19 |
+| `451-351` | Décision, concernant la protection des biotopes de compensation Cleuson-Dixence sur les territoires des communes d'Hérémence et de Nendaz deuxième série | 1 | 2014-04-11 to 2014-04-11 |
+| `451-352` | Décision concernant la protection du site marécageux val de Réchy et son bas-marais Ar du Tsan, commune de Mont-Noble | 1 | 2015-12-18 to 2015-12-18 |
+| `451-353` | Décision concernant la protection de la zone alluviale d'importance nationale "Feegletscher Nord", commune de Saas-Fee | 1 | 2020-09-11 to 2020-09-11 |
+| `451-354` | Décision concernant la protection du site de reproduction des batraciens d'importance nationale du Lac Noir, sur le territoire des communes de Nendaz et d’Isérables | 1 | 2020-09-18 to 2020-09-18 |
+| `452-100` | Décision concernant la protection des papillons dans les vallées de Laggin | 1 | 1985-07-03 to 1985-07-03 |
+| `452-102` | Arrêté concernant le ramassage des escargots | 1 | 1985-04-10 to 1985-04-10 |
+| `501-20` | Décret pour la gestion des conséquences des événements naturels ayant touché le Lötschental | 1 | 2025-12-18 to 2025-12-18 |
+| `501-30` | Décret pour le soutien aux victimes de l'incendie de Crans-Montana du 1er janvier 2026 et l'octroi d'un crédit supplémentaire | 1 | 2026-06-11 to 2026-06-11 |
+| `520-110` | Arrêté fixant le montant des contributions de remplacement pour les abris de la protection civile | 1 | 2024-01-01 to 2024-01-01 |
+| `520-120` | Arrêté fixant les frais et émoluments perçus par le Service de la sécurité civile et militaire | 1 | 2024-01-01 to 2024-01-01 |
+| `520-300` | Arrêté désignant les biens culturels d'importance nationale (A) et régionale (B), en application de la loi fédérale sur la protection des biens culturels en cas de conflit armé | 1 | 1988-04-20 to 1988-04-20 |
+| `531-110` | Arrêté concernant l'organisation de l'économie de guerre sur le plan cantonal | 1 | 1964-01-03 to 1964-01-03 |
+| `540-103` | Arrêté concernant l'interdiction de l’utilisation d’engins pyrotechniques de divertissement dans les établissements recevant ou hébergeant du public | 1 | 2026-08-01 to 2026-08-01 |
+| `550-2` | Concordat réglant la coopération en matière de police en Suisse romande | 1 | 2016-01-01 to 2016-01-01 |
+| `550-3` | Concordat sur les entreprises de sécurité | 1 | 2025-01-04 to 2025-01-04 |
+| `550-5` | Concordat instituant des mesures contre la violence lors de manifestations sportives | 1 | 2015-04-01 to 2015-04-01 |
+| `550-7-ikapol` | Convention sur les engagements de police intercantonaux | 1 | 2025-01-01 to 2025-01-01 |
+| `611-5-accord-cadre-aci` | Accord-cadre pour la collaboration intercantonale assortie d'une compensation des charges | 1 | 2007-06-01 to 2007-06-01 |
+| `611-6` | Décret sur le plafond et l’alimentation du fonds de compensation des fluctuations de recettes | 1 | 2023-03-15 to 2023-03-15 |
+| `613-104` | Arrêté fixant les montants de la péréquation financière intercommunale 2027 | 1 | 2026-06-30 to 2026-06-30 |
+| `620-310` | Arrêté désignant l'autorité cantonale unique chargée de statuer comme juge du sursis bancaire, comme juge de la faillite bancaire et comme autorité concordataire pour le concordat bancaire | 1 | 1982-09-15 to 1982-09-15 |
+| `641-800` | Décision concernant l'utilisation de la part cantonale de la redevance sur le trafic des poids lourds liée aux prestations RPLP | 1 | 2021-01-01 to 2021-01-01 |
+| `642-034` | Accord entre le Conseil fédéral suisse et le gouvernement de la République française relatif à l'imposition des rémunérations des travailleurs frontaliers | 1 | 1986-06-24 to 1986-06-24 |
+| `642-103` | Arrêté fixant les indemnités dues aux membres de la Commission cantonale d'impôts des personnes morales et de la Commission cantonale d'impôts des personnes physiques | 1 | 2009-01-01 to 2009-01-01 |
+| `642-104` | Arrêté fixant les émoluments du Service cantonal des contributions | 1 | 2017-01-01 to 2017-01-01 |
+| `642-105` | Arrêté relatif à l'impôt à forfait | 1 | 1993-01-01 to 1993-01-01 |
+| `642-106` | Arrêté relatif à la perception des impôts cantonaux et communaux par acomptes | 1 | 2026-01-01 to 2026-01-01 |
+| `642-107` | Arrêté fixant la part des frais administratifs mis à la charge du débiteur dans le cadre de la procédure d'encaissement | 1 | 1991-07-12 to 1991-07-12 |
+| `642-109` | Arrêté fixant les indemnités aux membres de la Commission cantonale des taxes cadastrales et des experts industriels | 1 | 2014-01-01 to 2014-01-01 |
+| `645-104` | Arrêté fixant le tarif des émoluments en matière de registres d'impôts | 1 | 2009-01-01 to 2009-01-01 |
+| `671-1` | Concordat entre les cantons de la Confédération suisse sur l'interdiction des arrangements fiscaux | 1 | 1959-05-12 to 1959-05-12 |
+| `671-2` | Accord entre le Conseil fédéral suisse et le gouvernement de la République française concernant le traitement fiscal des libéralités faites dans des buts désintéressés | 1 | 2010-10-22 to 2010-10-22 |
+| `681-105` | Directive concernant l'attribution du Prix cantonal "dîme de l'alcool" de l'Etat du Valais | 1 | 2007-01-01 to 2007-01-01 |
+| `691-1` | Convention intercantonale sur la vente du sel en Suisse | 1 | 1975-04-16 to 1975-04-16 |
+| `701-102` | Décision concernant l'adoption du concept cantonal de développement territorial | 1 | 2015-01-01 to 2015-01-01 |
+| `705-102` | Arrêté fixant les indemnités dues aux membres de la Commission cantonale des constructions | 1 | 2013-01-01 to 2013-01-01 |
+| `705-104` | Arrêté fixant les frais et émoluments applicables aux demandes d'autorisation de construire traitées par le secrétariat cantonal des constructions | 1 | 2004-08-02 to 2004-08-02 |
+| `705-105` | Arrêté fixant les frais et émoluments applicables aux demandes d'autorisation de construire traitées par la commission cantonale des constructions | 1 | 2004-08-02 to 2004-08-02 |
+| `710-110` | Arrêté fixant les indemnités dues aux membres du collège d'experts en matière d'expropriation | 1 | 2025-10-01 to 2025-10-01 |
+| `710-200` | Arrêté concernant l'exécution de l'article 15 de la loi fédérale sur l'expropriation | 1 | 1933-04-14 to 1933-04-14 |
+| `721-802` | Arrêté sur l'utilisation des bisses dérivant l'eau des rivières concessionnées | 1 | 1924-10-17 to 1924-10-17 |
+| `721-805` | Arrêté sur les purges, vidanges de bassins et galeries de retenue et le curage des cours d'eau | 1 | 2002-12-20 to 2002-12-20 |
+| `725-100` | Décision concernant le déclassement et le classement de routes | 1 | 2022-11-16 to 2022-11-16 |
+| `725-101` | Décision concernant les critères d'établissement des priorités pour la construction, la correction et la réfection des routes et des voies publiques | 1 | 1994-04-01 to 1994-04-01 |
+| `725-111` | Arrêté concernant l'aménagement de stations de distribution d'essence, de kiosques et d'étalages le long des voies publiques | 1 | 1967-04-11 to 1967-04-11 |
+| `726-1-1-aimp` | Accord intercantonal sur les marchés publics | 1 | 2024-01-01 to 2024-01-01 |
+| `730-102` | Arrêté concernant les conditions d'utilisation des eaux souterraines, des lacs et des cours d'eau à des fins thermo-énergétiques | 1 | 1982-08-01 to 1982-08-01 |
+| `741-102` | Arrêté concernant le dépôt des plaques de contrôle des véhicules à moteur | 1 | 1997-07-01 to 1997-07-01 |
+| `741-106` | Arrêté fixant le tarif des émoluments d'autorisations de manifestations sportives automobiles, motocyclistes, cyclistes et autres | 1 | 1965-09-01 to 1965-09-01 |
+| `741-108` | Arrêté concernant les restrictions à la circulation des véhicules à moteur sur certaines routes et chemins du canton | 1 | 1991-03-29 to 1991-03-29 |
+| `741-109` | Arrêté concernant les restrictions de circulation pour les véhicules à moteur sur la route cantonale NG13 Täsch - Zermatt | 1 | 2026-03-01 to 2026-03-01 |
+| `743-2` | Concordat concernant les téléphériques et skilifts sans concession fédérale | 1 | 1952-06-27 to 1952-06-27 |
+| `746-10` | Arrêté sur les installations de transport par conduites de combustibles ou carburants liquides ou gazeux | 1 | 1988-01-01 to 1988-01-01 |
+| `800-104` | Arrêté sur les frais relatifs à l'application de la loi sur la santé | 1 | 2024-12-01 to 2024-12-01 |
+| `800-6` | Convention intercantonale en matière de santé numérique | 1 | 2024-02-01 to 2024-02-01 |
+| `800-9-cimhs` | Convention intercantonale relative à la médecine hautement spécialisée | 1 | 2009-01-01 to 2009-01-01 |
+| `801-110` | Arrêté fixant le barème du droit spécial perçu pour la promotion de la santé et la prévention des maladies | 1 | 2023-01-01 to 2023-01-01 |
+| `805-110` | Arrêté fixant les coûts facturables et les contributions résiduelles des pouvoirs publics pour les établissements médico-sociaux, les lits d’attente hospitaliers et les hospices de soins palliatifs | 1 | 2026-01-01 to 2026-01-01 |
+| `805-120` | Arrêté fixant les coûts facturables et les contributions résiduelles des pouvoirs publics pour les structures de soins de jour ou de nuit | 1 | 2026-01-01 to 2026-01-01 |
+| `805-130` | Arrêté fixant les coûts facturables et les contributions résiduelles des pouvoirs publics pour les organisations de soins et d'aide à domicile et les infirmières indépendantes | 1 | 2026-06-01 to 2026-06-01 |
+| `811-110` | Arrêté concernant les attributions des médecins de district | 1 | 2025-01-01 to 2025-01-01 |
+| `811-5-convention-sur-le-financement-de-la-formation-postgrade-cffp` | Convention sur les contributions des cantons aux hôpitaux relative au financement de la formation médicale postgrade et sur la compensation intercantonale des charges | 1 | 2022-07-01 to 2022-07-01 |
+| `813-2` | Convention intercantonale sur l'Hôpital Riviera-Chablais Vaud et Valais | 1 | 2021-06-16 to 2021-06-16 |
+| `813-200` | Règlement d'application de la Convention intercantonale sur l'Hôpital Riviera-Chablais, Vaud-Valais relatif à l'exploitation de l'établissement du 17 décembre 2008 | 1 | 2025-10-01 to 2025-10-01 |
+| `813-300` | Arrêté d'application de la Convention intercantonale du 17 décembre 2008 sur l'Hôpital Riviera-Chablais, Vaud-Valais relatif à la construction du site de Rennaz | 1 | 2016-11-02 to 2016-11-02 |
+| `814-101` | Arrêté concernant l'application de l'ordonnance fédérale sur la protection contre les accidents majeurs | 1 | 2023-04-01 to 2023-04-01 |
+| `814-102` | Arrêté sur les feux de déchets en plein air | 1 | 2007-07-06 to 2007-07-06 |
+| `814-103` | Arrêté sur le smog hivernal | 1 | 2006-12-22 to 2006-12-22 |
+| `814-104` | Arrêté fixant les frais pour les prestations en matière d'environnement et des eaux | 1 | 2023-12-01 to 2023-12-01 |
+| `814-106` | Arrêté sur le plan cantonal de mesures pour la protection de l'air | 1 | 2009-04-24 to 2009-04-24 |
+| `814-201` | Arrêté concernant les périmètres de protection des eaux souterraines | 1 | 1981-01-30 to 1981-01-30 |
+| `814-206` | Arrêté concernant l'exploitation de gravières | 1 | 1964-05-08 to 1964-05-08 |
+| `822-103` | Arrêté fixant les indemnités dues aux membres du Tribunal du travail et de la Commission cantonale de conciliation pour les litiges relevant de la loi fédérale sur l'égalité | 1 | 2019-12-01 to 2019-12-01 |
+| `831-4` | Concordat sur la création et l'exploitation de l'Autorité de surveillance LPP et des fondations de Suisse occidentale | 1 | 2012-01-01 to 2012-01-01 |
+| `832-106` | Arrêté concernant l'affiliation obligatoire à l'assurance-maladie de certaines catégories d'étrangers | 1 | 1994-03-02 to 1994-03-02 |
+| `832-110` | Arrêté fixant la part cantonale pour les prestations hospitalières | 1 | 2017-01-01 to 2017-01-01 |
+| `832-310` | Arrêté concernant l'application des prescriptions fédérales relatives à l'inscription du poids sur les gros colis destinés à être transportés par bateau | 1 | 1936-08-25 to 1936-08-25 |
+| `837-108-pqf-prevus-par-la-loi-sur-l-emploi-et-les-mesures-en-faveur-des-chomeurs-lemc` | Arrêté concernant la rémunération des participants aux programmes de qualification | 1 | 2014-02-14 to 2014-02-14 |
+| `837-109-lemc` | Arrêté concernant la participation du Fonds cantonal pour l'emploi et de l'employeur aux stages professionnels cantonaux prévus par la loi sur l'emploi et les mesures en faveur des chômeurs | 1 | 2014-02-14 to 2014-02-14 |
+| `841-102` | Arrêté fixant les limites de revenu et de fortune en matière d'aide au logement | 1 | 2006-01-01 to 2006-01-01 |
+| `841-104` | Arrêté fixant les émoluments à percevoir en matière d'aide au logement | 1 | 1993-11-01 to 1993-11-01 |
+| `841-120` | Arrêté relatif à l'octroi de l'aide au logement | 1 | 2018-01-01 to 2018-01-01 |
+| `850-110` | Arrêté concernant la prise en charge des personnes relevant du domaine de l'asile dans le canton du Valais | 1 | 2008-01-01 to 2008-01-01 |
+| `850-404` | Arrêté fixant les émoluments du Service cantonal de la jeunesse | 1 | 2015-11-01 to 2015-11-01 |
+| `850-9-ciis` | Convention intercantonale relative aux institutions sociales | 1 | 2020-07-01 to 2020-07-01 |
+| `900-110` | Décret concernant l’octroi de mesures exceptionnelles à des acteurs économiques touchés par des événements majeurs et imprévisibles, exogènes | 1 | 2024-11-29 to 2024-11-29 |
+| `910-105` | Arrêté fixant les indemnités dues aux membres de la Commission cantonale de recours en matière agricole et de remaniements parcellaires | 1 | 2013-06-01 to 2013-06-01 |
+| `916-120` | Décret sur le blocage-financement des vins du Valais | 1 | 2013-10-11 to 2013-10-11 |
+| `916-403` | Arrêté concernant l'équipe d'intervention en cas d'épizootie hautement contagieuse | 1 | 2022-09-01 to 2022-09-01 |
+| `921-151` | Arrêté fixant le tarif des prestations du Service des forêts et du paysage en matière de direction des travaux | 1 | 2015-02-20 to 2015-02-20 |
+| `922-110` | Arrêté sur l'exercice de la chasse en Valais 2026-2027 | 1 | 2026-07-01 to 2026-07-01 |
+| `923-170` | Arrêté quinquennal sur l'exercice de la pêche en Valais pour les années 2024-2028 | 1 | 2026-02-25 to 2026-02-25 |
+| `923-9` | Concordat sur la pêche dans le lac Léman | 1 | 2001-01-01 to 2001-01-01 |
+| `935-210-arrete-esn-esf` | Arrêté concernant les modalités opérationnelles relatives à l'octroi des autorisations d'exploiter et à la conduite des contrôles pour les écoles de sports de neige (ESN) et les écoles de ski de fonds (ESF) | 1 | 2026-09-01 to 2026-09-01 |
+| `935-304` | Arrêté fixant les finances des cours préparatoires facultatifs et de l'examen obligatoire dans le domaine de l'hébergement et de la restauration | 1 | 2022-01-01 to 2022-01-01 |
+| `935-508-decret-sur-l-aide-d-urgence-pour-blatten` | Décret sur la contribution de solidarité en faveur de la population, des entreprises et des sociétés locales de Blatten, à la suite de l'éboulement du 28 mai 2025 | 1 | 2025-09-11 to 2025-09-11 |
+| `935-51-1` | Accord complémentaire à la convention intercantonale du 7 janvier 2005 sur la surveillance, l'autorisation et la répartition du bénéfice de loteries et paris exploités sur le plan intercantonal ou sur l'ensemble de la Suisse | 1 | 2019-02-01 to 2019-02-01 |
+| `935-53-cja` | Concordat sur les jeux d'argent au niveau suisse | 1 | 2021-01-01 to 2021-01-01 |
+| `935-54-corja` | Convention romande sur les jeux d'argent | 1 | 2021-01-01 to 2021-01-01 |
+| `946-1-aietc` | Accord intercantonal sur l'élimination des entraves techniques au commerce | 1 | 2003-10-28 to 2003-10-28 |
 
-The build made 968 commits:
+The build made 1151 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 506 | first version of an act |
-| 462 | one law on its in-force day |
+| 688 | first version of an act |
+| 463 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
-- 4 commits on the branch `futur`: laws not yet in force on 2026-10-30.
-- 7 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
+- 4 commits on the branch `futur`: laws not yet in force on 2026-11-05.
+- 24 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 1169 laws in the record.
-- 1518 tags.
+- 1701 tags.
 
 ## Dates
 
@@ -545,15 +728,15 @@ When a law gives no date of its own, the default rule applies: Each version is d
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `12d443bd13e04d80297991a7c09546a828795dd2b1dbda713a5ffb0427c1f27e` (17005717 bytes).
-- Builder blob hashes (`git hash-object`): `build.py` `a4faa25af85facb64b956b372f6b528aafdd7ec1`, `check.py` `3d00541d258745461ab52b1b0cb4e1716a27a95d`, `on.py` `644a6c0857fbcc72562032b58d57aa113fee0641`.
-- Python 3.12.10; git version 2.46.0.windows.1.
+- Corpus: sha256 `f6a7a3389a99c4ab6610055973c5dd4584579513c93d128a2c3f48fda1c61612` (18750701 bytes).
+- Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
+- Python 3.14.4; git version 2.53.0.
 
 ## Checks
 
-1085 versions of 506 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+Not yet run for this build.
 
-No second build of this corpus has been compared yet.
+A second build from the same corpus into an empty folder gave identical hashes for all 1147 history commits and 1700 tags (history tip `a40133972299dffacbb78ece14001d70a9c24414`).
 
 ## Decisions made by hand
 
@@ -562,6 +745,7 @@ No second build of this corpus has been compared yet.
 - Section headings are kept together in one file per act (gliederung.md); the title, date and preamble in ingress.md; the signature block in schluss.md. Amendment markers (*) and the "Stand" date are left out.
 - Annexes published only as separate PDF files are not included.
 - An act's first version is credited to its original enactment only when the change table shows no change in force before it; otherwise it is the oldest version available.
+- Current text of 182 RS entries absent from the published corpus, dated by each official selected version’s in-force date; first_law null. Source date is used for every act. Separately published PDF annexes are included where text is extractable. Normative images are deferred. RS 221.604 and 705.101 are held because their annex PDFs have corrupt embedded-font text.
 
 ## What AI did and did not do
 
@@ -573,3 +757,4 @@ The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
 - A model (Claude) wrote the fetch and parse code and chose which acts to include; it wrote no law text. Every word of law comes from the canton's own collection.
+- Model identified missing RS numbers and audited images; legal wording was extracted by code from official XHTML and PDF.

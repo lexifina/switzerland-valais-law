@@ -1,6 +1,6 @@
 # Loi sur les dangers naturels et l'aménagement des cours d'eau
 
-LDNACE · 4 versions, from 2014-10-03 (latest in force: 2023-01-01) · <https://lex.vs.ch/app/fr/texts_of_law/721.1>
+LDNACE · 4 versions, from 2014-10-03 (latest in force: 2026-11-01) · <https://lex.vs.ch/app/fr/texts_of_law/721.1>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -70,5 +70,4 @@ LDNACE · 4 versions, from 2014-10-03 (latest in force: 2023-01-01) · <https://
 | Art. 64 | [art-064.md](art-064.md) | 2 | 2026-11-01 |
 | Art. 65 | [art-065.md](art-065.md) | 2 | 2026-11-01 |
 | Art. T1-1 | [art-t001-001.md](art-t001-001.md) | 1 | 2023-01-01 |
-| Gliederung | [gliederung.md](gliederung.md) | 2 | 2026-11-01 |
 | Titel und Ingress | [ingress.md](ingress.md) | 2 | 2026-11-01 |
