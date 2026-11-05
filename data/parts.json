@@ -799,6 +799,15 @@
     "916-142-ovv"
    ],
    "sha256": "6dbbc74f4a6752bb5d79276de5f2ebe0ea82323207877b136c81d9c03f4ce4ff"
+  },
+  "86-lexwork-01.json": {
+   "acts": [
+    "221-604",
+    "612-2",
+    "705-101-aihc",
+    "916-500"
+   ],
+   "sha256": "ce5118cedfc6e9e0f423cb2d964e0d984c45d1cbf52b0bd7bcf614d6fd22ea84"
   }
  },
  "schema": 1

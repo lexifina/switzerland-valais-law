@@ -710,20 +710,24 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `935-53-cja` | Concordat sur les jeux d'argent au niveau suisse | 1 | 2021-01-01 to 2021-01-01 |
 | `935-54-corja` | Convention romande sur les jeux d'argent | 1 | 2021-01-01 to 2021-01-01 |
 | `946-1-aietc` | Accord intercantonal sur l'élimination des entraves techniques au commerce | 1 | 2003-10-28 to 2003-10-28 |
+| `221-604` | Arrêté édictant un contrat-type de travail pour le personnel des téléphériques, télésièges, téléskis et tous autres moyens de transports analogues | 2 | 2022-09-15 to 2023-01-01 |
+| `612-2` | Décret concernant l’application des dispositions sur le frein aux dépenses et à l’endettement dans le cadre du budget 2025 en lien avec la gestion des fonds | 1 | 2025-01-01 to 2025-01-01 |
+| `705-101-aihc` | Accord intercantonal harmonisant la terminologie dans le domaine des constructions | 1 | 2018-01-01 to 2018-01-01 |
+| `916-500` | Arrêté concernant l'estivage 2026 | 8 | 2019-03-18 to 2026-04-01 |
 
-The build made 1164 commits:
+The build made 1176 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 688 | first version of an act |
-| 463 | one law on its in-force day |
+| 692 | first version of an act |
+| 471 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 4 commits on the branch `futur`: laws not yet in force on 2026-11-05.
 - 24 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 1170 laws in the record.
-- 1701 tags.
+- 1180 laws in the record.
+- 1721 tags.
 
 ## Dates
 
@@ -735,13 +739,13 @@ When a law gives no date of its own, the default rule applies: Each version is d
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `2c8c944f116d1f582b2bc500ddc3d0b0a279b0a732c606b469c1d73defc48090` (22048788 bytes).
+- Corpus: sha256 `a8abc03db3ba5d4e89758742581f24fe72b8eda48f2226986a430cea79a3a655` (22285414 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
 ## Checks
 
-1267 versions of 688 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+Not yet run for this build.
 
 No second build of this corpus has been compared yet.
 

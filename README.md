@@ -734,3 +734,16 @@ This is not an official publication. The binding text is the one the canton publ
 | `935-53-cja/` | Concordat sur les jeux d'argent au niveau suisse (RS 935.53) | 1 | current text from 2021-01-01 |
 | `935-54-corja/` | Convention romande sur les jeux d'argent (RS 935.54) | 1 | current text from 2021-01-01 |
 | `946-1-aietc/` | Accord intercantonal sur l'élimination des entraves techniques au commerce (RS 946.1) | 1 | current text from 2003-10-28 |
+
+<!-- lexwork-runner:start -->
+## Further acts in force
+
+4 further acts with 12 versions from the same collection, in the parts `86-lexwork-NN`: the acts in force that the parts above did not hold (decrees, decisions, agreements, tariffs, rules of procedure and the rest of the systematic collection), each with every consolidated version the collection gives, dated and credited the same way. Acts published only as PDF, land-use plans, concessions, internal directives and repealed acts are not included. The counts earlier in this file cover the earlier parts only.
+
+| Folder | Act | Versions | History |
+| --- | --- | ---: | --- |
+| `221-604/` | Arrêté édictant un contrat-type de travail pour le personnel des téléphériques, télésièges, téléskis et tous autres moyens de transports analogues (RS 221.604) | 2 | oldest version available, then each consolidated version: 15 September 2022 to 1 January 2023 |
+| `612-2/` | Décret concernant l’application des dispositions sur le frein aux dépenses et à l’endettement dans le cadre du budget 2025 en lien avec la gestion des fonds (RS 612.2) | 1 | one version (the oldest available), 1 January 2025 |
+| `705-101-aihc/` | Accord intercantonal harmonisant la terminologie dans le domaine des constructions (RS 705.101) | 1 | one version (the oldest available), 1 January 2018 |
+| `916-500/` | Arrêté concernant l'estivage 2026 (RS 916.500) | 8 | oldest version available, then each consolidated version: 18 March 2019 to 1 April 2026 |
+<!-- lexwork-runner:end -->

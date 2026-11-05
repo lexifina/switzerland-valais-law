@@ -13106,6 +13106,110 @@
      "sha256": "2f6258bf2e91a36008981bd81c953c7c1151922860cf7702b742d7b51eaccf64"
     }
    ]
+  },
+  {
+   "slug": "221-604",
+   "short": "RS 221.604",
+   "title": "Arrêté édictant un contrat-type de travail pour le personnel des téléphériques, télésièges, téléskis et tous autres moyens de transports analogues",
+   "url": "https://lex.vs.ch/app/fr/texts_of_law/221.604",
+   "versions": [
+    {
+     "from": "2022-09-15",
+     "units": 25,
+     "source_url": "https://lex.vs.ch/api/fr/texts_of_law/221.604/versions/3065",
+     "sha256": "96a7940b5dec87f25fdfe079134de87766e9ff22acd8fa871bdfef4a7bc07242"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 25,
+     "source_url": "https://lex.vs.ch/api/fr/texts_of_law/221.604",
+     "sha256": "f94c772dbdea9dcad53d6737b083e2e23d3551d7ece475d8908b06bcc3dacbc4"
+    }
+   ]
+  },
+  {
+   "slug": "612-2",
+   "short": "RS 612.2",
+   "title": "Décret concernant l’application des dispositions sur le frein aux dépenses et à l’endettement dans le cadre du budget 2025 en lien avec la gestion des fonds",
+   "url": "https://lex.vs.ch/app/fr/texts_of_law/612.2",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 3,
+     "source_url": "https://lex.vs.ch/api/fr/texts_of_law/612.2",
+     "sha256": "225274e55cfe5746eb059c898e24372dd5b7f65dd0e694923ccbaae276de5230"
+    }
+   ]
+  },
+  {
+   "slug": "705-101-aihc",
+   "short": "AIHC",
+   "title": "Accord intercantonal harmonisant la terminologie dans le domaine des constructions",
+   "url": "https://lex.vs.ch/app/fr/texts_of_law/705.101",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "units": 40,
+     "source_url": "https://lex.vs.ch/api/fr/texts_of_law/705.101",
+     "sha256": "05805dcd1c20b14a432be62870fc712fc0d52cb591dbf50f503f51a423d81150"
+    }
+   ]
+  },
+  {
+   "slug": "916-500",
+   "short": "RS 916.500",
+   "title": "Arrêté concernant l'estivage 2026",
+   "url": "https://lex.vs.ch/app/fr/texts_of_law/916.500",
+   "versions": [
+    {
+     "from": "2019-03-18",
+     "units": 35,
+     "source_url": "https://lex.vs.ch/api/fr/texts_of_law/916.500/versions/2508",
+     "sha256": "c04b32b878f6b35bf8c015e6f8d1ad4574f97ccbcef4cdf36b181fa9bf2c1550"
+    },
+    {
+     "from": "2020-03-01",
+     "units": 33,
+     "source_url": "https://lex.vs.ch/api/fr/texts_of_law/916.500/versions/2639",
+     "sha256": "0f0412f15290c40435477a7f8c34eba40808b2efa4b788afa3cbcd7bf4a90635"
+    },
+    {
+     "from": "2021-03-01",
+     "units": 33,
+     "source_url": "https://lex.vs.ch/api/fr/texts_of_law/916.500/versions/2870",
+     "sha256": "014f2408af8eff9b906597fdc27bc88990e7cce8b74a523616d92166c513538f"
+    },
+    {
+     "from": "2022-03-01",
+     "units": 33,
+     "source_url": "https://lex.vs.ch/api/fr/texts_of_law/916.500/versions/3016",
+     "sha256": "a100cd4a0a4b4c027335a90f03d9c94049e50c2b9d6f7fb7dcbfd9bbde7d88ce"
+    },
+    {
+     "from": "2023-03-01",
+     "units": 33,
+     "source_url": "https://lex.vs.ch/api/fr/texts_of_law/916.500/versions/3200",
+     "sha256": "50cfd036092fb3d0c59b4b7726fa6803e1f208bfa44d220fc52dbdd2aa4e921d"
+    },
+    {
+     "from": "2024-03-01",
+     "units": 33,
+     "source_url": "https://lex.vs.ch/api/fr/texts_of_law/916.500/versions/3296",
+     "sha256": "405bcfd87202d80936de32cb09bc0ba180260ebe81f3108f3df48b8870ec5160"
+    },
+    {
+     "from": "2025-03-01",
+     "units": 33,
+     "source_url": "https://lex.vs.ch/api/fr/texts_of_law/916.500/versions/3469",
+     "sha256": "1ef623929a47d5bd2595523586c1018960845262032cdbc989cb149769b15b10"
+    },
+    {
+     "from": "2026-04-01",
+     "units": 33,
+     "source_url": "https://lex.vs.ch/api/fr/texts_of_law/916.500",
+     "sha256": "955e73e9dd36f0ad2f6b5d8c5503a684ad5a8f2b3d6720e07208980d0fc71513"
+    }
+   ]
   }
  ]
 }
