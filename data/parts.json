@@ -752,6 +752,47 @@
     "946-1-aietc"
    ],
    "sha256": "db386b8779c598b85788b485fd29afec05674dbacc6667285e4ef33fcce5009d"
+  },
+  "77-q767-r2-21-gesetze-2.json": {
+   "acts": [
+    "642-1-lf"
+   ],
+   "sha256": "1bee27304394c4ade12345ee977d0bc85b4ad60349fce048e3519a8061fda295"
+  },
+  "77-q767-r2-40-verordnungen-1.json": {
+   "acts": [
+    "172-820-obdr-pp",
+    "172-830-obdr-ee",
+    "172-840-obdr-bl"
+   ],
+   "sha256": "597730a678e1f63036f286c9a5aa24b7037b2e03d4f7bf23ba36e15aff7e7a64"
+  },
+  "77-q767-r2-41-verordnungen-2.json": {
+   "acts": [
+    "211-700-ocgeo",
+    "400-101"
+   ],
+   "sha256": "0e8b8b4fc73c090662edf9546e141c41e0153be4f2e68821ae5e99f3ee87ce6f"
+  },
+  "77-q767-r2-42-verordnungen-3.json": {
+   "acts": [
+    "413-108",
+    "414-305"
+   ],
+   "sha256": "f360cb0c9616aaf6ff2b857daa5ff2fd37edd3982974083780434c8eba4d37ff"
+  },
+  "77-q767-r2-43-verordnungen-4.json": {
+   "acts": [
+    "611-102-ogfco",
+    "616-100"
+   ],
+   "sha256": "65d0ad8a14f950f7a434cb18fc5f11108ae0c763eb5d14b239a206b5d1cdaad5"
+  },
+  "77-q767-r2-46-verordnungen-7.json": {
+   "acts": [
+    "935-700-rfds"
+   ],
+   "sha256": "06ce35e4900d3b250e6632feac5c7a9c228d91d9a30c8f27f852a4b20b457251"
   }
  },
  "schema": 1

@@ -8,6 +8,12 @@ This file is written by the build on 2026-11-05, the day the source data was ret
 | --- | --- | --- | --- |
 | Canton du Valais: RS (LexWork) | <https://lex.vs.ch/> | 2026-10-30 | Laws and decrees are not protected by copyright (Art. 5 para. 1 let. a URG, SR 231.1). |
 | Canton du Valais: RS (LexWork) | <https://lex.vs.ch/> | 2026-11-05 | Laws and decrees are not protected by copyright (Art. 5 para. 1 let. a URG, SR 231.1). |
+| Canton du Valais: official systematic collection annexes | <https://lex.vs.ch/> | 2026-11-05 | Official enactments excluded from copyright under Art. 5 URG. |
+| Canton du Valais: official systematic collection annexes | <https://lex.vs.ch/> | 2026-11-05 | Official enactments excluded from copyright under Art. 5 URG. |
+| Canton du Valais: official systematic collection annexes | <https://lex.vs.ch/> | 2026-11-05 | Official enactments excluded from copyright under Art. 5 URG. |
+| Canton du Valais: official systematic collection annexes | <https://lex.vs.ch/> | 2026-11-05 | Official enactments excluded from copyright under Art. 5 URG. |
+| Canton du Valais: official systematic collection annexes | <https://lex.vs.ch/> | 2026-11-05 | Official enactments excluded from copyright under Art. 5 URG. |
+| Canton du Valais: official systematic collection annexes | <https://lex.vs.ch/> | 2026-11-05 | Official enactments excluded from copyright under Art. 5 URG. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -704,7 +710,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `935-54-corja` | Convention romande sur les jeux d'argent | 1 | 2021-01-01 to 2021-01-01 |
 | `946-1-aietc` | Accord intercantonal sur l'élimination des entraves techniques au commerce | 1 | 2003-10-28 to 2003-10-28 |
 
-The build made 1151 commits:
+The build made 1162 commits:
 
 | Commits | Kind |
 | ---: | --- |
@@ -728,7 +734,7 @@ When a law gives no date of its own, the default rule applies: Each version is d
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `f6a7a3389a99c4ab6610055973c5dd4584579513c93d128a2c3f48fda1c61612` (18750701 bytes).
+- Corpus: sha256 `fe0dea24b3e522b118530e11683d706e9e603eafdcbdc6c6c85b02a343f786b8` (21898867 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
@@ -736,7 +742,7 @@ When a law gives no date of its own, the default rule applies: Each version is d
 
 Not yet run for this build.
 
-A second build from the same corpus into an empty folder gave identical hashes for all 1147 history commits and 1700 tags (history tip `a40133972299dffacbb78ece14001d70a9c24414`).
+No second build of this corpus has been compared yet.
 
 ## Decisions made by hand
 
@@ -746,6 +752,17 @@ A second build from the same corpus into an empty folder gave identical hashes f
 - Annexes published only as separate PDF files are not included.
 - An act's first version is credited to its original enactment only when the change table shows no change in force before it; otherwise it is the oldest version available.
 - Current text of 182 RS entries absent from the published corpus, dated by each official selected version’s in-force date; first_law null. Source date is used for every act. Separately published PDF annexes are included where text is extractable. Normative images are deferred. RS 221.604 and 705.101 are held because their annex PDFs have corrupt embedded-font text.
+- 642-1-lf: separately published current textual annex; native PDF wording, actual border grid, cell widths, colspan and rowspan retained. Source https://lex.vs.ch/api/fr/versions/3446/annexes; SHA256 63b244ba51eac217419cc3e188c24de46a95af242fd4f077ba0cfe7a4d5105af. Earlier and future annexes are outside this correction.
+- 172-820-obdr-pp: separately published current textual annex; native PDF wording, actual border grid, cell widths, colspan and rowspan retained. Source https://lex.vs.ch/api/fr/versions/3035/annexes; SHA256 72ef94a1d30ca0ee9e854e4b8dabf73077051036bb8727b9bc32d59966dea167. Earlier and future annexes are outside this correction.
+- 172-830-obdr-ee: separately published current textual annex; native PDF wording, actual border grid, cell widths, colspan and rowspan retained. Source https://lex.vs.ch/api/fr/versions/2885/annexes; SHA256 e2fc5a67c7765ab4922643b9f5b6aa717420ac27b5824931a0fc36b2f9375472. Earlier and future annexes are outside this correction.
+- 172-840-obdr-bl: separately published current textual annex; native PDF wording, actual border grid, cell widths, colspan and rowspan retained. Source https://lex.vs.ch/api/fr/versions/3174/annexes; SHA256 aa02877a81929dca7eab8e03dbfef98cfbc7059b2f7d7fad2d076b53e88b1a2a. Earlier and future annexes are outside this correction.
+- 211-700-ocgeo: separately published current textual annex; native PDF wording, actual border grid, cell widths, colspan and rowspan retained. Source https://lex.vs.ch/api/fr/versions/3019/annexes; SHA256 a92c808156121c91d36d4ba592f0c7a9212b19ac08a1e875e40d0a33eba0322d. Earlier and future annexes are outside this correction.
+- 400-101: separately published current textual annex; native PDF wording, actual border grid, cell widths, colspan and rowspan retained. Source https://lex.vs.ch/api/fr/versions/2948/annexes; SHA256 63e03a1b197493fe2d7886e6c2c477d287ac41fbd8265f687ba1120c3f82faee. Earlier and future annexes are outside this correction.
+- 413-108: separately published current textual annex; native PDF wording, actual border grid, cell widths, colspan and rowspan retained. Source https://lex.vs.ch/api/fr/versions/2942/annexes; SHA256 b407f17172356b46e6cbc565bbfb6aeb8bbf86cc3c2585f8cc26265236846ce9. Earlier and future annexes are outside this correction.
+- 414-305: separately published current textual annex; native PDF wording, actual border grid, cell widths, colspan and rowspan retained. Source https://lex.vs.ch/api/fr/versions/3575/annexes; SHA256 cd7d95bf05613525f9f202b1ae1f7b9c4cf45d8f7642ec929acac003fa4fbce5. Earlier and future annexes are outside this correction.
+- 611-102-ogfco: separately published current textual annex; native PDF wording, actual border grid, cell widths, colspan and rowspan retained. Source https://lex.vs.ch/api/fr/versions/2858/annexes; SHA256 9adb6f1b06af22b0d3cedbb055c8affba5e521e2e51c1dade8f21ef3d5d89b9c. Earlier and future annexes are outside this correction.
+- 616-100: separately published current textual annex; native PDF wording, actual border grid, cell widths, colspan and rowspan retained. Source https://lex.vs.ch/api/fr/versions/3266/annexes; SHA256 f5d35fde77da6bfbe55b21533e284a336ca8bbd33730ed572df063658defc342. Earlier and future annexes are outside this correction.
+- 935-700-rfds: separately published current textual annex; native PDF wording, actual border grid, cell widths, colspan and rowspan retained. Source https://lex.vs.ch/api/fr/versions/3255/annexes; SHA256 7b64d7003eb0d4d7e2c1d9589082b07348beaae33b03a05968bd536cd5a8f291. Earlier and future annexes are outside this correction.
 
 ## What AI did and did not do
 
@@ -758,3 +775,9 @@ The commit messages are written by `build.py` from the source data.
 Model use at data-build time:
 - A model (Claude) wrote the fetch and parse code and chose which acts to include; it wrote no law text. Every word of law comes from the canton's own collection.
 - Model identified missing RS numbers and audited images; legal wording was extracted by code from official XHTML and PDF.
+- A model designed deterministic extraction and validation scripts. No legal wording was generated or corrected by a model.
+- A model designed deterministic extraction and validation scripts. No legal wording was generated or corrected by a model.
+- A model designed deterministic extraction and validation scripts. No legal wording was generated or corrected by a model.
+- A model designed deterministic extraction and validation scripts. No legal wording was generated or corrected by a model.
+- A model designed deterministic extraction and validation scripts. No legal wording was generated or corrected by a model.
+- A model designed deterministic extraction and validation scripts. No legal wording was generated or corrected by a model.

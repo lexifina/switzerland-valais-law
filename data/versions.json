@@ -2241,7 +2241,7 @@
     },
     {
      "from": "2026-01-01",
-     "units": 345,
+     "units": 346,
      "source_url": "https://lex.vs.ch/api/fr/texts_of_law/642.1",
      "sha256": "201effa1ea818f5f2d8b4fce6b48437810092b4512c8bd6f95e6d77545a19ce5"
     },
@@ -4439,7 +4439,7 @@
     },
     {
      "from": "2022-06-01",
-     "units": 12,
+     "units": 13,
      "source_url": "https://lex.vs.ch/api/fr/texts_of_law/172.820",
      "sha256": "84e337c82c7c2a386cc01bee73a9927cd916f72eccc8428aa1454299287ebddf"
     }
@@ -4453,7 +4453,7 @@
    "versions": [
     {
      "from": "2021-01-01",
-     "units": 7,
+     "units": 8,
      "source_url": "https://lex.vs.ch/api/fr/texts_of_law/172.830",
      "sha256": "877c74877126275bff9e91288a22f25fac1aea44c4e650cf27c36a5fa55964ef"
     }
@@ -4467,7 +4467,7 @@
    "versions": [
     {
      "from": "2023-01-01",
-     "units": 8,
+     "units": 9,
      "source_url": "https://lex.vs.ch/api/fr/texts_of_law/172.840",
      "sha256": "da919b284b89448bf007927194b9138e8b7a88b9719939c8ac4644bdc4e15aa9"
     }
@@ -5107,7 +5107,7 @@
    "versions": [
     {
      "from": "2022-07-01",
-     "units": 19,
+     "units": 20,
      "source_url": "https://lex.vs.ch/api/fr/texts_of_law/211.700",
      "sha256": "765960c3d8e979f1b9c0c6d6b9968888e2524540f702d9b48b308720b3330e9c"
     }
@@ -5515,7 +5515,7 @@
     },
     {
      "from": "2021-08-01",
-     "units": 11,
+     "units": 12,
      "source_url": "https://lex.vs.ch/api/fr/texts_of_law/400.101",
      "sha256": "964d3677bbcc030fd8cc10f9dc7dbe656f18a04732dbecd175186c5c020a4202"
     }
@@ -6299,7 +6299,7 @@
     },
     {
      "from": "2021-08-01",
-     "units": 42,
+     "units": 43,
      "source_url": "https://lex.vs.ch/api/fr/texts_of_law/413.108",
      "sha256": "e91aa4b54f605220cb39645174a0062eddec6272c674be367d79d5ee07045204"
     }
@@ -6511,7 +6511,7 @@
     },
     {
      "from": "2022-09-01",
-     "units": 42,
+     "units": 43,
      "source_url": "https://lex.vs.ch/api/fr/texts_of_law/414.305",
      "sha256": "4bdee0d94d8d074e77c12799dca46922c34cd12ded912dbf89119d8b6694a135"
     }
@@ -7567,7 +7567,7 @@
     },
     {
      "from": "2021-03-01",
-     "units": 99,
+     "units": 100,
      "source_url": "https://lex.vs.ch/api/fr/texts_of_law/611.102",
      "sha256": "52fa9944c24a17c5cbd9c6cee39f8d6a82ac7222b68ea26135a8113b778b13d8"
     }
@@ -7669,7 +7669,7 @@
     },
     {
      "from": "2023-09-01",
-     "units": 21,
+     "units": 22,
      "source_url": "https://lex.vs.ch/api/fr/texts_of_law/616.100",
      "sha256": "3cccf0e21cfbab860d930764308f387e4ff596f84efa7e04d7551fbbc0a972fb"
     }
@@ -10473,7 +10473,7 @@
     },
     {
      "from": "2023-12-01",
-     "units": 28,
+     "units": 29,
      "source_url": "https://lex.vs.ch/api/fr/texts_of_law/935.700",
      "sha256": "cd1a08e7c7429ca7a4b92202230313f81bfee10d3ee41d6d3da065a229ab167a"
     }
