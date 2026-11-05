@@ -14,6 +14,7 @@ This file is written by the build on 2026-11-05, the day the source data was ret
 | Canton du Valais: official systematic collection annexes | <https://lex.vs.ch/> | 2026-11-05 | Official enactments excluded from copyright under Art. 5 URG. |
 | Canton du Valais: official systematic collection annexes | <https://lex.vs.ch/> | 2026-11-05 | Official enactments excluded from copyright under Art. 5 URG. |
 | Canton du Valais: official systematic collection annexes | <https://lex.vs.ch/> | 2026-11-05 | Official enactments excluded from copyright under Art. 5 URG. |
+| Canton du Valais: RS (LexWork) | <https://lex.vs.ch/> | 2026-11-05 | Laws and decrees are not protected by copyright (Art. 5 para. 1 let. a URG, SR 231.1). |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -710,7 +711,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `935-54-corja` | Convention romande sur les jeux d'argent | 1 | 2021-01-01 to 2021-01-01 |
 | `946-1-aietc` | Accord intercantonal sur l'élimination des entraves techniques au commerce | 1 | 2003-10-28 to 2003-10-28 |
 
-The build made 1162 commits:
+The build made 1164 commits:
 
 | Commits | Kind |
 | ---: | --- |
@@ -721,7 +722,7 @@ The build made 1162 commits:
 Other counts:
 - 4 commits on the branch `futur`: laws not yet in force on 2026-11-05.
 - 24 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 1169 laws in the record.
+- 1170 laws in the record.
 - 1701 tags.
 
 ## Dates
@@ -734,7 +735,7 @@ When a law gives no date of its own, the default rule applies: Each version is d
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `fe0dea24b3e522b118530e11683d706e9e603eafdcbdc6c6c85b02a343f786b8` (21898867 bytes).
+- Corpus: sha256 `2c8c944f116d1f582b2bc500ddc3d0b0a279b0a732c606b469c1d73defc48090` (22048788 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
@@ -763,6 +764,7 @@ No second build of this corpus has been compared yet.
 - 611-102-ogfco: separately published current textual annex; native PDF wording, actual border grid, cell widths, colspan and rowspan retained. Source https://lex.vs.ch/api/fr/versions/2858/annexes; SHA256 9adb6f1b06af22b0d3cedbb055c8affba5e521e2e51c1dade8f21ef3d5d89b9c. Earlier and future annexes are outside this correction.
 - 616-100: separately published current textual annex; native PDF wording, actual border grid, cell widths, colspan and rowspan retained. Source https://lex.vs.ch/api/fr/versions/3266/annexes; SHA256 f5d35fde77da6bfbe55b21533e284a336ca8bbd33730ed572df063658defc342. Earlier and future annexes are outside this correction.
 - 935-700-rfds: separately published current textual annex; native PDF wording, actual border grid, cell widths, colspan and rowspan retained. Source https://lex.vs.ch/api/fr/versions/3255/annexes; SHA256 7b64d7003eb0d4d7e2c1d9589082b07348beaae33b03a05968bd536cd5a8f291. Earlier and future annexes are outside this correction.
+- RS 916.142: BO/Abl. 34/2017 amendment adopted 9 August 2017 and effective retrospectively from 1 August 2017, as stated in the official modification table. An act-specific amendment key preserves the different adoption date used by other acts in the same gazette issue. All five version texts and dates are retained.
 
 ## What AI did and did not do
 
@@ -781,3 +783,4 @@ Model use at data-build time:
 - A model designed deterministic extraction and validation scripts. No legal wording was generated or corrected by a model.
 - A model designed deterministic extraction and validation scripts. No legal wording was generated or corrected by a model.
 - A model designed deterministic extraction and validation scripts. No legal wording was generated or corrected by a model.
+- Model audited official date metadata; no legal wording was written or changed.

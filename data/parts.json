@@ -793,6 +793,12 @@
     "935-700-rfds"
    ],
    "sha256": "06ce35e4900d3b250e6632feac5c7a9c228d91d9a30c8f27f852a4b20b457251"
+  },
+  "78-q875-date-sanity-a6.json": {
+   "acts": [
+    "916-142-ovv"
+   ],
+   "sha256": "6dbbc74f4a6752bb5d79276de5f2ebe0ea82323207877b136c81d9c03f4ce4ff"
   }
  },
  "schema": 1
