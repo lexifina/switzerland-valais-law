@@ -727,7 +727,7 @@ Other counts:
 - 4 commits on the branch `futur`: laws not yet in force on 2026-11-05.
 - 24 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 1180 laws in the record.
-- 1721 tags.
+- 1722 tags.
 
 ## Dates
 
@@ -745,7 +745,7 @@ When a law gives no date of its own, the default rule applies: Each version is d
 
 ## Checks
 
-Not yet run for this build.
+1279 versions of 692 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
 
 No second build of this corpus has been compared yet.
 
