@@ -1,5 +1,7 @@
 # Valais: law history in git
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is the law of Valais, Switzerland, which global-law reads at `switzerland/valais/acts/`.
+
 The law of the canton of Valais (Canton du Valais, Switzerland) as a git history. Earlier consolidated acts have an article per file and dated amendment commits; additional current-text acts use a single `texte.md` file, with a separate `annexe.md` when the official PDF has extractable text. Checking out a date gives the recorded text in force that day.
 
 It follows the shared design of [lexifina/global-law](https://github.com/lexifina/global-law), which places it at `ch-vs/`. The federal law is in [lexifina/switzerland-law](https://github.com/lexifina/switzerland-law).
