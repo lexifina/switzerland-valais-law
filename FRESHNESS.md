@@ -8,9 +8,9 @@ Wie global-law misst, wie aktuell jedes Land ist: [global-law FRESHNESS.md](http
 
 ### Valais: Systematische Sammlung (lex.vs.ch) · `switzerland/valais/acts`
 
-- Die amtliche Quelle zuletzt gelesen und jede Vorschrift hier mit ihr abgeglichen: **2026-11-25 08:10 UTC**.
+- Die amtliche Quelle zuletzt gelesen und jede Vorschrift hier mit ihr abgeglichen: **2026-11-26 07:05 UTC**.
 - Vorschriften hier: 692; aktuell gegenüber der Quelle: 692; an der Quelle geändert seit der Fassung hier: 0; nicht mehr an der Quelle: 0.
-- In diesem Lesen mit der Quelle verglichen: 105 der 692 Vorschriften hier; die übrigen wurden in diesem Lesen nicht verglichen (siehe die Anmerkung der Prüfung).
-- Nicht veröffentlicht: 2 (tritt später in Kraft: 2); ohne Grund: 0.
+- In diesem Lesen mit der Quelle verglichen: 110 der 692 Vorschriften hier; die übrigen wurden in diesem Lesen nicht verglichen (siehe die Anmerkung der Prüfung).
+- Nicht veröffentlicht: 0 (—); ohne Grund: 0.
 
 Im Einzelnen: [monitoring/](monitoring/README.md). Für Programme: [data/checks/latest.json](data/checks/latest.json).
