@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T07:21:03Z",
+ "generated": "2026-11-27T07:14:45Z",
  "latest": {
   "lexwork-valais|switzerland/valais/acts": {
    "attempt": 1,
@@ -23,14 +23,14 @@
     "repo": 692,
     "source_in_scope": 692
    },
-   "check_id": "ch-lexwork-valais-20261126T070014Z",
+   "check_id": "ch-lexwork-valais-20261127T065712Z",
    "commits": null,
    "corpus": "switzerland/valais/acts",
    "error": null,
-   "finished": "2026-11-26T07:05:05Z",
+   "finished": "2026-11-27T07:01:56Z",
    "flags": [
     {
-     "detail": "11 of 202 texts differ from the source",
+     "detail": "12 of 147 texts differ from the source",
      "flag": "verify-differ"
     }
    ],
@@ -42,7 +42,7 @@
     "changed": [],
     "removed": []
    },
-   "requests": 273,
+   "requests": 270,
    "runner": "lawwatch switzerland (08a05acd17)",
    "schema": "lexifina-check/1",
    "seen": {
@@ -52,7 +52,7 @@
    },
    "snapshot": "693 entries, 693 in force (lex.vs.ch)",
    "source": "lexwork-valais",
-   "started": "2026-11-26T07:00:14Z",
+   "started": "2026-11-27T06:57:12Z",
    "unexplained": 0,
    "update": {
     "left_for_next_check": 0,
@@ -67,26 +67,26 @@
    "verify": {
     "cycle_days": 7,
     "examples": [
+     "611.1 (611-1-lgcaf): 2017-09-01",
      "178.101 (178-101-rln): 2022-01-01",
      "312.0 (312-0-lacpp): 2018-01-01, 2021-01-01",
      "400.120 (400-120-rmftp): 2024-07-01",
      "400.200 (400-200-rcs): 2020-09-01",
      "411.101 (411-101): 2021-08-01",
      "160.5 (160-5-li): 2023-01-01",
-     "172.2 (172-2-lcpers): 2020-01-01",
-     "173.1 (173-1-loj): 2021-01-01"
+     "172.2 (172-2-lcpers): 2020-01-01"
     ],
     "held": 692,
     "method": "each act compared this check (110 of 692: a seventh of the held acts, every one within 7 days, and the acts this check wrote) read again from lex.vs.ch (the act document and each version by id); every version held here against the collection's XHTML of the same day, letters and digits (the builder's letters check, ch_cantons.letters_check, so how a parse splits the text into files does not count); and the corpus's newest version rendered by the builder (gitlaw_common) against the files at the tip of main. A difference is corrected by the next check's update when today's parse gives back the act's other held versions exactly; otherwise it is listed for a rebuild decision",
     "not_compared": {
-     "50-verify-495.json": 23,
-     "77-q767-r2-42-verordnungen-3.json": 2
+     "50-verify-495.json": 55,
+     "77-q767-r2-43-verordnungen-4.json": 2
     },
     "not_compared_why": "acts held from parts built by another route (not the collection's XHTML through the builder's parse), e.g. a verification pass or PDF annexes",
     "ok": false,
     "swept": 110,
-    "versions_checked": 202,
-    "versions_differ": 11
+    "versions_checked": 147,
+    "versions_differ": 12
    }
   }
  },
