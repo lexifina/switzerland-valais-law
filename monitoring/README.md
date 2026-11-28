@@ -6,18 +6,21 @@
 
 Wie global-law jedes Land beobachtet: [global-law monitoring/](https://github.com/lexifina/global-law/tree/main/monitoring). Diese Seite zeigt dasselbe nur für Valais: jedes Lesen einer amtlichen Quelle, wann, und was daraus folgte (Vorschriften hinzugefügt, geändert und entfernt). Maschinenlesbar in [data/checks/](../data/checks/) (JSON Lines, Schema `lexifina-check/1`), in `git log` als Commits mit `Kind: check` und Monat für Monat in [checks/](checks/).
 
-**Letzte Prüfung:** 2026-11-27 07:01 UTC, Valais: Systematische Sammlung (lex.vs.ch): 270 Adressen gelesen; 0 hinzugefügt, 0 geändert, 0 entfernt; keine Änderung; 0 nicht veröffentlicht, davon 0 ohne Grund. Hinweise: `verify-differ`.
+**Letzte Prüfung:** 2026-11-28 08:25 UTC, Valais: Systematische Sammlung (lex.vs.ch): 296 Adressen gelesen; 0 hinzugefügt, 0 geändert, 0 entfernt; keine Änderung; 0 nicht veröffentlicht, davon 0 ohne Grund. Hinweise: `verify-differ`.
 
 ## Quellen
 
 | Quelle | Ordner | Wie oft | Letzte erfolgreiche Prüfung | Letztes Ergebnis | Stand |
 | --- | --- | --- | --- | --- | --- |
-| [Valais: Systematische Sammlung (lex.vs.ch)](https://lex.vs.ch/) | `<act>/` | täglich | 2026-11-27 07:01 UTC | keine Änderung | beobachtet |
+| [Valais: Systematische Sammlung (lex.vs.ch)](https://lex.vs.ch/) | `<act>/` | täglich | 2026-11-28 08:25 UTC | keine Änderung | beobachtet |
 
 ## Die letzten 30 Tage
 
 | Beginn (UTC) | Quelle | Gelesen | Hinzugefügt | Geändert | Entfernt | Nicht veröffentlicht (ohne Grund) | Ergebnis | Commits |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- | ---: |
+| [2026-11-28 08:19](checks/2026-11.md#ch-lexwork-valais-20261128t081953z) | lexwork-valais | 296 | 0 | 0 | 0 | 0 (0) | keine Änderung `verify-differ` | — |
+| [2026-11-28 07:09](checks/2026-11.md#ch-lexwork-valais-20261128t070915z) | lexwork-valais | 0 | 0 | 0 | 0 | 0 (0) | die Prüfung ist fehlgeschlagen | — |
+| [2026-11-28 06:39](checks/2026-11.md#ch-lexwork-valais-20261128t063957z) | lexwork-valais | 0 | 0 | 0 | 0 | 0 (0) | die Prüfung ist fehlgeschlagen | — |
 | [2026-11-27 06:57](checks/2026-11.md#ch-lexwork-valais-20261127t065712z) | lexwork-valais | 270 | 0 | 0 | 0 | 0 (0) | keine Änderung `verify-differ` | — |
 | [2026-11-26 07:00](checks/2026-11.md#ch-lexwork-valais-20261126t070014z) | lexwork-valais | 273 | 0 | 0 | 0 | 0 (0) | keine Änderung `verify-differ` | — |
 | [2026-11-25 08:04](checks/2026-11.md#ch-lexwork-valais-20261125t080442z) | lexwork-valais | 322 | 0 | 0 | 0 | 2 (0) | keine Änderung `verify-differ` | — |
